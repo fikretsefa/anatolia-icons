@@ -1,0 +1,27 @@
+/* Bu dosya otomatik üretilir (scripts/build-react.mjs). Elle düzenlemeyin. */
+
+import * as React from 'react';
+import type { IconProps } from '../../types';
+
+/**
+ * HayatAgaciIcon SVG ikon bileşeni.
+ * @remarks SVGR pipeline tarafından üretilir; size, color, title ve className destekler.
+ */
+export const HayatAgaciIcon = React.forwardRef<SVGSVGElement, IconProps>(({
+  size = 24,
+  color,
+  title,
+  titleId,
+  className,
+  ...props
+}, ref) => <svg data-anatolia-icons="https://github.com/fikretsefa/anatolia-icons" xmlns="http://www.w3.org/2000/svg" xmlSpace="preserve" style={{
+  fillRule: "evenodd",
+  clipRule: "evenodd",
+  strokeLinejoin: "round"
+}} viewBox="0 0 53 97" width={size} height={size} color={color} className={className} role="img" ref={ref} aria-labelledby={titleId} {...props}>{title ? <title id={titleId}>{title}</title> : null}<path d="M654.5 819.14c4.67 4.5 9.33 8.99 14 13.48 3.67-3.49 7.33-6.99 11-10.49 4 3.53 8 7.07 12 10.61 4.67-4.47 9.33-8.94 14-13.41.33 2.59.87 6.34.1 8.9-.71 2.39-4.5 4.93-6.29 6.6a292 292 0 0 0-13.61 13.67l4.8 5.28c5-4.77 10-9.55 15-14.33.23 2.66.97 7.11-.01 9.62-.73 1.89-4.02 4.03-5.48 5.45-4.77 4.64-10.97 9.31-14.37 14.98 1.62 1.56 3.24 3.11 4.86 4.67l15-14.49c.33 2.78 1.03 6.73.02 9.44-.97 2.6-4.84 5.2-6.83 7.06-4.52 4.23-9.35 8.61-13.37 13.32l5.18 4.85c5-4.71 10-9.43 15-14.14.2 2.64 1 7.13-.21 9.57-1.36 2.74-5.4 5.26-7.52 7.48-5.7 5.99-11.67 11.68-17.27 17.77-6.64-3.26-13.63-12.58-19.09-17.94-2.06-2.02-6.3-4.98-7.22-7.76-.89-2.73-.12-6.68.31-9.4 5 4.82 10 9.65 15 14.48 1.41-1.64 2.82-3.27 4.23-4.91-3.96-4.86-8.85-9.01-13.24-13.47-1.8-1.83-5.21-4.41-6.13-6.82-1.08-2.8-.31-6.69.14-9.52 5 4.71 10 9.41 15 14.12 1.36-1.44 2.72-2.87 4.08-4.31-4.03-6.55-11.03-11.68-16.31-17.26-.86-.91-2.39-1.88-2.88-3.05-1.18-2.79-.44-7.21.11-10.04 5 4.81 10 9.61 15 14.42 1.4-1.36 2.8-2.71 4.21-4.07-2.9-5.97-9.69-10.7-14.36-15.38-1.56-1.56-4.53-3.61-5.19-5.77-.83-2.72-.2-6.55.34-9.21Z" style={{
+    fill: "#ef792b",
+    stroke: "#ef792b",
+    strokeWidth: ".25px"
+  }} transform="translate(-653.634 -819.015)" /></svg>);
+
+HayatAgaciIcon.displayName = 'HayatAgaciIcon';

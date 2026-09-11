@@ -1,0 +1,21 @@
+/* Bu dosya otomatik üretilir (scripts/build-react.mjs). Elle düzenlemeyin. */
+
+import * as React from 'react';
+import type { IconProps } from '../../types';
+
+/**
+ * ArtukluIcon SVG ikon bileşeni.
+ * @remarks SVGR pipeline tarafından üretilir; size, color, title ve className destekler.
+ */
+export const ArtukluIcon = React.forwardRef<SVGSVGElement, IconProps>(({
+  size = 24,
+  color,
+  title,
+  titleId,
+  className,
+  ...props
+}, ref) => <svg data-anatolia-icons="https://github.com/fikretsefa/anatolia-icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 259.86 237.89" width={size} height={size} color={color} className={className} role="img" ref={ref} aria-labelledby={titleId} {...props}>{title ? <title id={titleId}>{title}</title> : null}<path d="M239.07 124.72v10.4h-10.4v-52h10.4v41.57Zm-20.79 0h10.39v10.4h-10.39Zm0 0v10.4h-10.39v-52h10.39v41.57Zm10.39 20.79h10.4v10.39h-10.4Zm-10.39 0h10.39v10.39h-10.39Zm-10.39 0h10.39v10.39H187.1V83.15h10.39v62.36Zm-72.77 0v10.39h-31.18v-52h10.4v41.57h10.39v-41.53h10.39zm-41.57 0v10.39h-10.4V83.15h52v10.39h-41.6v52Zm-20.79-41.57h7.47v10.39h-7.47v41.57H62.37v-52Zm-41.58 20.78h10.4v-10.39H20.79V83.15h10.39v20.79H52v52H20.79v-31.22Zm10.4 10.4h-10.4v10.39h10.4Zm31.18-52h10.39v10.42H41.58V83.15h31.18Zm166.31-20.76v10.4h-10.4v-52h10.4zm-20.79-41.57h10.39v10.39h-10.39Zm0 41.57v10.4h-10.39v-52h10.39zm-20.79 0v10.4H187.1v-52h10.39zM187.1 0h10.39v10.39H187.1Zm-31.19 62.36h10.4V52h-10.4Zm10.4 10.4h-20.79V41.57h20.79V10.39H10.39v157.55h239.07V10.39h-41.57V0h52v178.34H0V0h176.7v72.76Zm-31.19-10.4v10.4h-10.39v-52h31.18v10.42h-20.79zM93.55 52v10.36h10.39V52Zm-10.4 10.36V41.57h20.79V31.18H83.15V20.79h31.19v52H83.15Zm-10.39 0v10.4H62.37V31.18H52v41.58H41.58v-52h31.18zm-41.58 10.4v10.39H20.79V20.79h20.79v10.39h-10.4zM0 188.73h7v7H0Zm21.07 35.11v14H0v-35.06h7v28.09h7v-28.09h7v21.06Zm-7-35.11h7v7h-7Zm42.13 0h7v7h-7Zm7 28.09v7h-7v-21.04h7v14Zm28.09 0-7 7h-7l-7-7v-28.09h7v28.09h7v-28.09h7zm21.07-14v-7h-7v7Zm0 14h7v7H98.32v-35.09h21.07v21.07h-14v7Zm21.07 0v7h-7v-35.09h21.07v7h-14v21.07Zm21.07-14h7v7h-14.02v7h14.05v21.07H42.14v-42.14h-7v42.14h-7v-49.16h21.02v42.14h105.35v-7h-14v-21.09h14Zm21.07 21.06v14h-7v-21.06h7Zm-7-21.06h7v7h-7Zm42.14 14v-7h-7v7Zm7 14.05h21.07v-7h-14v-21.09h21.07v7h-14.09v7h14.05v21.07h-49.17v-35.07h21.07v21.06h-14v7h14Zm21.07-42.14h7v7h-56.16v42.14h-7v-42.12h-28.11v-7h84.27Zm14.05 0h7v7h-7Zm7 35.11v14h-7v-35.06h7zM161.26 121l-5.35-3.91v38.81h-10.39V83.15h10.39v20.79l5.23 3.61 5.17-3.61V83.15h10.39v27.21l-5.75 4 5.74 4v37.6h-10.38v-31.24Z" style={{
+    fill: "#901860"
+  }} /></svg>);
+
+ArtukluIcon.displayName = 'ArtukluIcon';

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: visioncortex VTracer 0.6.12 -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="175" height="175">
+<path d="M0 0 C0.113 6.111 -0.104 11.952 -1 18 C-2.98 18.66 -4.96 19.32 -7 20 C-6.831 20.34 -6.831 20.34 -5.977 22.062 C-0.866 33.171 2.152 46.082 -2 58 C-5.506 67.385 -12.09 74.487 -21 79 C-27.785 81.262 -35.802 81.155 -42.516 78.73 C-45.424 77.258 -48.213 75.689 -51 74 C-52.327 73.32 -53.657 72.648 -55 72 C-55.364 72.508 -55.727 73.016 -56.102 73.539 C-59.431 78.098 -62.818 82.198 -67 86 C-67.66 86 -68.32 86 -69 86 C-69.33 83.525 -69.33 83.525 -71 71 C-72.114 72.031 -73.227 73.062 -74.375 74.125 C-81.923 80.733 -89.31 85.454 -99.504 85.27 C-107.218 84.437 -113.042 80.917 -118.242 75.285 C-125.392 65.991 -126.896 56.482 -126 45 C-125.036 39.577 -123.519 34.289 -122 29 C-121.622 27.675 -121.245 26.349 -120.867 25.023 C-120.581 24.026 -120.295 23.028 -120 22 C-121.155 21.381 -122.31 20.763 -123.5 20.125 C-125.937 18.401 -126.87 17.608 -127.5 14.652 C-127.5 10.044 -126.95 5.511 -126 1 C-121.979 2.283 -118.163 3.777 -114.312 5.5 C-105.727 9.058 -98.048 10.127 -88.773 10.094 C-87.957 10.092 -87.141 10.09 -86.299 10.088 C-75.901 10.03 -65.51 9.692 -55.119 9.31 C-52.823 9.228 -50.526 9.152 -48.229 9.081 C-17.445 8.131 -17.445 8.131 -3.012 0.988 C-1 0 -1 0 0 0 Z M-87 27 C-83.873 31.501 -80.583 35.512 -76.625 39.312 C-71.725 44.071 -67.855 49.381 -64 55 C-60.867 52.074 -58.608 49.051 -56.312 45.438 C-52.816 40.085 -49.001 35.163 -44.883 30.277 C-43 28 -43 28 -41 25 C-73.514 24.587 -73.514 24.587 -87 27 Z M-24.688 31.5 C-24.904 31.748 -24.904 31.748 -26 33 C-25.845 33.382 -25.845 33.382 -25.062 35.312 C-22.811 41.009 -22.031 45.432 -24.25 51.312 C-26.125 54.191 -26.73 55.116 -30 56 C-35.713 56.461 -38.971 56.018 -44 53 C-44.99 54.65 -45.98 56.3 -47 58 C-42.635 61.956 -37.889 64.878 -31.883 65.066 C-27.585 64.669 -24.301 63.766 -21 61 C-16.232 54.652 -14.156 49.044 -15 41 C-16.124 36.904 -17.643 33.536 -20 30 C-23 30 -23 30 -24.688 31.5 Z M-106 32 C-106.65 33.415 -107.295 34.832 -107.938 36.25 C-108.297 37.039 -108.657 37.828 -109.027 38.641 C-111.86 45.511 -112.2 53.462 -109.812 60.5 C-107.08 64.269 -104.425 66.525 -100 68 C-93.525 68.777 -89.1 66.811 -84 63 C-82.298 61.057 -81.228 59.296 -80 57 C-80.66 56.01 -81.32 55.02 -82 54 C-84.525 55.082 -86.006 56.006 -87.875 58.062 C-90.637 60.581 -92.281 60.926 -96 61 C-101.335 59.051 -101.335 59.051 -103.152 56.18 C-105.888 49.145 -103.716 41.693 -101 35 C-102.65 34.01 -104.3 33.02 -106 32 Z " fill="#1A1C8A" transform="translate(151,44)"/>
+<path d="M0 0 C-2.663 2.663 -4.653 2.944 -8.359 3.098 C-9.148 3.086 -9.937 3.074 -10.75 3.062 C-11.549 3.053 -12.348 3.044 -13.172 3.035 C-13.775 3.024 -14.378 3.012 -15 3 C-15 2.67 -15 2.34 -15 2 C-12.36 2 -9.72 2 -7 2 C-7 1.34 -7 0.68 -7 0 C-3.99 -0.934 -3.133 -1.044 0 0 Z " fill="#7476B5" transform="translate(64,126)"/>
+<path d="M0 0 C5.75 1.75 5.75 1.75 8 4 C7.051 3.979 6.102 3.959 5.125 3.938 C2 4 2 4 0 5 C0 3.35 0 1.7 0 0 Z " fill="#5557A5" transform="translate(25,45)"/>
+<path d="M0 0 C0.33 0 0.66 0 1 0 C1 2.31 1 4.62 1 7 C-0.98 7.66 -2.96 8.32 -5 9 C-4.67 8.01 -4.34 7.02 -4 6 C-1.938 5.312 -1.938 5.312 0 5 C0 3.35 0 1.7 0 0 Z " fill="#5557A5" transform="translate(149,55)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+<path d="" fill="#F4F4F7" transform="translate(0,0)"/>
+</svg>

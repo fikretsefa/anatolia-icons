@@ -1,0 +1,41 @@
+/* Bu dosya otomatik üretilir (scripts/build-react.mjs). Elle düzenlemeyin. */
+
+import * as React from 'react';
+import type { IconProps } from '../../types';
+
+/**
+ * SultangaziBelIcon SVG ikon bileşeni.
+ * @remarks SVGR pipeline tarafından üretilir; size, color, title ve className destekler.
+ */
+export const SultangaziBelIcon = React.forwardRef<SVGSVGElement, IconProps>(({
+  size = 24,
+  color,
+  title,
+  titleId,
+  className,
+  ...props
+}, ref) => <svg data-anatolia-icons="https://github.com/fikretsefa/anatolia-icons" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" viewBox="0 0 146.14 87.24" width={size} height={size} color={color} className={className} role="img" ref={ref} aria-labelledby={titleId} {...props}>{title ? <title id={titleId}>{title}</title> : null}<defs><linearGradient id="sultangazi-bel__linear-gradient" x1={641.48} x2={642.48} y1={319.19} y2={319.19} gradientTransform="matrix(0 28.03 28.03 0 -8874.84 -17957.22)" gradientUnits="userSpaceOnUse"><stop offset={0} stopColor="#005fa2" /><stop offset={1} stopColor="#009ee2" /></linearGradient><linearGradient xlinkHref="#sultangazi-bel__linear-gradient" id="sultangazi-bel__linear-gradient-2" x1={641.48} x2={642.48} y1={319.19} y2={319.19} gradientTransform="matrix(0 28.03 28.03 0 -8859.16 -17957.15)" /><linearGradient xlinkHref="#sultangazi-bel__linear-gradient" id="sultangazi-bel__linear-gradient-3" x1={641.48} x2={642.48} y1={319.19} y2={319.19} gradientTransform="matrix(0 28.03 28.03 0 -8890.45 -17957.15)" /><linearGradient xlinkHref="#sultangazi-bel__linear-gradient" id="sultangazi-bel__linear-gradient-4" x1={626.8} x2={627.8} y1={355.08} y2={355.08} gradientTransform="matrix(41.44 0 0 -41.44 -25972.63 14778.6)" /><linearGradient xlinkHref="#sultangazi-bel__linear-gradient" id="sultangazi-bel__linear-gradient-5" x1={669.33} x2={670.33} y1={346.16} y2={346.16} gradientTransform="matrix(-41.44 0 0 41.44 27881.06 -14322.36)" /><clipPath id="sultangazi-bel__clip-path"><path d="M62 43.25a11.09 11.09 0 0 0 22.17.08v-.16a11.09 11.09 0 0 0-22.17.08" className="sultangazi-bel__cls-1" /></clipPath><clipPath id="sultangazi-bel__clip-path-2"><path d="M74.19 21.06c0 3.22 2 5.51 7.55 9s9 7.82 9 13.23c0 8.48-9.24 15.35-17.69 19.24 17.27 0 31.28-8.62 31.28-19.25 0-5.88-4.27-11.35-11.86-15.12-1.77-.88-4.7-2.2-7.37-3.29-3.87-1.58-6.13-3.22-6.13-6A4.19 4.19 0 0 1 81.64 15a7 7 0 0 0-1.19-.1 6.26 6.26 0 0 0-6.26 6.2" className="sultangazi-bel__cls-1" /></clipPath><clipPath id="sultangazi-bel__clip-path-3"><path d="M64.43 15a4.19 4.19 0 0 1 2.68 3.89c0 2.76-2.26 4.4-6.13 6-2.67 1.09-5.6 2.41-7.38 3.29-7.6 3.71-11.85 9.18-11.85 15.06 0 10.63 14 19.25 31.28 19.25-8.45-3.89-17.7-10.76-17.7-19.24 0-5.41 3.52-9.81 9-13.23s7.55-5.74 7.55-9a6.26 6.26 0 0 0-6.26-6.2 7 7 0 0 0-1.19.1" className="sultangazi-bel__cls-1" /></clipPath><clipPath id="sultangazi-bel__clip-path-4"><path d="M0 86.65s11.21-22.89 41.44-34.21a13.36 13.36 0 0 1-2.94-8.15v-.37C6.49 59.66 0 86.65 0 86.65" className="sultangazi-bel__cls-1" /></clipPath><clipPath id="sultangazi-bel__clip-path-5"><path d="M104.7 34.21a13.38 13.38 0 0 1 2.94 8.15v.37C139.64 27 146.14 0 146.14 0s-11.21 22.89-41.44 34.21" className="sultangazi-bel__cls-1" /></clipPath><style>{".sultangazi-bel__cls-1{fill:none}.sultangazi-bel__cls-2{fill:#f7941e}"}</style></defs><g id="sultangazi-bel__Layer_2"><g id="sultangazi-bel__Layer_1-2"><path d="M43.14 54.38C15.3 63 0 86.65 0 86.65s19.32-23 47.14-29.08a24 24 0 0 1-4-3.19" className="sultangazi-bel__cls-2" /><g style={{
+        clipPath: "url(#sultangazi-bel__clip-path)"
+      }}><path d="M61.95 32.16h22.17v22.17H61.95z" style={{
+          fill: "url(#sultangazi-bel__linear-gradient)"
+        }} /></g><g style={{
+        clipPath: "url(#sultangazi-bel__clip-path-2)"
+      }}><path d="M73.03 14.86h31.28V62.5H73.03z" style={{
+          fill: "url(#sultangazi-bel__linear-gradient-2)"
+        }} /></g><g style={{
+        clipPath: "url(#sultangazi-bel__clip-path-3)"
+      }}><path d="M41.75 14.86h31.28V62.5H41.75z" style={{
+          fill: "url(#sultangazi-bel__linear-gradient-3)"
+        }} /></g><path d="m41 68.25-1 1.43a4.5 4.5 0 0 0-2.31-.76 1.44 1.44 0 0 0-1 .33 1 1 0 0 0-.39.81.8.8 0 0 0 .24.61 2.2 2.2 0 0 0 .86.39l1.2.33a2.91 2.91 0 0 1 2.5 3 3 3 0 0 1-1.1 2.37 4.52 4.52 0 0 1-3 .91 6.7 6.7 0 0 1-3.38-.9l.75-1.55a6 6 0 0 0 2.72.8c1.16 0 1.74-.46 1.74-1.36 0-.61-.43-1-1.3-1.28l-1.1-.3a2.73 2.73 0 0 1-2.36-2.76 2.8 2.8 0 0 1 1-2.21 3.8 3.8 0 0 1 2.57-.85 5.5 5.5 0 0 1 3.3 1m1.94-.71h2v6.51a2.9 2.9 0 0 0 .17 1.19 1.39 1.39 0 0 0 1.35.68c.92 0 1.42-.38 1.51-1.15a9 9 0 0 0 0-.89v-6.34h2v6.67a5.7 5.7 0 0 1-.16 1.56 2.48 2.48 0 0 1-1.18 1.35 4.37 4.37 0 0 1-2.18.51 4.8 4.8 0 0 1-2-.4 2.7 2.7 0 0 1-1.25-1.12 3.5 3.5 0 0 1-.32-1.67Zm9.46 0h2.04v8.25h3.55l-.35 1.66h-5.24zm-1.57 16.68V86h.87a1 1 0 0 0 .61-.15.89.89 0 0 0 .35-.77 1.1 1.1 0 0 0-.13-.51.6.6 0 0 0-.35-.29 2 2 0 0 0-.52-.06Zm0-2.61v1.52h.79a1.6 1.6 0 0 0 .54-.07.62.62 0 0 0 .27-.3.8.8 0 0 0 .11-.39c0-.51-.31-.76-.94-.76Zm-1.31-1.13h2.24a2.48 2.48 0 0 1 1.6.51 1.46 1.46 0 0 1 .54 1.18 1.37 1.37 0 0 1-1.05 1.44 1.62 1.62 0 0 1 1.31 1.66 1.8 1.8 0 0 1-.48 1.29 1.8 1.8 0 0 1-1.25.54h-2.93Zm5.8 0v6.61h3.85v-1.14h-2.5v-1.77h1.87v-1.08h-1.89v-1.53h2.26l.17-1.09zm2.8-12.94h7.14l-.33 1.66h-2.36v8.25h-2.03v-8.25h-2.42zm10.16 5.9h1.94c-.12-.38-.3-1-.54-2 0-.11-.16-.69-.4-1.76l-.47 1.91c-.15.62-.33 1.23-.53 1.84m0-5.93h2.15l3.12 9.93h-2.15l-.69-2.35h-2.91L67 77.45h-2Zm6.35.04h2.2l1.9 4a17 17 0 0 1 1.08 2.81c-.09-1.06-.14-2-.15-2.72v-4h1.9v9.91h-2.13l-1.7-3.79C77 72.05 76.5 71 76.33 70.42c0 .58.08 1.51.1 2.81l.06 4.23h-1.92Zm16.24.99-1.06 1.24a3.13 3.13 0 0 0-2.06-.78 1.91 1.91 0 0 0-1.73.88 5.6 5.6 0 0 0-.54 2.8A4.5 4.5 0 0 0 86 75.3a1.93 1.93 0 0 0 1.71.77 2.44 2.44 0 0 0 1.12-.24v-2.25h-1.5L87.08 72h3.83v4.73a6.46 6.46 0 0 1-3.29.88 4.12 4.12 0 0 1-3.25-1.35 5.35 5.35 0 0 1-1.18-3.62 5 5 0 0 1 2.06-4.5 4.2 4.2 0 0 1 2.41-.7 4.62 4.62 0 0 1 3.15 1.14m4.13 4.87h1.94c-.12-.38-.3-1-.54-2 0-.11-.16-.69-.4-1.76l-.47 1.91c-.15.62-.33 1.23-.53 1.84m0-5.93h2.15l3.12 9.93h-2.15l-.69-2.35h-2.91l-.7 2.35h-2.08Zm6.27.04h5.93V69l-3.68 6.2a5 5 0 0 1-.51.7c.41 0 .74-.06 1-.06h3.34l-.51 1.63h-6.19v-1.4l3.65-6c.18-.29.39-.59.61-.9a6 6 0 0 1-1 .08h-3Zm8.61-2.73a1.1 1.1 0 0 1 .82.34 1.18 1.18 0 0 1 .36.84 1.2 1.2 0 0 1-.34.84 1.16 1.16 0 0 1-.85.34 1.1 1.1 0 0 1-.82-.34 1.18 1.18 0 0 1-.35-.84 1.14 1.14 0 0 1 .35-.83 1.17 1.17 0 0 1 .85-.35m-1 2.73h2.08v9.91h-2.08ZM60.35 80.49v6.61h3.49l.23-1.1h-2.36v-5.51zm4.59 0v6.61h3.85v-1.14h-2.5v-1.77h1.87v-1.08h-1.89v-1.53h2.26l.17-1.09zm6.44 1.05V86h.71c.85 0 1.28-.69 1.28-2.07A3.7 3.7 0 0 0 73 82.1a1.11 1.11 0 0 0-1-.56ZM70 80.49h2.48a2.25 2.25 0 0 1 1.45.66 3.58 3.58 0 0 1 .9 2.63 3.8 3.8 0 0 1-.65 2.27 2.14 2.14 0 0 1-1.62 1H70Zm6.78-1.82a.74.74 0 0 1 .54.23.77.77 0 0 1 .23.56.8.8 0 0 1-.23.56.77.77 0 0 1-.56.23.75.75 0 0 1-.55-.23.8.8 0 0 1-.23-.56.75.75 0 0 1 .23-.55.78.78 0 0 1 .57-.24m-.7 1.82h1.38v6.61h-1.38Zm2.03 0h1.59l.85 1.81a7 7 0 0 1 .33.84l.35-.82.86-1.83h1.57l-2.12 3.89v2.72h-1.38v-2.72Zm6.02 6.61v-6.6h3.76l-.17 1.08h-2.26v1.53h1.89v1.08h-1.87v1.77h2.5v1.14zm9.5-6.1L93 82a3.06 3.06 0 0 0-1.54-.5 1 1 0 0 0-.66.21.68.68 0 0 0-.26.55.57.57 0 0 0 .16.41 1.7 1.7 0 0 0 .58.25l.79.22a1.94 1.94 0 0 1 1.68 2 2 2 0 0 1-.75 1.49 3 3 0 0 1-2 .61 4.4 4.4 0 0 1-2.25-.6l.49-1a4 4 0 0 0 1.81.54c.78 0 1.16-.3 1.16-.91 0-.41-.28-.69-.86-.85l-.73-.2a1.82 1.82 0 0 1-1.58-1.84 1.85 1.85 0 0 1 .66-1.47 2.52 2.52 0 0 1 1.71-.57 3.67 3.67 0 0 1 2.2.66m2.04-2.33a.74.74 0 0 1 .54.23.76.76 0 0 1 .22.56.77.77 0 0 1-.79.79.79.79 0 0 1-.77-.79.71.71 0 0 1 .23-.55.75.75 0 0 1 .57-.24m-.71 1.82h1.39v6.61h-1.39Z" style={{
+        fill: "#0080c7"
+      }} /><g style={{
+        clipPath: "url(#sultangazi-bel__clip-path-4)"
+      }}><path d="M0 43.92h41.44v42.73H0z" style={{
+          fill: "url(#sultangazi-bel__linear-gradient-4)"
+        }} /></g><path d="M103 32.27C130.83 23.64 146.14 0 146.14 0S126.82 23 99 29.08a24 24 0 0 1 4 3.19" className="sultangazi-bel__cls-2" /><g style={{
+        clipPath: "url(#sultangazi-bel__clip-path-5)"
+      }}><path d="M104.7 0h41.43v42.73H104.7z" style={{
+          fill: "url(#sultangazi-bel__linear-gradient-5)"
+        }} /></g></g></g></svg>);
+
+SultangaziBelIcon.displayName = 'SultangaziBelIcon';

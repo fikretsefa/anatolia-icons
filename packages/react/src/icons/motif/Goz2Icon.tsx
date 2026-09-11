@@ -1,0 +1,27 @@
+/* Bu dosya otomatik üretilir (scripts/build-react.mjs). Elle düzenlemeyin. */
+
+import * as React from 'react';
+import type { IconProps } from '../../types';
+
+/**
+ * Goz2Icon SVG ikon bileşeni.
+ * @remarks SVGR pipeline tarafından üretilir; size, color, title ve className destekler.
+ */
+export const Goz2Icon = React.forwardRef<SVGSVGElement, IconProps>(({
+  size = 24,
+  color,
+  title,
+  titleId,
+  className,
+  ...props
+}, ref) => <svg data-anatolia-icons="https://github.com/fikretsefa/anatolia-icons" xmlns="http://www.w3.org/2000/svg" xmlSpace="preserve" style={{
+  fillRule: "evenodd",
+  clipRule: "evenodd",
+  strokeLinejoin: "round"
+}} viewBox="0 0 93 93" width={size} height={size} color={color} className={className} role="img" ref={ref} aria-labelledby={titleId} {...props}>{title ? <title id={titleId}>{title}</title> : null}<path d="M896.16 642.5c-4.7 7.39-15.14 16.22-21.66 22.53-4.91 4.74-9.6 9.11-6 16.3h39.82v18.64h-10.49V691h-9.85v9.09h-10.86v-9.03h-9.64v8.92H856.8v-9.01h-9.56v9.04h-10.72v-8.94h-9.92v8.97h-10.45v-18.77h40.35c.36-2.75 1.12-6.64-.03-9.28-1.04-2.39-4.53-4.78-6.37-6.6-5.36-5.3-18.97-17.27-22.21-22.89l8.653-8.617 17.304-17.236 8.653-8.617zm-33.66-18.74-19.01 18.74 18.97 19 18.28-19c-6.08-6.25-12.16-12.49-18.24-18.74Z" style={{
+    fill: "#ef792b",
+    stroke: "#ef792b",
+    strokeWidth: ".25px"
+  }} transform="translate(-816.025 -607.905)" /></svg>);
+
+Goz2Icon.displayName = 'Goz2Icon';

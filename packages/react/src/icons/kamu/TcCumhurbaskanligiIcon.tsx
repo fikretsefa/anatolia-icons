@@ -1,0 +1,512 @@
+/* Bu dosya otomatik üretilir (scripts/build-react.mjs). Elle düzenlemeyin. */
+
+import * as React from 'react';
+import type { IconProps } from '../../types';
+
+/**
+ * TcCumhurbaskanligiIcon SVG ikon bileşeni.
+ * @remarks SVGR pipeline tarafından üretilir; size, color, title ve className destekler.
+ */
+export const TcCumhurbaskanligiIcon = React.forwardRef<SVGSVGElement, IconProps>(({
+  size = 24,
+  color,
+  title,
+  titleId,
+  className,
+  ...props
+}, ref) => <svg data-anatolia-icons="https://github.com/fikretsefa/anatolia-icons" xmlns="http://www.w3.org/2000/svg" xmlSpace="preserve" style={{
+  fillRule: "evenodd",
+  clipRule: "evenodd",
+  strokeLinejoin: "round",
+  strokeMiterlimit: 2
+}} viewBox="0 0 375 375" width={size} height={size} color={color} className={className} role="img" ref={ref} aria-labelledby={titleId} {...props}>{title ? <title id={titleId}>{title}</title> : null}<path d="M375 187.504C375 291.059 291.059 375 187.504 375 83.941 375 0 291.059 0 187.504 0 83.941 83.941 0 187.504 0 291.059 0 375 83.941 375 187.504" style={{
+    fill: "#dc1218",
+    fillRule: "nonzero"
+  }} /><path d="m351.75 199.875-8.984-12.371 8.984-12.363-16.977 12.328 16.977-12.328-14.539 4.722-8.984-12.363v-.008 15.289l-14.539 4.723 14.539 4.723v15.289l8.984-12.364-2.367-7.464 2.367 7.464zm-313.961-4.73 8.984 12.363v-15.289l-6.546-4.688 6.546 4.688 14.54-4.723-14.54-4.723v-15.289l-8.984 12.371 2.234 7.04-2.234-7.04-14.539-4.73 8.984 12.371-8.984 12.363 16.977-12.328-16.977 12.336zM196.715 27.574l-9.246 12.653 7.676-2.438 4.73-14.539-12.371 8.984-12.371-8.984 12.336 16.977z" style={{
+    fill: "#a2811e",
+    fillRule: "nonzero"
+  }} /><path d="M167.492 46.773h15.289l4.723 14.54 4.723-14.54h15.289l-12.371-8.984-7.676 2.438-12.336-16.977 4.722 14.539zM207.5 328.227h-15.281l-4.688 6.546 4.688-6.546-4.723-14.539-4.723 14.539h-15.289l12.364 8.984 6.566-2.086-6.566 2.086-4.723 14.539 12.371-8.984 12.363 8.984-4.183-5.746 4.183 5.746-4.722-14.539zm65.371-254.379 10.801 10.812-6.942 13.621.891-.902-.891.902 13.622-6.941 10.808 10.797v.011-.011l-2.383-15.086 13.61-6.942-20.762 3.231 20.762-3.231-15.094-2.39-2.395-15.106-6.941 13.621zh-.008zh-.008zM83.375 291.66l18.754 9.492-10.801-10.8 6.934-13.622zl14.887-14.93-13.614 6.93-10.808-10.797v-.011.011h-.008.008l2.383 15.094-13.621 6.941zl-20.773 3.238 15.105 2.383 2.395 15.098 6.933-13.613 15.102 2.386zM62.613 80.102l13.621 6.933-2.386 15.094v.008-.008L84.66 91.328l13.61 6.942-3.52-3.508 3.52 3.508-6.942-13.622 10.809-10.808h.011-.011l-15.094 2.394-6.941-13.621-2.383 15.094 2.941 2.969-2.941-2.969-15.098 2.395zm249.766 214.804-13.621-6.949 2.394-15.086v-.008.008l-10.812 10.801-13.61-6.942 6.93 13.622-10.797 10.808h-.011.011l15.086-2.383 6.942 13.61.007.011v-.011l2.383-15.094zh.008zm-2.531-179.742.007.012zl.007.012 5.852 14.117-11.633 9.926 15.246-1.196 5.852 14.122-1.625-21.028 1.641 1.949-1.641-1.949 1.625 21.028 3.562-14.872 15.235-1.195-7.93-1.93 7.93 1.93-13.028-7.988 3.571-14.863-11.621 9.929-13.036-7.98zM65.145 259.836v-.012l-5.852-14.117 11.621-9.926-15.234 1.203-5.852-14.129 1.625 21.028h-.008l-1.617-21.028-3.57 14.872-15.235 1.195 8.942 2.176-8.942-2.176 13.028 7.988-3.563 14.863 11.621-9.929zm48.082-219.348 9.929 11.621-7.98 13.036h-.012.012l14.109-5.852 9.934 11.633-1.203-15.246 14.129-5.852-21.028 1.625 2.078-1.754-2.078 1.754 21.028-1.625-14.872-3.57-1.195-15.227-1.965 8.078 1.965-8.086-7.988 13.036zm146.597 269.367-14.117 5.86-9.926-11.629 1.203 15.234-14.129 5.852 21.028-1.625-21.028 1.625 14.864 3.562 1.203 15.243 1.758-7.219-1.758 7.219 7.988-13.036 14.863 3.571-9.937-11.629zM222.875 49.84l14.117 5.848 6.836-4.262-6.836 4.262-1.203 15.238 8.039-19.5-8.039 19.5 9.934-11.633 14.121 5.852v.007-.007l-7.989-13.028 9.926-11.621h.008-.008l-14.859 3.57-3.094 7.36 3.094-7.36-7.992-13.035-1.196 15.235zl7.457.566zm-70.75 275.32-14.117-5.84 1.195-15.246-8.043 19.5 3.117-1.941-3.105 1.941h-.012l8.043-19.5-9.926 11.621-14.121-5.84v-.007.007l7.989 13.028-9.926 11.621h-.008.008l14.859-3.563 3.082-7.367-3.082 7.367 7.981 13.028h.011-.011l1.207-15.235zl-7.945-.601zM31.031 136.059l15.235 1.207 3.574 14.859.582-7.77-.582 7.77 5.84-14.117 15.246 1.195-19.5-8.031 19.5 8.031-11.633-9.926-7.867 1.895 7.867-1.895 5.852-14.113v-.008l-13.028 7.989-11.621-9.926 3.563 14.859 7.367 3.094-7.367-3.094zh-.008zM343.969 238.93l-15.246-1.196-3.563-14.859-.801 10.555.801-10.555-5.847 14.129 4.261 6.824-4.261-6.824-15.239-1.207 19.5 8.031-19.5-8.031 11.621 9.926-5.847 14.113v.008l13.035-7.989 11.621 9.926-3.57-14.859-7.36-3.094 7.36 3.094zM239.09 197.773l-51.586-10.269h-.008l51.594 10.258 53.609-10.258-53.601-10.258 26.14-21.933-34.015 2.976-43.727 29.207 43.734-29.215 30.657-45.168-45.16 30.657h-.008l2.976-34-21.941 26.16-6.934 34.863 6.934-34.871-10.258-53.621-10.258 53.609-21.945-26.156 32.203 77.742v.008l-32.203-77.75 2.98 34.016-45.16-30.649 30.657 45.16 39.464 26.375-39.472-26.375-34.02-2.976 26.153 21.941-53.594 10.258 53.621 10.258 51.574-10.258-51.594 10.269-26.16 21.942 71.992-29.817-71.992 29.817 34.02-2.977h.008l-30.657 45.149 45.16-30.649-.011.012-2.977 34.016 31.86-76.934-31.86 76.934 21.953-26.161v-.007l10.258 53.609 10.258-53.617v.008l21.953 26.16-2.98-34.02 45.16 30.649-42.504-42.504 42.504 42.504-30.649-45.149 34 2.977h.008z" style={{
+    fill: "#a2811e",
+    fillRule: "nonzero"
+  }} /><path d="m328.227 192.227 6.546-4.758-6.546 20.047z" style={{
+    fill: "#e7c928"
+  }} /><path d="m337.211 195.152-2.438-7.683-6.546 20.047z" style={{
+    fill: "#a2811e"
+  }} /><path d="m351.75 199.875-16.977-12.406 2.438 7.683z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m342.766 187.504-7.993-.035 16.977 12.406z" style={{
+    fill: "#b59319"
+  }} /><path d="m351.75 175.141-16.977 12.328 7.993.035z" style={{
+    fill: "#a2811e"
+  }} /><path d="m337.211 179.863-2.438 7.606 16.977-12.328z" style={{
+    fill: "#e7c928"
+  }} /><path d="m337.211 179.863-2.438 7.606-6.546-19.977z" style={{
+    fill: "#b59319"
+  }} /><path d="m328.227 167.5 6.546 19.969-6.546-4.688z" style={{
+    fill: "#e7c928"
+  }} /><path d="m328.227 182.781 6.546 4.688-21.085.035z" style={{
+    fill: "#ddb906"
+  }} /><path d="m313.688 187.504 21.085-.035-6.546 4.758z" style={{
+    fill: "#b59319"
+  }} /><path d="m46.773 182.773-6.546 4.75 6.546-20.039z" style={{
+    fill: "#a2811e"
+  }} /><path d="m37.789 179.855 2.438 7.676 6.546-20.047z" style={{
+    fill: "#e7c928"
+  }} /><path d="m23.25 175.125 16.977 12.398-2.438-7.668z" style={{
+    fill: "#ddb906"
+  }} /><path d="m32.234 187.496 7.993.035-16.977-12.406z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m23.25 199.859 16.977-12.328-7.993-.035z" style={{
+    fill: "#e7c928"
+  }} /><path d="m37.789 195.145 2.438-7.614-16.977 12.336z" style={{
+    fill: "#a2811e"
+  }} /><path d="m37.789 195.145 2.438-7.614 6.546 19.977z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m46.773 207.508-6.546-19.977 6.546 4.688z" style={{
+    fill: "#ddb906"
+  }} /><path d="m46.773 192.219-6.546-4.688 21.086-.035z" style={{
+    fill: "#b59319"
+  }} /><path d="m61.313 187.496-21.086.035 6.546-4.758z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m192.227 46.773-4.758-6.546 20.047 6.546z" style={{
+    fill: "#b59319"
+  }} /><path d="m195.145 37.789-7.676 2.438 20.047 6.546z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m199.875 23.25-12.406 16.977 7.676-2.438z" style={{
+    fill: "#a2811e"
+  }} /><path d="m187.504 32.234-.035 7.993 12.406-16.977z" style={{
+    fill: "#e7c928"
+  }} /><path d="m175.133 23.25 12.336 16.977.035-7.993z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m179.855 37.789 7.614 2.438-12.336-16.977z" style={{
+    fill: "#e7c928"
+  }} /><path d="m179.855 37.789 7.614 2.438-19.977 6.546z" style={{
+    fill: "#ddb906"
+  }} /><path d="m167.492 46.773 19.977-6.546-4.688 6.546z" style={{
+    fill: "#b59319"
+  }} /><path d="m182.781 46.773 4.688-6.546.035 21.086z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m187.504 61.313-.035-21.086 4.758 6.546z" style={{
+    fill: "#a2811e"
+  }} /><path d="m182.773 328.227 4.758 6.546-20.047-6.546z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m179.848 337.211 7.683-2.438-20.047-6.546z" style={{
+    fill: "#ddb906"
+  }} /><path d="m175.125 351.75 12.406-16.977-7.683 2.438z" style={{
+    fill: "#c8a211"
+  }} /><path d="m187.496 342.766.035-7.993-12.406 16.977z" style={{
+    fill: "#a2811e"
+  }} /><path d="m199.859 351.75-12.328-16.977-.035 7.993z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m195.137 337.211-7.614-2.438 12.336 16.977z" style={{
+    fill: "#b59319"
+  }} /><path d="m195.137 337.211-7.614-2.438 19.977-6.546z" style={{
+    fill: "#a2811e"
+  }} /><path d="m207.5 328.227-19.969 6.546 4.688-6.546z" style={{
+    fill: "#ddb906"
+  }} /><path d="m192.219 328.227-4.688 6.546-.035-21.085z" style={{
+    fill: "#a2811e"
+  }} /><path d="m187.496 313.688.035 21.085-4.758-6.546z" style={{
+    fill: "#e7c928"
+  }} /><path d="m290.352 91.34 1.273-8 9.535 18.808z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m298.777 87.051-7.16-3.711 9.543 18.808z" style={{
+    fill: "#b59319"
+  }} /><path d="m312.387 80.109-20.762 3.231 7.141 3.711z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m297.293 77.719-5.676 5.621 20.77-3.231z" style={{
+    fill: "#ddb906"
+  }} /><path d="m294.898 62.613-3.273 20.727 5.668-5.621z" style={{
+    fill: "#a2811e"
+  }} /><path d="m287.957 76.234 3.66 7.106 3.281-20.727z" style={{
+    fill: "#e7c928"
+  }} /><path d="m287.957 76.234 3.66 7.106-18.754-9.492z" style={{
+    fill: "#ddb906"
+  }} /><path d="m272.863 73.848 18.754 9.492-7.945 1.32z" style={{
+    fill: "#e7c928"
+  }} /><path d="m283.672 84.66 7.945-1.32-14.887 14.941z" style={{
+    fill: "#ddb906"
+  }} /><path d="m276.73 98.281 14.887-14.941-1.265 8z" style={{
+    fill: "#a2811e"
+  }} /><path d="m84.648 283.66-1.273 8-9.543-18.797z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m76.223 287.957 7.152 3.703-9.535-18.808z" style={{
+    fill: "#ddb906"
+  }} /><path d="m62.602 294.898 20.773-3.238-7.152-3.711z" style={{
+    fill: "#e7c928"
+  }} /><path d="m77.707 297.281 5.668-5.621-20.773 3.238z" style={{
+    fill: "#b59319"
+  }} /><path d="m80.102 312.379 3.273-20.719-5.668 5.621z" style={{
+    fill: "#ddb906"
+  }} /><path d="m87.035 298.766-3.66-7.106-3.273 20.727z" style={{
+    fill: "#a2811e"
+  }} /><path d="m87.035 298.766-3.66-7.106 18.762 9.492z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m102.129 301.152-18.754-9.492 7.953-1.308z" style={{
+    fill: "#b59319"
+  }} /><path d="m91.328 290.352-7.953 1.308 14.887-14.93z" style={{
+    fill: "#a2811e"
+  }} /><path d="m98.262 276.73-14.887 14.93 1.273-8z" style={{
+    fill: "#ddb906"
+  }} /><path d="m91.328 84.648-7.988-1.273 18.808-9.535z" style={{
+    fill: "#a2811e"
+  }} /><path d="m87.043 76.234-3.703 7.141 18.808-9.535z" style={{
+    fill: "#ddb906"
+  }} /><path d="m80.102 62.613 3.238 20.762 3.703-7.141z" style={{
+    fill: "#a2811e"
+  }} /><path d="m77.719 77.707 5.621 5.668-3.238-20.762z" style={{
+    fill: "#e7c928"
+  }} /><path d="m62.613 80.102 20.727 3.273-5.621-5.668z" style={{
+    fill: "#ddb906"
+  }} /><path d="m76.234 87.035 7.106-3.66-20.727-3.273z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m76.234 87.035 7.106-3.66-9.492 18.762z" style={{
+    fill: "#e7c928"
+  }} /><path d="m73.848 102.137 9.492-18.762 1.32 7.953z" style={{
+    fill: "#a2811e"
+  }} /><path d="m84.66 91.328-1.32-7.953L98.27 98.27z" style={{
+    fill: "#c8a20d"
+  }} /><path d="M98.27 98.27 83.34 83.375l7.988 1.273z" style={{
+    fill: "#b59319"
+  }} /><path d="m283.66 290.352 8 1.265-18.808 9.543z" style={{
+    fill: "#ddb906"
+  }} /><path d="m287.949 298.777 3.711-7.16-18.808 9.543z" style={{
+    fill: "#b59319"
+  }} /><path d="m294.898 312.398-3.238-20.781-3.711 7.149z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m297.281 297.293-5.621-5.676 3.238 20.781z" style={{
+    fill: "#a2811e"
+  }} /><path d="m312.379 294.906-20.719-3.289 5.621 5.676z" style={{
+    fill: "#b59319"
+  }} /><path d="m298.758 287.957-7.098 3.66 20.727 3.289z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m298.758 287.957-7.098 3.66 9.492-18.754z" style={{
+    fill: "#b59319"
+  }} /><path d="m301.152 272.863-9.492 18.754-1.32-7.945z" style={{
+    fill: "#e7c928"
+  }} /><path d="m290.34 283.672 1.32 7.945-14.93-14.887z" style={{
+    fill: "#ddb906"
+  }} /><path d="m276.73 276.73 14.93 14.887-8-1.265z" style={{
+    fill: "#e7c928"
+  }} /><path d="m319.32 138.023 4.227-6.906 1.625 21.028z" style={{
+    fill: "#ddb906"
+  }} /><path d="m328.734 137.273-5.187-6.156 1.625 21.028z" style={{
+    fill: "#a2811e"
+  }} /><path d="m343.969 136.078-20.422-4.961 5.187 6.156z" style={{
+    fill: "#b59319"
+  }} /><path d="m330.941 128.09-7.394 3.027 20.422 4.961z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m334.512 113.227-10.965 17.89 7.394-3.019z" style={{
+    fill: "#a2811e"
+  }} /><path d="m322.891 123.156.656 7.961 10.965-17.89z" style={{
+    fill: "#ddb906"
+  }} /><path d="m322.891 123.156.656 7.961-13.699-15.953z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m309.848 115.164 13.699 15.953-7.84-1.824z" style={{
+    fill: "#e7c928"
+  }} /><path d="m315.707 129.293 7.84 1.824-19.473 8.102z" style={{
+    fill: "#ddb906"
+  }} /><path d="m304.074 139.219 19.473-8.102-4.227 6.906z" style={{
+    fill: "#b59319"
+  }} /><path d="m55.68 236.984-4.227 6.899-1.625-21.028z" style={{
+    fill: "#a2811e"
+  }} /><path d="m46.258 237.727 5.187 6.156-1.617-21.028z" style={{
+    fill: "#e7c928"
+  }} /><path d="m31.023 238.922 20.43 4.961-5.195-6.156z" style={{
+    fill: "#ddb906"
+  }} /><path d="m44.051 246.91 7.394-3.027-20.422-4.961z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m40.488 261.773 10.965-17.89-7.402 3.027z" style={{
+    fill: "#e7c928"
+  }} /><path d="m52.109 251.844-.656-7.961-10.965 17.89z" style={{
+    fill: "#a2811e"
+  }} /><path d="m52.109 251.844-.656-7.961 13.692 15.953z" style={{
+    fill: "#b59319"
+  }} /><path d="m65.145 259.836-13.7-15.953 7.848 1.824z" style={{
+    fill: "#ddb906"
+  }} /><path d="m59.293 245.707-7.84-1.824 19.461-8.102z" style={{
+    fill: "#a2811e"
+  }} /><path d="m70.914 235.781-19.461 8.102 4.227-6.899z" style={{
+    fill: "#ddb906"
+  }} /><path d="m138.016 55.68-6.899-4.227 21.028-1.625z" style={{
+    fill: "#a2811e"
+  }} /><path d="m137.273 46.258-6.156 5.195 21.028-1.625z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m136.078 31.031-4.961 20.422 6.156-5.187z" style={{
+    fill: "#a2811e"
+  }} /><path d="m128.09 44.059 3.027 7.394 4.961-20.43z" style={{
+    fill: "#e7c928"
+  }} /><path d="m113.227 40.488 17.89 10.965-3.027-7.394z" style={{
+    fill: "#ddb906"
+  }} /><path d="m123.156 52.109 7.961-.656-17.89-10.965z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m123.156 52.109 7.961-.656-15.941 13.692z" style={{
+    fill: "#e7c928"
+  }} /><path d="m115.164 65.145 15.953-13.692-1.832 7.84z" style={{
+    fill: "#a2811e"
+  }} /><path d="m129.285 59.293 1.832-7.84 8.102 19.473z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m139.219 70.926-8.102-19.473 6.899 4.227z" style={{
+    fill: "#a2811e"
+  }} /><path d="m236.984 319.32 6.899 4.227-21.028 1.625z" style={{
+    fill: "#ddb906"
+  }} /><path d="m237.719 328.734 6.164-5.187-21.028 1.625z" style={{
+    fill: "#b59319"
+  }} /><path d="m238.922 343.977 4.961-20.43-6.164 5.187z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m246.91 330.941-3.027-7.394-4.961 20.43z" style={{
+    fill: "#a2811e"
+  }} /><path d="m261.773 334.512-17.89-10.965 3.027 7.394z" style={{
+    fill: "#b59319"
+  }} /><path d="m251.836 322.883-7.953.664 17.89 10.965z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m251.836 322.883-7.953.664 15.941-13.692z" style={{
+    fill: "#a2811e"
+  }} /><path d="m259.824 309.855-15.941 13.692 1.824-7.832z" style={{
+    fill: "#ddb906"
+  }} /><path d="m245.707 315.715-1.824 7.832-8.102-19.461z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m235.781 304.086 8.102 19.461-6.899-4.227z" style={{
+    fill: "#e7c928"
+  }} /><path d="m245.723 59.293-1.895-7.867 16.016 13.726z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m251.855 52.117-8.027-.691 16.016 13.726z" style={{
+    fill: "#b59319"
+  }} /><path d="m261.781 40.496-17.953 10.93 8.027.699z" style={{
+    fill: "#a2811e"
+  }} /><path d="m246.922 44.066-3.094 7.36 17.961-10.93z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m238.93 31.031 4.898 20.395 3.094-7.36z" style={{
+    fill: "#b59319"
+  }} /><path d="m237.734 46.266 6.094 5.16-4.898-20.395z" style={{
+    fill: "#e7c928"
+  }} /><path d="m237.734 46.266 6.094 5.16-20.953-1.586z" style={{
+    fill: "#ddb906"
+  }} /><path d="m222.875 49.84 20.953 1.586-6.836 4.262z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m236.992 55.688 6.836-4.262-8.039 19.5z" style={{
+    fill: "#ddb906"
+  }} /><path d="m235.789 70.926 8.039-19.5 1.895 7.867z" style={{
+    fill: "#b59319"
+  }} /><path d="m129.277 315.695 1.883 7.879-16.004-13.719z" style={{
+    fill: "#ddb906"
+  }} /><path d="m123.145 322.883 8.015.691-16.004-13.726z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m113.211 334.504 17.961-10.93-8.027-.691z" style={{
+    fill: "#e7c928"
+  }} /><path d="m128.078 330.941 3.082-7.367-17.949 10.93z" style={{
+    fill: "#a2811e"
+  }} /><path d="m136.07 343.969-4.898-20.395-3.094 7.367z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m137.266 328.734-6.106-5.16 4.899 20.395z" style={{
+    fill: "#a2811e"
+  }} /><path d="m137.266 328.734-6.106-5.16 20.965 1.586z" style={{
+    fill: "#ddb906"
+  }} /><path d="m152.125 325.16-20.965-1.586 6.848-4.254z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m138.008 319.32-6.848 4.254 8.043-19.5z" style={{
+    fill: "#a2811e"
+  }} /><path d="m139.203 304.074-8.043 19.5-1.883-7.879z" style={{
+    fill: "#e7c928"
+  }} /><path d="m59.293 129.277-7.867 1.895 13.719-16.016z" style={{
+    fill: "#a2811e"
+  }} /><path d="m52.117 123.145-.691 8.027 13.719-16.016z" style={{
+    fill: "#ddb906"
+  }} /><path d="m40.496 113.219 10.93 17.953.691-8.027z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m44.059 128.078 7.367 3.094-10.93-17.953z" style={{
+    fill: "#ddb906"
+  }} /><path d="m31.031 136.059 20.395-4.887-7.367-3.094z" style={{
+    fill: "#e7c928"
+  }} /><path d="m46.266 137.266 5.16-6.094-20.403 4.887z" style={{
+    fill: "#b59319"
+  }} /><path d="m46.266 137.266 5.16-6.094-1.586 20.953z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m49.84 152.125 1.586-20.953 4.254 6.836z" style={{
+    fill: "#a2811e"
+  }} /><path d="m55.68 138.008-4.254-6.836 19.5 8.031z" style={{
+    fill: "#b59319"
+  }} /><path d="m70.926 139.203-19.5-8.031 7.867-1.895z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m315.695 245.723 7.879-1.895-13.726 16.016z" style={{
+    fill: "#e7c928"
+  }} /><path d="m322.883 251.855.691-8.027-13.726 16.016z" style={{
+    fill: "#a2811e"
+  }} /><path d="m334.504 261.781-10.93-17.953-.691 8.027z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m330.934 246.922-7.36-3.094 10.93 17.953z" style={{
+    fill: "#ddb906"
+  }} /><path d="m343.969 238.93-20.395 4.898 7.36 3.094z" style={{
+    fill: "#b59319"
+  }} /><path d="m328.723 237.734-5.149 6.094 20.395-4.898z" style={{
+    fill: "#ddb906"
+  }} /><path d="m328.723 237.734-5.149 6.094 1.586-20.953z" style={{
+    fill: "#a2811e"
+  }} /><path d="m325.16 222.875-1.586 20.953-4.261-6.824z" style={{
+    fill: "#e7c928"
+  }} /><path d="m319.313 237.004 4.261 6.824-19.5-8.031z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m304.074 235.797 19.5 8.031-7.867 1.895z" style={{
+    fill: "#ddb906"
+  }} /><path d="M187.496 82.301v105.203l-10.258-51.582z" style={{
+    fill: "#e7ca4d"
+  }} /><path d="M187.496 82.301v105.203l10.258-51.582z" style={{
+    fill: "#a2811e"
+  }} /><path d="M187.496 292.707V187.504l10.258 51.586z" style={{
+    fill: "#a2811e"
+  }} /><path d="M187.496 292.707V187.504l-10.258 51.586zM82.301 187.504h105.195l-51.574 10.258z" style={{
+    fill: "#c8a20d"
+  }} /><path d="M82.301 187.504h105.195l-51.574-10.258z" style={{
+    fill: "#ddb906"
+  }} /><clipPath id="tc-cumhurbaskanligi__a"><path d="M187.496 187.504h105.203l-53.609-10.258z" /></clipPath><g clipPath="url(#tc-cumhurbaskanligi__a)"><path d="M187.496 177.246h105.203v10.258H187.496z" style={{
+      fill: "url(#tc-cumhurbaskanligi__b)",
+      fillRule: "nonzero"
+    }} /></g><clipPath id="tc-cumhurbaskanligi__c"><path d="m187.496 187.504 51.594 10.258 53.609-10.258z" /></clipPath><g clipPath="url(#tc-cumhurbaskanligi__c)"><path d="M187.496 187.504h105.203v10.258H187.496z" style={{
+      fill: "url(#tc-cumhurbaskanligi__d)",
+      fillRule: "nonzero"
+    }} /></g><path d="m113.113 113.121 74.383 74.383-43.726-29.223z" style={{
+    fill: "#ddb906"
+  }} /><path d="m113.113 113.121 74.383 74.383-29.215-43.727z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m261.887 261.887-74.391-74.383 43.734 29.223z" style={{
+    fill: "#b59319"
+  }} /><clipPath id="tc-cumhurbaskanligi__e"><path d="m216.719 231.238 45.168 30.649-74.391-74.383z" /></clipPath><g clipPath="url(#tc-cumhurbaskanligi__e)"><path d="M187.496 187.504h74.391v74.391h-74.391z" style={{
+      fill: "url(#tc-cumhurbaskanligi__f)",
+      fillRule: "nonzero"
+    }} /></g><path d="m113.113 261.887 74.383-74.383-29.215 43.726z" style={{
+    fill: "#b59319"
+  }} /><path d="m113.113 261.887 74.383-74.383-43.719 29.223z" style={{
+    fill: "#ddb906"
+  }} /><clipPath id="tc-cumhurbaskanligi__g"><path d="m216.727 143.77-29.231 43.734 74.391-74.391z" /></clipPath><g clipPath="url(#tc-cumhurbaskanligi__g)"><path d="M187.496 113.113h74.391v74.391h-74.391z" style={{
+      fill: "url(#tc-cumhurbaskanligi__h)",
+      fillRule: "nonzero"
+    }} /></g><clipPath id="tc-cumhurbaskanligi__i"><path d="m187.496 187.504 43.734-29.223 30.657-45.168z" /></clipPath><g clipPath="url(#tc-cumhurbaskanligi__i)"><path d="M187.496 113.113h74.391v74.391h-74.391z" style={{
+      fill: "url(#tc-cumhurbaskanligi__j)",
+      fillRule: "nonzero"
+    }} /></g><path d="m158.273 143.777 29.223 43.727-32.203-77.75z" style={{
+    fill: "#e7c928"
+  }} /><path d="m177.246 135.922 10.25 51.582-32.203-77.75z" style={{
+    fill: "#b59319"
+  }} /><path d="m216.727 231.238-29.231-43.734 32.211 77.754z" style={{
+    fill: "#a2811e"
+  }} /><clipPath id="tc-cumhurbaskanligi__k"><path d="m197.754 239.098 21.953 26.16-32.211-77.754z" /></clipPath><g clipPath="url(#tc-cumhurbaskanligi__k)"><path d="M187.496 187.504h32.211v77.754h-32.211z" style={{
+      fill: "url(#tc-cumhurbaskanligi__l)",
+      fillRule: "nonzero"
+    }} /></g><path d="m143.762 216.738 43.734-29.234-77.754 32.211z" style={{
+    fill: "#b59319"
+  }} /><path d="m135.902 197.773 51.594-10.269-77.754 32.211z" style={{
+    fill: "#ddb906"
+  }} /><clipPath id="tc-cumhurbaskanligi__m"><path d="m231.223 158.289-43.727 29.215 77.742-32.191z" /></clipPath><g clipPath="url(#tc-cumhurbaskanligi__m)"><path d="M187.496 155.313h77.742v32.191h-77.742z" style={{
+      fill: "url(#tc-cumhurbaskanligi__n)",
+      fillRule: "nonzero"
+    }} /></g><clipPath id="tc-cumhurbaskanligi__o"><path d="m187.496 187.504 51.594-10.25 26.148-21.941z" /></clipPath><g clipPath="url(#tc-cumhurbaskanligi__o)"><path d="M187.496 155.313h77.742v32.191h-77.742z" style={{
+      fill: "url(#tc-cumhurbaskanligi__p)",
+      fillRule: "nonzero"
+    }} /></g><path d="m135.902 177.254 51.594 10.25-77.754-32.199z" style={{
+    fill: "#c8a20d"
+  }} /><path d="m143.762 158.281 43.734 29.223-77.754-32.199z" style={{
+    fill: "#ddb906"
+  }} /><path d="m239.09 197.773-51.594-10.269 77.75 32.211z" style={{
+    fill: "#b59319"
+  }} /><clipPath id="tc-cumhurbaskanligi__q"><path d="m231.223 216.738 34.023 2.977-77.75-32.211z" /></clipPath><g clipPath="url(#tc-cumhurbaskanligi__q)"><path d="M187.496 187.504h77.75v32.211h-77.75z" style={{
+      fill: "url(#tc-cumhurbaskanligi__r)",
+      fillRule: "nonzero"
+    }} /></g><path d="m177.238 239.105 10.258-51.601-32.211 77.762z" style={{
+    fill: "#b59319"
+  }} /><path d="m158.262 231.25 29.234-43.746-32.211 77.762z" style={{
+    fill: "#c8a20d"
+  }} /><clipPath id="tc-cumhurbaskanligi__s"><path d="m197.754 135.93-10.258 51.574 32.199-77.734z" /></clipPath><g clipPath="url(#tc-cumhurbaskanligi__s)"><path d="M187.496 109.77h32.199v77.734h-32.199z" style={{
+      fill: "url(#tc-cumhurbaskanligi__t)",
+      fillRule: "nonzero"
+    }} /></g><path d="m216.719 143.785-29.223 43.719 32.199-77.734z" style={{
+    fill: "#a2811e"
+  }} /><defs><linearGradient id="tc-cumhurbaskanligi__b" x1={0} x2={1} y1={0} y2={0} gradientTransform="translate(187.491 182.36)scale(105.203)" gradientUnits="userSpaceOnUse"><stop offset={0} style={{
+        stopColor: "#b79418",
+        stopOpacity: 1
+      }} /><stop offset={0.57} style={{
+        stopColor: "#ddb906",
+        stopOpacity: 1
+      }} /><stop offset={1} style={{
+        stopColor: "#ddb906",
+        stopOpacity: 1
+      }} /></linearGradient><linearGradient id="tc-cumhurbaskanligi__d" x1={0} x2={1} y1={0} y2={0} gradientTransform="translate(187.491 192.62)scale(105.203)" gradientUnits="userSpaceOnUse"><stop offset={0} style={{
+        stopColor: "#a2811e",
+        stopOpacity: 1
+      }} /><stop offset={0.62} style={{
+        stopColor: "#c8a20d",
+        stopOpacity: 1
+      }} /><stop offset={1} style={{
+        stopColor: "#c8a20d",
+        stopOpacity: 1
+      }} /></linearGradient><linearGradient id="tc-cumhurbaskanligi__f" x1={0} x2={1} y1={0} y2={0} gradientTransform="translate(187.498 224.714)scale(74.3901)" gradientUnits="userSpaceOnUse"><stop offset={0} style={{
+        stopColor: "#b79418",
+        stopOpacity: 1
+      }} /><stop offset={0.55} style={{
+        stopColor: "#ddb906",
+        stopOpacity: 1
+      }} /><stop offset={1} style={{
+        stopColor: "#ddb906",
+        stopOpacity: 1
+      }} /></linearGradient><linearGradient id="tc-cumhurbaskanligi__h" x1={0} x2={1} y1={0} y2={0} gradientTransform="translate(187.493 150.293)scale(74.3937)" gradientUnits="userSpaceOnUse"><stop offset={0} style={{
+        stopColor: "#b79418",
+        stopOpacity: 1
+      }} /><stop offset={0.47} style={{
+        stopColor: "#e7c928",
+        stopOpacity: 1
+      }} /><stop offset={1} style={{
+        stopColor: "#e7c928",
+        stopOpacity: 1
+      }} /></linearGradient><linearGradient id="tc-cumhurbaskanligi__j" x1={0} x2={1} y1={0} y2={0} gradientTransform="translate(187.493 150.293)scale(74.3937)" gradientUnits="userSpaceOnUse"><stop offset={0} style={{
+        stopColor: "#a2811e",
+        stopOpacity: 1
+      }} /><stop offset={0.66} style={{
+        stopColor: "#b79418",
+        stopOpacity: 1
+      }} /><stop offset={1} style={{
+        stopColor: "#b79418",
+        stopOpacity: 1
+      }} /></linearGradient><linearGradient id="tc-cumhurbaskanligi__l" x1={0} x2={1} y1={0} y2={0} gradientTransform="translate(187.499 226.391)scale(32.2117)" gradientUnits="userSpaceOnUse"><stop offset={0} style={{
+        stopColor: "#b79418",
+        stopOpacity: 1
+      }} /><stop offset={0.37} style={{
+        stopColor: "#c9a30d",
+        stopOpacity: 1
+      }} /><stop offset={1} style={{
+        stopColor: "#c9a30d",
+        stopOpacity: 1
+      }} /></linearGradient><linearGradient id="tc-cumhurbaskanligi__n" x1={0} x2={1} y1={0} y2={0} gradientTransform="translate(187.497 171.419)scale(77.7461)" gradientUnits="userSpaceOnUse"><stop offset={0} style={{
+        stopColor: "#b79418",
+        stopOpacity: 1
+      }} /><stop offset={0.54} style={{
+        stopColor: "#e7c928",
+        stopOpacity: 1
+      }} /><stop offset={1} style={{
+        stopColor: "#e7c928",
+        stopOpacity: 1
+      }} /></linearGradient><linearGradient id="tc-cumhurbaskanligi__p" x1={0} x2={1} y1={0} y2={0} gradientTransform="translate(187.497 171.419)scale(77.7461)" gradientUnits="userSpaceOnUse"><stop offset={0} style={{
+        stopColor: "#a2811e",
+        stopOpacity: 1
+      }} /><stop offset={1} style={{
+        stopColor: "#c8a20d",
+        stopOpacity: 1
+      }} /><stop offset={1} style={{
+        stopColor: "#c8a20d",
+        stopOpacity: 1
+      }} /></linearGradient><linearGradient id="tc-cumhurbaskanligi__r" x1={0} x2={1} y1={0} y2={0} gradientTransform="translate(187.501 203.628)scale(77.7453)" gradientUnits="userSpaceOnUse"><stop offset={0} style={{
+        stopColor: "#b79418",
+        stopOpacity: 1
+      }} /><stop offset={1} style={{
+        stopColor: "#ddb906",
+        stopOpacity: 1
+      }} /></linearGradient><linearGradient id="tc-cumhurbaskanligi__t" x1={0} x2={1} y1={0} y2={0} gradientTransform="translate(187.497 148.645)scale(32.2048)" gradientUnits="userSpaceOnUse"><stop offset={0} style={{
+        stopColor: "#c8a20d",
+        stopOpacity: 1
+      }} /><stop offset={0.34} style={{
+        stopColor: "#e7c928",
+        stopOpacity: 1
+      }} /><stop offset={1} style={{
+        stopColor: "#e7c928",
+        stopOpacity: 1
+      }} /></linearGradient></defs></svg>);
+
+TcCumhurbaskanligiIcon.displayName = 'TcCumhurbaskanligiIcon';

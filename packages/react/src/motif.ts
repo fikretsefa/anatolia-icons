@@ -1,0 +1,20 @@
+/* Bu dosya otomatik üretilir (scripts/build-react.mjs). Elle düzenlemeyin. */
+export { EliBelindeIcon } from './icons/motif/EliBelindeIcon';
+export { KocBoynuzuIcon } from './icons/motif/KocBoynuzuIcon';
+export { HayatAgaciIcon } from './icons/motif/HayatAgaciIcon';
+export { BereketIcon } from './icons/motif/BereketIcon';
+export { AskVeBirlesimIcon } from './icons/motif/AskVeBirlesimIcon';
+export { GozIcon } from './icons/motif/GozIcon';
+export { Goz2Icon } from './icons/motif/Goz2Icon';
+export { MuskaIcon } from './icons/motif/MuskaIcon';
+export { AkrepIcon } from './icons/motif/AkrepIcon';
+export { PitrakIcon } from './icons/motif/PitrakIcon';
+export { CengelIcon } from './icons/motif/CengelIcon';
+export { TarakIcon } from './icons/motif/TarakIcon';
+export { Tarak2Icon } from './icons/motif/Tarak2Icon';
+export { YildizMotifIcon } from './icons/motif/YildizMotifIcon';
+export { Yildiz2Icon } from './icons/motif/Yildiz2Icon';
+export { InsanIcon } from './icons/motif/InsanIcon';
+export { BukagiIcon } from './icons/motif/BukagiIcon';
+export { SandikliIcon } from './icons/motif/SandikliIcon';
+export { SacbagiIcon } from './icons/motif/SacbagiIcon';

@@ -1,0 +1,82 @@
+{
+  "name": "@anatolia-icons/react",
+  "version": "0.1.0",
+  "description": "Türk kurum logolarının React (TypeScript) ikon bileşenleri.",
+  "author": {
+    "name": "fikretsefa",
+    "url": "https://github.com/fikretsefa/anatolia-icons"
+  },
+  "homepage": "https://github.com/fikretsefa/anatolia-icons#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fikretsefa/anatolia-icons.git",
+    "directory": "packages/react"
+  },
+  "bugs": {
+    "url": "https://github.com/fikretsefa/anatolia-icons/issues"
+  },
+  "license": "MIT",
+  "type": "module",
+  "sideEffects": false,
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    },
+    "./kamu": {
+      "types": "./dist/kamu.d.ts",
+      "import": "./dist/kamu.js",
+      "require": "./dist/kamu.cjs"
+    },
+    "./universite": {
+      "types": "./dist/universite.d.ts",
+      "import": "./dist/universite.js",
+      "require": "./dist/universite.cjs"
+    },
+    "./teknoloji": {
+      "types": "./dist/teknoloji.d.ts",
+      "import": "./dist/teknoloji.js",
+      "require": "./dist/teknoloji.cjs"
+    },
+    "./finans": {
+      "types": "./dist/finans.d.ts",
+      "import": "./dist/finans.js",
+      "require": "./dist/finans.cjs"
+    },
+    "./belediye": {
+      "types": "./dist/belediye.d.ts",
+      "import": "./dist/belediye.js",
+      "require": "./dist/belediye.cjs"
+    },
+    "./motif": {
+      "types": "./dist/motif.d.ts",
+      "import": "./dist/motif.js",
+      "require": "./dist/motif.cjs"
+    },
+    "./brands": {
+      "types": "./dist/brands.d.ts",
+      "import": "./dist/brands.js",
+      "require": "./dist/brands.cjs"
+    }
+  },
+  "files": [
+    "dist",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsup"
+  },
+  "peerDependencies": {
+    "react": ">=18"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.13",
+    "react": "^19.1.1",
+    "tsup": "^8.5.0",
+    "typescript": "^5.9.2"
+  }
+}

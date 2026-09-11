@@ -1,0 +1,225 @@
+/* Bu dosya otomatik üretilir (scripts/build-react.mjs). Elle düzenlemeyin. */
+
+import * as React from 'react';
+import type { IconProps } from '../../types';
+
+/**
+ * BursaBelIcon SVG ikon bileşeni.
+ * @remarks SVGR pipeline tarafından üretilir; size, color, title ve className destekler.
+ */
+export const BursaBelIcon = React.forwardRef<SVGSVGElement, IconProps>(({
+  size = 24,
+  color,
+  title,
+  titleId,
+  className,
+  ...props
+}, ref) => <svg data-anatolia-icons="https://github.com/fikretsefa/anatolia-icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 208.038 297.239" width={size} height={size} color={color} className={className} role="img" ref={ref} aria-labelledby={titleId} {...props}>{title ? <title id={titleId}>{title}</title> : null}<defs><clipPath id="bursa-bel__a" clipPathUnits="userSpaceOnUse"><path d="M0 6280h2560V0H0Z" /></clipPath><clipPath id="bursa-bel__b" clipPathUnits="userSpaceOnUse"><path d="M-752.291 411.641h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__c" clipPathUnits="userSpaceOnUse"><path d="M-791.42 621.894h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__d" clipPathUnits="userSpaceOnUse"><path d="M-697.119 597.141h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__e" clipPathUnits="userSpaceOnUse"><path d="M-631.556 530.094h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__f" clipPathUnits="userSpaceOnUse"><path d="M-608.346 439h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__g" clipPathUnits="userSpaceOnUse"><path d="M-631.556 347.81h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__h" clipPathUnits="userSpaceOnUse"><path d="M-697.119 281.44h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__i" clipPathUnits="userSpaceOnUse"><path d="M-791.42 256.107h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__j" clipPathUnits="userSpaceOnUse"><path d="M-883.802 281.44h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__k" clipPathUnits="userSpaceOnUse"><path d="M-950.174 347.81h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__l" clipPathUnits="userSpaceOnUse"><path d="M-974.496 439h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__m" clipPathUnits="userSpaceOnUse"><path d="M-950.174 530.094h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__n" clipPathUnits="userSpaceOnUse"><path d="M-883.802 597.141h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__o" clipPathUnits="userSpaceOnUse"><path d="M-609.461 835.612h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__p" clipPathUnits="userSpaceOnUse"><path d="M-645.249 811.49h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__q" clipPathUnits="userSpaceOnUse"><path d="M-711.275 821.062h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__r" clipPathUnits="userSpaceOnUse"><path d="M-731.23 811.49h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__s" clipPathUnits="userSpaceOnUse"><path d="M-801.871 869.298h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__t" clipPathUnits="userSpaceOnUse"><path d="M-826.208 872.987h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__u" clipPathUnits="userSpaceOnUse"><path d="M-839.222 854.513h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__v" clipPathUnits="userSpaceOnUse"><path d="M-879.911 869.298h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__w" clipPathUnits="userSpaceOnUse"><path d="M-924.739 869.298h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__x" clipPathUnits="userSpaceOnUse"><path d="M-947.326 810.812h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__y" clipPathUnits="userSpaceOnUse"><path d="M-979.994 836.583h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__z" clipPathUnits="userSpaceOnUse"><path d="M-623.52 741.087h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__A" clipPathUnits="userSpaceOnUse"><path d="M-731.24 768.085h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__B" clipPathUnits="userSpaceOnUse"><path d="M-800.513 742.653h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__C" clipPathUnits="userSpaceOnUse"><path d="M-902.158 771.565h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__D" clipPathUnits="userSpaceOnUse"><path d="M-966.135 767.847h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__E" clipPathUnits="userSpaceOnUse"><path d="M-609.255 911.282h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__F" clipPathUnits="userSpaceOnUse"><path d="M-666.148 944.832h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__G" clipPathUnits="userSpaceOnUse"><path d="M-712.436 944.832h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__H" clipPathUnits="userSpaceOnUse"><path d="M-755.14 944.832h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__I" clipPathUnits="userSpaceOnUse"><path d="M-793.008 920.81h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__J" clipPathUnits="userSpaceOnUse"><path d="M-831.182 886.582h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__K" clipPathUnits="userSpaceOnUse"><path d="M-882.367 896.79h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__L" clipPathUnits="userSpaceOnUse"><path d="M-926.12 944.832h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__M" clipPathUnits="userSpaceOnUse"><path d="M-971.764 929.697h2560v-6280h-2560Z" /></clipPath><clipPath id="bursa-bel__N" clipPathUnits="userSpaceOnUse"><path d="M-994.554 886.582h2560v-6280h-2560Z" /></clipPath></defs><path d="M501.937 6088.632h578.913v-831.766H501.937Z" clipPath="url(#bursa-bel__a)" style={{
+    fill: "#224382",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "#fff",
+    strokeWidth: 10.801,
+    strokeLinecap: "butt",
+    strokeLinejoin: "miter",
+    strokeMiterlimit: 3.864,
+    strokeDasharray: "none",
+    strokeOpacity: 1
+  }} transform="matrix(.35278 0 0 -.35278 -175.167 2149.84)" /><path d="M0 0c4.412 17.482 20.245 30.422 39.102 30.422S73.791 17.482 78.202 0zm59.057-12.984 6.795.068-3.93-11.224h-12.85l-3.929 11.224 6.794-.068 3.56-8.396zm22.717 0 3.93-11.224-6.795.068-3.93 11.224zm-62.628 0 3.56-8.396 3.559 8.396 6.795.068-3.929-11.224H16.28l-3.929 11.224zm-22.718 0 6.795.068-3.93-11.224-6.794-.068zm-20.694 49.291 39.898 34.776 7.67-6.891 15.8 13.025 14.829-13.661 8.64 7.527 39.897-34.776v11.837h-2.216l8.568 33.08 8.567-33.08h-2.216V26.878h11.374l-6.204-8.098V-81.224s-.169-9.154-.169-13.89c0-44.853-36.366-81.212-81.228-81.212s-81.083 36.359-81.083 81.212V18.78l-6.203 8.098h11.373v21.266h-2.216l8.568 33.08 8.567-33.08h-2.216zm44.715 23.919-4.817 4.197-39.898-34.777v-8.378zm37.304 0 44.715-38.958v8.378L62.57 64.423Zm44.715-45.618-63.366 55.95-63.368-55.95V-6.988c7.671 27.786 33.135 48.191 63.368 48.191 30.231 0 55.695-20.405 63.366-48.191zM66.87-34.756h26.735v-57.692h6.205v67.933l-.012 1.182c-.63 32.977-27.563 59.515-60.696 59.515-33.135 0-60.068-26.538-60.709-59.515v-69.115h6.204v57.692h26.735v-19.886h9.749v19.886h36.041v-19.886h9.748ZM25.076-89.04a6.533 6.533 0 0 1 13.065 0 6.53 6.53 0 0 1-6.532 6.531 6.53 6.53 0 0 1-6.533-6.531m-3.049 15.2c-1.066 2.994-2.648 5.497-3.463 6.68q1.86 1.397 3.758 2.771l-2.658 2.068a60 60 0 0 1-4.456-2.091l-.862.614c-3.545 2.363-9.453-.886-7.318-4.145l1.347-.678c-19.081-13.825-19.73-34.164-19.73-34.164 2.703 11.31 12.616 21.875 24.768 31.629l.637-.321c4.187-5.755 5.361-10.815 4.138-16.617-6.519-4.547-9.16-9.966-9.16-9.966-2.428-2.303 9.683-12.937 12.113-10.632l.795.758c2.682-3.589 3.978-7.733 3.579-13.392l-4.082-6.717c-.022-1.038.44-1.772 1.161-2.218-1.865-2.176-3.833-4.072-5.741-5.589-.181 13.467 2.499 24.244 2.516 24.351.313 2.076-4.585 3.212-8.284 2.947-.29 3.675-2.042 8.138-4.051 7.686 0 0-8.552-1.683-13.93-2.926-6.823-1.578-6.556-10.203-4.755-15.829 1.092-3.411 7.681-23.038 7.681-23.038.909-3.221 7.462-3.13 6.553.092 0 0-3.747 14.528-5.519 22.208-.58 2.513-.142 5.735 3.397 6.645 1.546.398 4.52.531 6.66.574.184-17.605 2.32-30.59 6.791-42.649 1.164-3.139 5.259 1.141 4.57 4.417-.85 4.037-1.315 8.092-1.111 12.226 8.985 5.815 12.182 7.159 14.16 10.464 1.308 2.185 2.256 6.046 2.904 9.64.328-1.821.493 4.841.474 11.298a1.8 1.8 0 0 1-.474-.275c-1.011.795-2.309.341-2.209-1.771-.192-1.87-.588-3.73-1.199-5.306-.735 3.337-1.524 18.085-1.524 18.085 0 .24-10.558 4.558-3.751 13.083-.819 4.192-2.654 7.077-3.725 10.088m31.099-15.2a6.53 6.53 0 0 1-6.532 6.531 6.532 6.532 0 1 1 6.532-6.531m3.05 15.2c-1.072-3.011-2.906-5.896-3.725-10.088 6.806-8.525-3.752-12.843-3.752-13.083 0 0-.788-14.748-1.576-18.331a29 29 0 0 0-1.146 5.552c.1 2.112-1.199 2.566-2.209 1.771a1.8 1.8 0 0 1-.475.275c-.019-6.457.147-13.119.475-11.298.648-3.594 1.595-7.455 2.903-9.64 1.978-3.305 5.175-4.649 14.564-10.702-.2-3.896-.665-7.951-1.514-11.988-.69-3.276 3.406-7.556 4.57-4.417 4.471 12.059 6.606 25.044 6.79 42.649 2.14-.043 5.114-.176 6.66-.574 3.539-.91 3.978-4.132 3.397-6.645-1.772-7.68-5.518-22.208-5.518-22.208-.91-3.222 5.643-3.313 6.552-.092 0 0 6.59 19.627 7.682 23.038 1.8 5.626 2.067 14.251-4.757 15.829-5.377 1.243-13.929 2.926-13.929 2.926-2.009.452-3.76-4.011-4.051-7.686-3.698.265-8.596-.871-8.283-2.947.017-.107 2.696-10.884 2.516-24.351-1.909 1.517-3.876 3.413-5.742 5.589.722.446 1.183 1.18 1.161 2.218l-4.082 6.717c-.398 5.659.898 9.803 3.579 13.392l.796-.758c2.429-2.305 14.541 8.329 12.112 10.632 0 0-2.64 5.419-9.159 9.966-1.223 5.802-.049 10.862 4.137 16.617l.638.321c12.151-9.754 22.065-20.319 24.768-31.629 0 0-.649 20.339-19.731 34.164l1.347.678c2.136 3.259-3.773 6.508-7.318 4.145l-.862-.614a60 60 0 0 1-4.455 2.091l-2.659-2.068a264 264 0 0 0 3.758-2.771c-.815-1.183-2.397-3.686-3.462-6.68M23.148-47.553v-7.089l15.954 9.411 15.952-9.411v7.089l-15.952 9.41z" clipPath="url(#bursa-bel__b)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 90.225 79.613)" /><path d="m0 0 4.774-15.109h16.178L7.92-24.881l5.056-15.501L0-30.835l-12.976-9.547 5.112 15.501-13.144 9.772h16.121z" clipPath="url(#bursa-bel__c)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 104.028 153.785)" /><path d="m0 0 4.774-15.108h16.178L7.919-24.881l5.057-15.501L0-30.834l-12.976-9.548 5.112 15.501-13.145 9.773h16.122z" clipPath="url(#bursa-bel__d)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 70.76 145.053)" /><path d="m0 0 4.774-15.109h16.178L7.92-24.881l5.056-15.501L0-30.835l-12.976-9.547 5.113 15.501-13.145 9.772h16.121z" clipPath="url(#bursa-bel__e)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 47.632 121.4)" /><path d="m0 0 4.774-15.109h16.178L7.92-24.881l5.056-15.501L0-30.835l-12.976-9.547 5.112 15.501-13.144 9.772h16.121z" clipPath="url(#bursa-bel__f)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 39.444 89.265)" /><path d="m0 0 4.774-15.108h16.178L7.92-24.881l5.056-15.501L0-30.835l-12.976-9.547 5.113 15.501-13.145 9.773h16.121z" clipPath="url(#bursa-bel__g)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 47.632 57.095)" /><path d="m0 0 4.774-15.108h16.178L7.919-24.881l5.057-15.501L0-30.835l-12.976-9.547 5.112 15.501-13.145 9.773h16.122z" clipPath="url(#bursa-bel__h)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 70.76 33.68)" /><path d="m0 0 4.774-15.109h16.178L7.92-24.882l5.056-15.501L0-30.835l-12.976-9.548 5.112 15.501-13.144 9.773h16.121z" clipPath="url(#bursa-bel__i)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 104.028 24.744)" /><path d="m0 0 4.774-15.108h16.178L7.92-24.881l5.056-15.501L0-30.835l-12.976-9.547 5.113 15.501-13.145 9.773h16.121z" clipPath="url(#bursa-bel__j)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 136.619 33.68)" /><path d="m0 0 4.774-15.108h16.178L7.919-24.881l5.057-15.501L0-30.835l-12.975-9.547 5.111 15.501-13.144 9.773h16.121z" clipPath="url(#bursa-bel__k)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 160.033 57.095)" /><path d="m0 0 4.774-15.109h16.178L7.92-24.881l5.056-15.501L0-30.835l-12.976-9.547 5.112 15.501-13.144 9.772h16.121z" clipPath="url(#bursa-bel__l)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 168.613 89.265)" /><path d="m0 0 4.774-15.109h16.178L7.919-24.881l5.057-15.501L0-30.835l-12.975-9.547 5.111 15.501-13.144 9.772h16.121z" clipPath="url(#bursa-bel__m)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 160.033 121.4)" /><path d="m0 0 4.774-15.108h16.178L7.92-24.881l5.056-15.501L0-30.834l-12.976-9.548 5.113 15.501-13.145 9.773h16.121z" clipPath="url(#bursa-bel__n)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 136.619 145.053)" /><path d="M0 0q.038-1.482-.917-2.66t-3.362-1.246h-7.403v7.812h7.403q2.407-.068 3.362-1.246T0 0m.679-18.762a4.52 4.52 0 0 0-.951-2.904q-.986-1.299-3.396-1.376h-8.014v8.491h8.014q2.41-.072 3.396-1.342a4.4 4.4 0 0 0 .951-2.869m11.869-.679q-.056 3.366-1.11 5.473t-2.437 3.284Q7.619-9.506 6.58-8.923q.803.504 2.034 1.709Q9.847-6.01 10.83-4.066T11.87.606q-.021 6.33-3.935 10.091-3.913 3.762-11.467 3.853h-20.019v-48.236h21.038q6.597.025 10.762 3.662 4.166 3.636 4.299 10.583" clipPath="url(#bursa-bel__o)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 39.837 229.18)" /><path d="M0 0q-.06 2.297-1.596 3.831-1.536 1.535-3.835 1.593-2.298-.058-3.832-1.593T-10.857 0q.06-2.297 1.594-3.835 1.534-1.539 3.832-1.599 2.3.06 3.835 1.599T0 0m15.883 0q-.06 2.297-1.594 3.831-1.534 1.535-3.832 1.593-2.3-.058-3.835-1.593Q5.084 2.297 5.026 0q.058-2.297 1.596-3.835 1.536-1.539 3.835-1.599 2.298.06 3.832 1.599T15.883 0m4.951-40.865v31.293H8.965v-31.022q-.039-3.374-1.783-5.198-1.745-1.825-4.737-1.846-2.984.02-4.67 1.846-1.684 1.824-1.714 5.198v31.022h-11.869v-31.293q.058-5.313 2.499-9.196t6.557-6.005q4.115-2.121 9.197-2.149 5.085.028 9.233 2.149t6.621 6.005q2.474 3.883 2.535 9.196" clipPath="url(#bursa-bel__p)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 52.462 220.67)" /><path d="M0 0h-12.963l-7.53-17.343L-28.09 0h-12.964l14.593-28.589v-19.647h11.869v19.647z" clipPath="url(#bursa-bel__q)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 75.755 224.047)" /><path d="M0 0q-.06 2.297-1.596 3.831-1.536 1.535-3.835 1.593-2.298-.058-3.832-1.593Q-10.798 2.297-10.857 0q.059-2.297 1.594-3.835 1.534-1.539 3.832-1.599 2.3.06 3.835 1.599T0 0m15.883 0q-.06 2.297-1.594 3.831-1.534 1.535-3.832 1.593-2.3-.058-3.835-1.593Q5.084 2.297 5.026 0q.058-2.297 1.596-3.835 1.536-1.539 3.835-1.599 2.298.06 3.832 1.599T15.883 0m4.951-40.865v31.293H8.965v-31.022q-.039-3.374-1.783-5.198-1.745-1.825-4.737-1.846-2.984.02-4.669 1.846-1.686 1.824-1.715 5.198v31.022h-11.869v-31.293q.058-5.313 2.499-9.196t6.557-6.005q4.115-2.121 9.197-2.149 5.085.028 9.233 2.149t6.621 6.005q2.474 3.883 2.535 9.196" clipPath="url(#bursa-bel__r)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 82.795 220.67)" /><path d="m0 0-17.036 28.725L-.543 48.236h-14.524l-13.982-17.072v17.072h-11.733V0h11.733v15.107l4.072 4.675L-13.846 0Z" clipPath="url(#bursa-bel__s)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 107.715 241.064)" /><path d="M0 0h-8.866l-2.889-6.066h9.909z" clipPath="url(#bursa-bel__t)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 116.3 242.365)" /><path d="M0 0q.016 3.367-.831 6.033t-2.764 4.556q-1.52 1.529-3.883 2.536-2.361 1.009-5.613 1.468l-5.837.815q-1.264.165-2.07.56t-1.255.865q-.55.573-.756 1.171t-.195 1.069q-.023 1.66 1.366 3.029t4.471 1.451q1.668.108 4.225-.28 2.557-.389 4.935-2.571l7.461 7.461q-3.083 3.075-7.097 4.433-4.012 1.358-9.184 1.33-8.32-.126-12.947-4.322-4.628-4.197-4.7-10.938-.002-3.107.823-5.541.825-2.432 2.503-4.165 3.274-3.36 9.705-4.276l5.837-.815q1.167-.156 1.952-.492.785-.334 1.238-.798.505-.56.73-1.272t.22-1.578q.008-2.098-1.705-3.216-1.711-1.117-5.217-1.128a22.2 22.2 0 0 0-5.905.755q-2.928.778-4.887 2.638l-7.601-7.597q3.658-3.691 8.22-5.068t10.105-1.305q5.151.007 9.36 1.753t6.721 5.128Q-.063-4.926 0 0" clipPath="url(#bursa-bel__u)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 120.892 235.848)" /><path d="M0 0v10.577h-20.972v8.49h17.918v10.577h-17.918v8.016H0v10.576h-32.841V0Z" clipPath="url(#bursa-bel__v)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 135.246 241.064)" /><path d="M0 0v48.236h-11.869V29.712h-12.633v18.524h-11.869V0h11.869v19.135h12.633V0Z" clipPath="url(#bursa-bel__w)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 151.06 241.064)" /><path d="M0 0q-.075 2.87-1.993 4.79-1.919 1.917-4.79 1.992-2.872-.075-4.79-1.992-1.919-1.92-1.993-4.79.074-2.872 1.993-4.799 1.918-1.926 4.79-2.002 2.871.075 4.79 2.002Q-.075-2.872 0 0m-.882-10.25h-11.869v-48.236H-.882z" clipPath="url(#bursa-bel__x)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 159.028 220.431)" /><path d="M0 0q-.017-1.948-1.358-3.378t-3.804-1.498h-6.724v9.753h6.724q2.462-.07 3.804-1.499Q-.017 1.95 0 0m14.448-32.715L4.002-12.598q2.983 1.415 5.358 4.547Q11.734-4.921 11.869 0a15.8 15.8 0 0 1-1.891 7.548q-1.885 3.516-5.556 5.711t-9.04 2.262h-19.137v-48.236h11.869v17.949h4.008L.679-32.715z" clipPath="url(#bursa-bel__y)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 170.553 229.523)" /><path d="M0 0q.062-2.389-1.479-4.289-1.54-1.9-5.42-2.009h-11.938V6.298h11.938q3.88-.108 5.42-2.008Q.061 2.389 0 0m1.095-30.254q.056-2.588-1.533-4.682t-5.476-2.218h-12.923v13.691h12.923q3.888-.117 5.476-2.163 1.588-2.047 1.533-4.628m19.139-1.095q-.09 5.429-1.79 8.825t-3.929 5.296-3.905 2.839q1.294.815 3.281 2.756t3.572 5.077Q19.05-3.42 19.141.978q-.035 10.206-6.345 16.272t-18.491 6.213h-32.282v-77.782h33.925q10.638.04 17.354 5.905 6.717 5.865 6.932 17.065" clipPath="url(#bursa-bel__z)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 44.797 195.834)" /><path d="M0 0v50.461h-19.139V.437q-.062-5.44-2.875-8.383-2.814-2.941-7.639-2.976-4.812.035-7.529 2.976Q-39.9-5.003-39.947.437v50.024h-19.139V0q.095-8.567 4.031-14.829 3.935-6.261 10.571-9.683t14.831-3.466q8.2.045 14.888 3.466t10.678 9.683Q-.099-8.567 0 0" clipPath="url(#bursa-bel__A)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 82.798 205.358)" /><path d="M0 0q-.028-3.144-2.19-5.447t-6.134-2.417h-10.843V7.864h10.843q3.97-.113 6.134-2.417Q-.028 3.144 0 0m23.298-52.754L6.453-20.315q4.812 2.283 8.64 7.332Q18.921-7.937 19.139 0q-.012 6.5-3.05 12.17-3.039 5.671-8.959 9.211t-14.578 3.648h-30.858v-77.783h19.139v28.944h6.462L1.094-52.754Z" clipPath="url(#bursa-bel__B)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 107.236 196.386)" /><path d="M0 0q.027 5.428-1.34 9.728t-4.456 7.346q-2.454 2.467-6.262 4.091t-9.051 2.367l-9.412 1.314q-2.039.266-3.338.903-1.3.636-2.025 1.395-.886.924-1.218 1.888-.331.965-.315 1.724-.037 2.677 2.203 4.884t7.21 2.339q2.688.175 6.812-.451 4.123-.626 7.959-4.145l12.03 12.031q-4.973 4.957-11.443 7.148-6.471 2.189-14.811 2.145-13.413-.205-20.876-6.971t-7.58-17.637q-.003-5.01 1.328-8.934 1.329-3.922 4.035-6.717 5.28-5.418 15.651-6.896l9.412-1.313q1.881-.253 3.147-.794 1.265-.54 1.997-1.286a5.5 5.5 0 0 0 1.176-2.052q.363-1.149.356-2.545.01-3.382-2.75-5.185t-8.413-1.82a35.8 35.8 0 0 0-9.522 1.218q-4.72 1.255-7.879 4.255l-12.259-12.251q5.9-5.952 13.257-8.173t16.293-2.104q8.308.013 15.094 2.827 6.787 2.813 10.838 8.27Q-.102-7.943 0 0" clipPath="url(#bursa-bel__C)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 143.094 206.586)" /><path d="M0 0h-13.571l7.004 20.745zm28.674-27.56L.328 50.223h-14.775L-42.793-27.56h20.028l3.831 11.599H5.034L8.646-27.56Z" clipPath="url(#bursa-bel__D)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 165.664 205.274)" /><path d="M0 0q.038-1.476-.913-2.649T-4.262-3.89h-7.374v7.78h7.374q2.398-.067 3.349-1.241Q.037 1.476 0 0m.677-18.686a4.5 4.5 0 0 0-.948-2.893q-.98-1.293-3.382-1.369h-7.983v8.456h7.983q2.402-.072 3.382-1.336.982-1.265.948-2.858m11.822-.677q-.056 3.353-1.106 5.451t-2.427 3.271-2.412 1.754q.799.502 2.027 1.702 1.226 1.198 2.207 3.136.979 1.937 1.035 4.653-.02 6.304-3.919 10.05-3.897 3.747-11.422 3.838h-19.94V-33.55h20.955q6.57.024 10.72 3.647 4.149 3.622 4.282 10.54" clipPath="url(#bursa-bel__E)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 39.765 255.875)" /><path d="M0 0v10.534h-20.889v8.457h17.847v10.534h-17.847v7.983H0v10.534h-32.711V0Z" clipPath="url(#bursa-bel__F)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 59.835 267.71)" /><path d="M0 0v10.534h-20.213v37.508h-11.823V0Z" clipPath="url(#bursa-bel__G)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 76.165 267.71)" /><path d="M0 0v10.534h-20.89v8.457h17.848v10.534H-20.89v7.983H0v10.534h-32.711V0Z" clipPath="url(#bursa-bel__H)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 91.23 267.71)" /><path d="M0 0q.002-4.015-.123-6.124-.124-2.109-.408-3.082-.283-.974-.754-1.584a5.7 5.7 0 0 0-2.132-1.955q-1.344-.726-3.551-.742h-5.209v26.974h5.209q2.207-.017 3.551-.742a5.7 5.7 0 0 0 2.132-1.955q.47-.613.754-1.599.284-.987.408-3.097Q.002 3.984 0 0m11.822 0q.064 3.768-.05 7.113a21.5 21.5 0 0 1-1.161 6.366q-1.047 3.02-3.788 5.815a15.3 15.3 0 0 1-5.854 3.604q-3.339 1.138-7.125 1.123h-17.843v-48.042h17.843q3.786-.015 7.125 1.122a15.3 15.3 0 0 1 5.854 3.605q2.74 2.793 3.788 5.815a21.5 21.5 0 0 1 1.161 6.366q.114 3.345.05 7.113" clipPath="url(#bursa-bel__I)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 104.588 259.236)" /><path d="M0 0q-.074 2.86-1.985 4.771-1.91 1.91-4.771 1.984-2.861-.074-4.772-1.984-1.91-1.912-1.984-4.771.074-2.86 1.984-4.779t4.772-1.994q2.86.074 4.771 1.994Q-.074-2.861 0 0m-.879-10.208h-11.822V-58.25H-.879z" clipPath="url(#bursa-bel__J)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 118.056 247.161)" /><path d="M0 0h-12.912l-7.5-17.274L-27.979 0h-12.912l14.535-28.475v-19.567h11.821v19.567z" clipPath="url(#bursa-bel__K)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 136.112 250.762)" /><path d="M0 0v10.534h-20.89v8.457h17.848v10.534H-20.89v7.983H0v10.534h-32.712V0Z" clipPath="url(#bursa-bel__L)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 151.548 267.71)" /><path d="M0 0q.017 3.353-.827 6.008-.845 2.656-2.753 4.538-1.516 1.524-3.868 2.527t-5.591 1.462l-5.814.811q-1.258.165-2.062.557-.803.394-1.25.863-.548.57-.752 1.166-.206.596-.195 1.065-.023 1.654 1.361 3.016t4.453 1.445q1.66.108 4.208-.279t4.916-2.56l7.431 7.431q-3.072 3.061-7.069 4.414t-9.148 1.326q-8.285-.127-12.895-4.306t-4.682-10.893q-.002-3.096.82-5.518.822-2.424 2.493-4.149 3.262-3.347 9.667-4.259l5.814-.811q1.163-.156 1.944-.491.781-.333 1.234-.794.502-.558.726-1.268.225-.71.22-1.572.006-2.088-1.699-3.202-1.704-1.113-5.197-1.124a22 22 0 0 0-5.881.752q-2.915.775-4.868 2.628l-7.571-7.567q3.644-3.675 8.188-5.048 4.545-1.371 10.064-1.299 5.133.008 9.324 1.746 4.193 1.737 6.695 5.108Q-.063-4.907 0 0" clipPath="url(#bursa-bel__M)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 167.65 262.371)" /><path d="M0 0q-.074 2.86-1.984 4.771-1.912 1.91-4.772 1.984-2.86-.074-4.771-1.984Q-13.438 2.859-13.512 0q.074-2.86 1.985-4.779 1.91-1.92 4.771-1.994 2.86.074 4.772 1.994Q-.074-2.861 0 0m-.879-10.208h-11.822V-58.25H-.879z" clipPath="url(#bursa-bel__N)" style={{
+    fill: "#fff",
+    fillOpacity: 1,
+    fillRule: "evenodd",
+    stroke: "none"
+  }} transform="matrix(.35278 0 0 -.35278 175.69 247.161)" /></svg>);
+
+BursaBelIcon.displayName = 'BursaBelIcon';

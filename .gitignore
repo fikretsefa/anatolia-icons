@@ -1,0 +1,33 @@
+# Bağımlılıklar
+node_modules/
+
+# Derleme çıktıları
+dist/
+*.tsbuildinfo
+
+# Ortam ve gizlilik (public repo)
+.env
+.env.*
+.dev/
+.local/
+.secret
+.secret*
+*.pem
+
+# Araç önbellekleri
+.turbo/
+.pnpm-store/
+.cache/
+
+# Log ve OS
+*.log
+npm-debug.log*
+pnpm-debug.log*
+.DS_Store
+Thumbs.db
+
+# npm pack tarball'ı
+*.tgz
+
+# IDE
+.idea/

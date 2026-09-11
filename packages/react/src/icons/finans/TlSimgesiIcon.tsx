@@ -1,0 +1,26 @@
+/* Bu dosya otomatik üretilir (scripts/build-react.mjs). Elle düzenlemeyin. */
+
+import * as React from 'react';
+import type { IconProps } from '../../types';
+
+/**
+ * TlSimgesiIcon SVG ikon bileşeni.
+ * @remarks SVGR pipeline tarafından üretilir; size, color, title ve className destekler.
+ */
+export const TlSimgesiIcon = React.forwardRef<SVGSVGElement, IconProps>(({
+  size = 24,
+  color,
+  title,
+  titleId,
+  className,
+  ...props
+}, ref) => <svg data-anatolia-icons="https://github.com/fikretsefa/anatolia-icons" xmlns="http://www.w3.org/2000/svg" xmlSpace="preserve" style={{
+  fillRule: "evenodd",
+  clipRule: "evenodd",
+  strokeLinejoin: "round",
+  strokeMiterlimit: 2
+}} viewBox="0 0 587 791" width={size} height={size} color={color} className={className} role="img" ref={ref} aria-labelledby={titleId} {...props}>{title ? <title id={titleId}>{title}</title> : null}<path d="M162.526 12.215h79.291V217.97L482.7 130.65v63.232l-240.883 87.32v34.125l130.478-46.169L482.7 228.007v60.221q0 4.014-2.007 4.015l-231.851 83.305q-4.014 2.008-7.025 4.015v340.248q91.335-11.04 161.592-69.254 77.284-63.231 103.38-157.578 11.04-43.158 11.04-86.317h80.295q0 97.358-47.173 183.674-33.122 66.243-90.332 114.42-53.195 47.173-119.438 72.265-86.316 33.121-178.655 23.085v-392.44l-13.048 5.018-137.505 49.181v-63.232l150.553-54.199v-35.129q-11.041 5.02-29.609 12.044-18.568 7.026-23.586 8.03L30.04 358.486l-6.524 2.007q-6.525 2.007-11.543 3.011v-63.232l150.553-53.195z" style={{
+    fillRule: "nonzero"
+  }} transform="translate(-11.973 -12.215)" /></svg>);
+
+TlSimgesiIcon.displayName = 'TlSimgesiIcon';

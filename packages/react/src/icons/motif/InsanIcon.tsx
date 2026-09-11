@@ -1,0 +1,27 @@
+/* Bu dosya otomatik üretilir (scripts/build-react.mjs). Elle düzenlemeyin. */
+
+import * as React from 'react';
+import type { IconProps } from '../../types';
+
+/**
+ * InsanIcon SVG ikon bileşeni.
+ * @remarks SVGR pipeline tarafından üretilir; size, color, title ve className destekler.
+ */
+export const InsanIcon = React.forwardRef<SVGSVGElement, IconProps>(({
+  size = 24,
+  color,
+  title,
+  titleId,
+  className,
+  ...props
+}, ref) => <svg data-anatolia-icons="https://github.com/fikretsefa/anatolia-icons" xmlns="http://www.w3.org/2000/svg" xmlSpace="preserve" style={{
+  fillRule: "evenodd",
+  clipRule: "evenodd",
+  strokeLinejoin: "round"
+}} viewBox="0 0 94 94" width={size} height={size} color={color} className={className} role="img" ref={ref} aria-labelledby={titleId} {...props}>{title ? <title id={titleId}>{title}</title> : null}<path d="M862.5 405.97c8.38 8.51 16.77 17.02 25.15 25.53-6.09 6.65-12.18 13.31-18.26 19.96h26.77v-11.1c2.61 1.15 11.17 8.94 12.22 11.78 1.13 3.03.43 7.68-.23 10.74h-33.92l33.93 34.62c-6.91 2-15.41.81-22.66.8-14-.02-28 .03-42 .01-7.51-.01-20.94 1.35-27.54-.81l33.74-34.64h-33.4c-.63-3.31-1.43-7.91-.23-11.23 1.06-2.94 9.12-9.49 11.82-11.01v10.91h26.8c-2.19-6.7-14.24-13.46-18.28-20.03 3.85-6.21 10.83-11.41 16.01-16.58 3.1-3.1 6.15-7.07 10.08-8.95Zm0 59.7c-7.86 7.71-15.72 15.43-23.57 23.15h46.79c-7.74-7.72-15.48-15.44-23.22-23.15Zm0-45.89c-4.09 3.91-8.18 7.81-12.26 11.72 2.22 4.6 7.83 9.82 12.26 12.41 3.82-4.13 7.64-8.27 11.45-12.41-3.81-3.91-7.63-7.81-11.45-11.72Z" style={{
+    fill: "#ef792b",
+    stroke: "#ef792b",
+    strokeWidth: ".25px"
+  }} transform="translate(-815.324 -405.845)" /></svg>);
+
+InsanIcon.displayName = 'InsanIcon';

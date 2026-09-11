@@ -1,0 +1,37 @@
+{
+  "name": "@anatolia-icons/svg",
+  "version": "0.1.0",
+  "description": "Türk kurum logolarının SVGO ile optimize edilmiş saf SVG dosyaları.",
+  "author": {
+    "name": "fikretsefa",
+    "url": "https://github.com/fikretsefa/anatolia-icons"
+  },
+  "homepage": "https://github.com/fikretsefa/anatolia-icons#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fikretsefa/anatolia-icons.git",
+    "directory": "packages/svg"
+  },
+  "bugs": {
+    "url": "https://github.com/fikretsefa/anatolia-icons/issues"
+  },
+  "license": "MIT",
+  "type": "module",
+  "files": [
+    "LICENSE",
+    "kamu",
+    "universite",
+    "teknoloji",
+    "finans",
+    "belediye",
+    "motif"
+  ],
+  "exports": {
+    "./kamu/*": "./kamu/*",
+    "./universite/*": "./universite/*",
+    "./teknoloji/*": "./teknoloji/*",
+    "./finans/*": "./finans/*",
+    "./belediye/*": "./belediye/*",
+    "./motif/*": "./motif/*"
+  }
+}
