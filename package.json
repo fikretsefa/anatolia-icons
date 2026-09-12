@@ -9,7 +9,9 @@
     "optimize": "node scripts/optimize.mjs && node scripts/build-readme-previews.mjs && node scripts/build-readme-catalog.mjs",
     "build:react": "node scripts/build-react.mjs",
     "build": "pnpm optimize && pnpm build:react && pnpm --filter @anatolia-icons/react build",
-    "playground": "pnpm --filter anatolia-icons-playground dev"
+    "playground": "pnpm --filter anatolia-icons-playground dev",
+    "pack:check": "pnpm --filter \"./packages/*\" pack --dry-run",
+    "publish:packages": "pnpm --filter \"./packages/*\" publish --access public"
   },
   "engines": {
     "node": ">=18"

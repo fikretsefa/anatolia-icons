@@ -16,8 +16,22 @@
     "url": "https://github.com/fikretsefa/anatolia-icons/issues"
   },
   "license": "MIT",
+  "keywords": [
+    "icons",
+    "react",
+    "svg",
+    "turkey",
+    "türkiye",
+    "logo",
+    "anatolia",
+    "typescript"
+  ],
   "type": "module",
   "sideEffects": false,
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -64,11 +78,15 @@
     }
   },
   "files": [
-    "dist",
-    "LICENSE"
+    "dist/*.js",
+    "dist/*.cjs",
+    "dist/*.d.ts",
+    "LICENSE",
+    "README.md"
   ],
   "scripts": {
-    "build": "tsup"
+    "build": "tsup && node ../../scripts/build-dts.mjs",
+    "prepublishOnly": "pnpm build"
   },
   "peerDependencies": {
     "react": ">=18"

@@ -16,9 +16,22 @@
     "url": "https://github.com/fikretsefa/anatolia-icons/issues"
   },
   "license": "MIT",
+  "keywords": [
+    "icons",
+    "svg",
+    "turkey",
+    "türkiye",
+    "logo",
+    "anatolia"
+  ],
   "type": "module",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "files": [
     "LICENSE",
+    "README.md",
     "kamu",
     "universite",
     "teknoloji",

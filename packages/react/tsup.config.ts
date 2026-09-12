@@ -1,6 +1,6 @@
 /**
  * @fileoverview `@anatolia-icons/react` paketi için tsup derleme yapılandırması.
- * @remarks Entry listesi `brands.json` kategorilerinden türetilir; ESM + CJS + d.ts üretir.
+ * @remarks Entry listesi `brands.json` kategorilerinden türetilir; ESM + CJS üretir. Tipler `scripts/build-dts.mjs` ile yazılır.
  */
 import { defineConfig } from 'tsup';
 import brands from '../../scripts/data/brands.json';
@@ -19,7 +19,7 @@ export default defineConfig({
     ...categoryEntries,
   },
   format: ['esm', 'cjs'],
-  dts: true,
+  dts: false,
   splitting: false,
   sourcemap: true,
   clean: true,
