@@ -27,6 +27,7 @@ Kategori klasörleri:
 | `@anatolia-icons/svg/teknoloji/*` | Teknoloji, savunma & açık kaynak |
 | `@anatolia-icons/svg/finans/*` | Finans & ödeme standartları |
 | `@anatolia-icons/svg/belediye/*` | Büyükşehir belediyeleri |
+| `@anatolia-icons/svg/gokturk/*` | Göktürk alfabesi |
 | `@anatolia-icons/svg/motif/*` | Anadolu kilim motifleri |
 
 React bileşenleri için [`@anatolia-icons/react`](https://www.npmjs.com/package/@anatolia-icons/react) paketini kullanın.

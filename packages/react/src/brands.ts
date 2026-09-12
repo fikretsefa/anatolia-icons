@@ -2089,6 +2089,285 @@ export const brands: BrandCategory[] = [
     ]
   },
   {
+    "category": "gokturk",
+    "categoryTitle": "Göktürk Alfabesi",
+    "icons": [
+      {
+        "id": "gokturk-a",
+        "title": "Göktürk harfi A",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_A.svg",
+        "componentName": "GokturkAIcon"
+      },
+      {
+        "id": "gokturk-b1",
+        "title": "Göktürk harfi B1",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_B1.svg",
+        "componentName": "GokturkB1Icon"
+      },
+      {
+        "id": "gokturk-b2",
+        "title": "Göktürk harfi B2",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_B2.svg",
+        "componentName": "GokturkB2Icon"
+      },
+      {
+        "id": "gokturk-ch",
+        "title": "Göktürk harfi CH",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_CH.svg",
+        "componentName": "GokturkChIcon"
+      },
+      {
+        "id": "gokturk-d1",
+        "title": "Göktürk harfi D1",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_D1.svg",
+        "componentName": "GokturkD1Icon"
+      },
+      {
+        "id": "gokturk-d2",
+        "title": "Göktürk harfi D2",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_D2.svg",
+        "componentName": "GokturkD2Icon"
+      },
+      {
+        "id": "gokturk-g1",
+        "title": "Göktürk harfi G1",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_G1.svg",
+        "componentName": "GokturkG1Icon"
+      },
+      {
+        "id": "gokturk-g2",
+        "title": "Göktürk harfi G2",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_G2.svg",
+        "componentName": "GokturkG2Icon"
+      },
+      {
+        "id": "gokturk-i",
+        "title": "Göktürk harfi I",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_I.svg",
+        "componentName": "GokturkIIcon"
+      },
+      {
+        "id": "gokturk-ich",
+        "title": "Göktürk harfi ICH",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_ICH.svg",
+        "componentName": "GokturkIchIcon"
+      },
+      {
+        "id": "gokturk-iq",
+        "title": "Göktürk harfi IQ",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_IQ.svg",
+        "componentName": "GokturkIqIcon"
+      },
+      {
+        "id": "gokturk-k",
+        "title": "Göktürk harfi K",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_K.svg",
+        "componentName": "GokturkKIcon"
+      },
+      {
+        "id": "gokturk-l1",
+        "title": "Göktürk harfi L1",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_L1.svg",
+        "componentName": "GokturkL1Icon"
+      },
+      {
+        "id": "gokturk-l2",
+        "title": "Göktürk harfi L2",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_L2.svg",
+        "componentName": "GokturkL2Icon"
+      },
+      {
+        "id": "gokturk-lt",
+        "title": "Göktürk harfi LT",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_LT.svg",
+        "componentName": "GokturkLtIcon"
+      },
+      {
+        "id": "gokturk-m",
+        "title": "Göktürk harfi M",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_M.svg",
+        "componentName": "GokturkMIcon"
+      },
+      {
+        "id": "gokturk-n1",
+        "title": "Göktürk harfi N1",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_N1.svg",
+        "componentName": "GokturkN1Icon"
+      },
+      {
+        "id": "gokturk-n2",
+        "title": "Göktürk harfi N2",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_N2.svg",
+        "componentName": "GokturkN2Icon"
+      },
+      {
+        "id": "gokturk-nch",
+        "title": "Göktürk harfi NCH",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_NCH.svg",
+        "componentName": "GokturkNchIcon"
+      },
+      {
+        "id": "gokturk-ng",
+        "title": "Göktürk harfi NG",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_NG.svg",
+        "componentName": "GokturkNgIcon"
+      },
+      {
+        "id": "gokturk-nt",
+        "title": "Göktürk harfi NT",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_NT.svg",
+        "componentName": "GokturkNtIcon"
+      },
+      {
+        "id": "gokturk-ny",
+        "title": "Göktürk harfi NY",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_NY.svg",
+        "componentName": "GokturkNyIcon"
+      },
+      {
+        "id": "gokturk-o",
+        "title": "Göktürk harfi O",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_O.svg",
+        "componentName": "GokturkOIcon"
+      },
+      {
+        "id": "gokturk-oq",
+        "title": "Göktürk harfi OQ",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_OQ.svg",
+        "componentName": "GokturkOqIcon"
+      },
+      {
+        "id": "gokturk-p",
+        "title": "Göktürk harfi P",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_P.svg",
+        "componentName": "GokturkPIcon"
+      },
+      {
+        "id": "gokturk-q",
+        "title": "Göktürk harfi Q",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_Q.svg",
+        "componentName": "GokturkQIcon"
+      },
+      {
+        "id": "gokturk-r1",
+        "title": "Göktürk harfi R1",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_R1.svg",
+        "componentName": "GokturkR1Icon"
+      },
+      {
+        "id": "gokturk-r2",
+        "title": "Göktürk harfi R2",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_R2.svg",
+        "componentName": "GokturkR2Icon"
+      },
+      {
+        "id": "gokturk-s1",
+        "title": "Göktürk harfi S1",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_S1.svg",
+        "componentName": "GokturkS1Icon"
+      },
+      {
+        "id": "gokturk-s2",
+        "title": "Göktürk harfi S2",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_S2.svg",
+        "componentName": "GokturkS2Icon"
+      },
+      {
+        "id": "gokturk-sep",
+        "title": "Göktürk harfi SEP",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_SEP.svg",
+        "componentName": "GokturkSepIcon"
+      },
+      {
+        "id": "gokturk-sh",
+        "title": "Göktürk harfi SH",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_SH.svg",
+        "componentName": "GokturkShIcon"
+      },
+      {
+        "id": "gokturk-t1",
+        "title": "Göktürk harfi T1",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_T1.svg",
+        "componentName": "GokturkT1Icon"
+      },
+      {
+        "id": "gokturk-t2",
+        "title": "Göktürk harfi T2",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_T2.svg",
+        "componentName": "GokturkT2Icon"
+      },
+      {
+        "id": "gokturk-u",
+        "title": "Göktürk harfi U",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_U.svg",
+        "componentName": "GokturkUIcon"
+      },
+      {
+        "id": "gokturk-uk",
+        "title": "Göktürk harfi UK",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_UK.svg",
+        "componentName": "GokturkUkIcon"
+      },
+      {
+        "id": "gokturk-y1",
+        "title": "Göktürk harfi Y1",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_Y1.svg",
+        "componentName": "GokturkY1Icon"
+      },
+      {
+        "id": "gokturk-y2",
+        "title": "Göktürk harfi Y2",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_Y2.svg",
+        "componentName": "GokturkY2Icon"
+      },
+      {
+        "id": "gokturk-z",
+        "title": "Göktürk harfi Z",
+        "hexColor": "#000000",
+        "website": "https://commons.wikimedia.org/wiki/File:Old_Turkic_letter_Z.svg",
+        "componentName": "GokturkZIcon"
+      }
+    ]
+  },
+  {
     "category": "motif",
     "categoryTitle": "Anadolu Kilim Motifleri",
     "icons": [

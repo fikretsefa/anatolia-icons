@@ -43,6 +43,7 @@ import { GaziUniIcon, OdtuIcon } from '@anatolia-icons/react/universite';
 | `@anatolia-icons/react/teknoloji` | Teknoloji, savunma & açık kaynak |
 | `@anatolia-icons/react/finans` | Finans & ödeme standartları |
 | `@anatolia-icons/react/belediye` | Büyükşehir belediyeleri |
+| `@anatolia-icons/react/gokturk` | Göktürk alfabesi |
 | `@anatolia-icons/react/motif` | Anadolu kilim motifleri |
 | `@anatolia-icons/react/brands` | Vitrin / filtre için katalog |
 

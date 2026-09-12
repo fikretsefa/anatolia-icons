@@ -1,0 +1,22 @@
+/* Bu dosya otomatik üretilir (scripts/build-react.mjs). Elle düzenlemeyin. */
+
+import * as React from 'react';
+import type { IconProps } from '../../types';
+
+/**
+ * GokturkS1Icon SVG ikon bileşeni.
+ * @remarks SVGR pipeline tarafından üretilir; size, color, title ve className destekler.
+ */
+export const GokturkS1Icon = React.forwardRef<SVGSVGElement, IconProps>(({
+  size = 24,
+  color,
+  title,
+  titleId,
+  className,
+  ...props
+}, ref) => <svg data-anatolia-icons="https://github.com/fikretsefa/anatolia-icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 200" width={size} height={size} color={color} className={className} role="img" ref={ref} aria-labelledby={titleId} {...props}>{title ? <title id={titleId}>{title}</title> : null}<path d="m246.474 409.054 43.125-48.25 20 17.75-44.25 49.5s24.25 22.316 24.25 43c0 31.12-45.75 43.125-45.75 43.125l-9.375-24.875s28.25-7.795 28.25-19.375c0-16.441-55.25-45.722-55.25-83.625 0-18.74 19.656-30.147 19.656-30.147l16.47 20.522s-8.126 5-8.126 12.375c0 10.25 11 20 11 20z" style={{
+    fill: "#000",
+    stroke: "#000"
+  }} transform="translate(-183.537 -335.168)" /></svg>);
+
+GokturkS1Icon.displayName = 'GokturkS1Icon';

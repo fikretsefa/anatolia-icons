@@ -22,6 +22,7 @@ pnpm install
    | Teknoloji, savunma & açık kaynak | `raw-icons/teknoloji/` |
    | Finans & ödeme | `raw-icons/finans/` |
    | Büyükşehir belediyeleri | `raw-icons/belediye/` |
+   | Göktürk alfabesi | `raw-icons/gokturk/` |
    | Anadolu kilim motifleri | `raw-icons/motif/` |
 
    Örnek: `raw-icons/universite/ege-uni.svg`
@@ -65,6 +66,7 @@ Yeni bir `category` slug'ı ekliyorsanız aynı adı şu yerlere de yansıtın:
 - `raw-icons/<slug>/`
 - `scripts/data/brands.json` (`category` + `categoryTitle`)
 - `@anatolia-icons/react` `exports` haritası (`packages/react/package.json`)
+- `@anatolia-icons/svg` `files` ve `exports` haritası (`packages/svg/package.json`)
 - `packages/react/tsup.config.ts` `entry` listesi
 
 Ardından `pnpm build` kategori barrel dosyasını üretir.

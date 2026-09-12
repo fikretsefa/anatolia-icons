@@ -66,6 +66,11 @@
       "import": "./dist/belediye.js",
       "require": "./dist/belediye.cjs"
     },
+    "./gokturk": {
+      "types": "./dist/gokturk.d.ts",
+      "import": "./dist/gokturk.js",
+      "require": "./dist/gokturk.cjs"
+    },
     "./motif": {
       "types": "./dist/motif.d.ts",
       "import": "./dist/motif.js",

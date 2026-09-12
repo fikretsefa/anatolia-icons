@@ -37,6 +37,7 @@
     "teknoloji",
     "finans",
     "belediye",
+    "gokturk",
     "motif"
   ],
   "exports": {
@@ -45,6 +46,7 @@
     "./teknoloji/*": "./teknoloji/*",
     "./finans/*": "./finans/*",
     "./belediye/*": "./belediye/*",
+    "./gokturk/*": "./gokturk/*",
     "./motif/*": "./motif/*"
   }
 }

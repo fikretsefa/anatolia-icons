@@ -28,7 +28,7 @@ Türk kamu kurumları, üniversiteler, teknoloji ve ödeme markalarının SVG lo
   <img src="docs/readme/motif/hayat-agaci.svg" width="40" height="40" alt="Hayat Ağacı" />
 </p>
 
-306 ikon · 6 kategori. Tam liste aşağıda: [İkon kataloğu](#ikon-kataloğu).
+345 ikon · 7 kategori. Tam liste aşağıda: [İkon kataloğu](#ikon-kataloğu).
 
 ## Kurulum
 
@@ -88,6 +88,7 @@ Kategori slug'ları:
 | `@anatolia-icons/react/teknoloji`            | Teknoloji, savunma & açık kaynak |
 | `@anatolia-icons/react/finans`               | Finans & ödeme standartları      |
 | `@anatolia-icons/react/belediye`             | Büyükşehir belediyeleri          |
+| `@anatolia-icons/react/gokturk`              | Göktürk alfabesi                 |
 | `@anatolia-icons/react/motif`                | Anadolu kilim motifleri          |
 | `@anatolia-icons/react/brands`               | Vitrin / filtre için katalog     |
 
@@ -1681,6 +1682,223 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Yunusemre Belediyesi</b></sub><br/>
 <sub><code>YunusemreBelIcon</code></sub>
 </td>
+<td width="16.67%"></td>
+</tr>
+</table>
+
+### Göktürk Alfabesi
+
+<table>
+<tr>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-a.svg" width="48" height="48" alt="Göktürk harfi A" /><br/>
+<sub><b>Göktürk harfi A</b></sub><br/>
+<sub><code>GokturkAIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-b1.svg" width="48" height="48" alt="Göktürk harfi B1" /><br/>
+<sub><b>Göktürk harfi B1</b></sub><br/>
+<sub><code>GokturkB1Icon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-b2.svg" width="48" height="48" alt="Göktürk harfi B2" /><br/>
+<sub><b>Göktürk harfi B2</b></sub><br/>
+<sub><code>GokturkB2Icon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-ch.svg" width="48" height="48" alt="Göktürk harfi CH" /><br/>
+<sub><b>Göktürk harfi CH</b></sub><br/>
+<sub><code>GokturkChIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-d1.svg" width="48" height="48" alt="Göktürk harfi D1" /><br/>
+<sub><b>Göktürk harfi D1</b></sub><br/>
+<sub><code>GokturkD1Icon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-d2.svg" width="48" height="48" alt="Göktürk harfi D2" /><br/>
+<sub><b>Göktürk harfi D2</b></sub><br/>
+<sub><code>GokturkD2Icon</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-g1.svg" width="48" height="48" alt="Göktürk harfi G1" /><br/>
+<sub><b>Göktürk harfi G1</b></sub><br/>
+<sub><code>GokturkG1Icon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-g2.svg" width="48" height="48" alt="Göktürk harfi G2" /><br/>
+<sub><b>Göktürk harfi G2</b></sub><br/>
+<sub><code>GokturkG2Icon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-i.svg" width="48" height="48" alt="Göktürk harfi I" /><br/>
+<sub><b>Göktürk harfi I</b></sub><br/>
+<sub><code>GokturkIIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-ich.svg" width="48" height="48" alt="Göktürk harfi ICH" /><br/>
+<sub><b>Göktürk harfi ICH</b></sub><br/>
+<sub><code>GokturkIchIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-iq.svg" width="48" height="48" alt="Göktürk harfi IQ" /><br/>
+<sub><b>Göktürk harfi IQ</b></sub><br/>
+<sub><code>GokturkIqIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-k.svg" width="48" height="48" alt="Göktürk harfi K" /><br/>
+<sub><b>Göktürk harfi K</b></sub><br/>
+<sub><code>GokturkKIcon</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-l1.svg" width="48" height="48" alt="Göktürk harfi L1" /><br/>
+<sub><b>Göktürk harfi L1</b></sub><br/>
+<sub><code>GokturkL1Icon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-l2.svg" width="48" height="48" alt="Göktürk harfi L2" /><br/>
+<sub><b>Göktürk harfi L2</b></sub><br/>
+<sub><code>GokturkL2Icon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-lt.svg" width="48" height="48" alt="Göktürk harfi LT" /><br/>
+<sub><b>Göktürk harfi LT</b></sub><br/>
+<sub><code>GokturkLtIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-m.svg" width="48" height="48" alt="Göktürk harfi M" /><br/>
+<sub><b>Göktürk harfi M</b></sub><br/>
+<sub><code>GokturkMIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-n1.svg" width="48" height="48" alt="Göktürk harfi N1" /><br/>
+<sub><b>Göktürk harfi N1</b></sub><br/>
+<sub><code>GokturkN1Icon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-n2.svg" width="48" height="48" alt="Göktürk harfi N2" /><br/>
+<sub><b>Göktürk harfi N2</b></sub><br/>
+<sub><code>GokturkN2Icon</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-nch.svg" width="48" height="48" alt="Göktürk harfi NCH" /><br/>
+<sub><b>Göktürk harfi NCH</b></sub><br/>
+<sub><code>GokturkNchIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-ng.svg" width="48" height="48" alt="Göktürk harfi NG" /><br/>
+<sub><b>Göktürk harfi NG</b></sub><br/>
+<sub><code>GokturkNgIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-nt.svg" width="48" height="48" alt="Göktürk harfi NT" /><br/>
+<sub><b>Göktürk harfi NT</b></sub><br/>
+<sub><code>GokturkNtIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-ny.svg" width="48" height="48" alt="Göktürk harfi NY" /><br/>
+<sub><b>Göktürk harfi NY</b></sub><br/>
+<sub><code>GokturkNyIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-o.svg" width="48" height="48" alt="Göktürk harfi O" /><br/>
+<sub><b>Göktürk harfi O</b></sub><br/>
+<sub><code>GokturkOIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-oq.svg" width="48" height="48" alt="Göktürk harfi OQ" /><br/>
+<sub><b>Göktürk harfi OQ</b></sub><br/>
+<sub><code>GokturkOqIcon</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-p.svg" width="48" height="48" alt="Göktürk harfi P" /><br/>
+<sub><b>Göktürk harfi P</b></sub><br/>
+<sub><code>GokturkPIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-q.svg" width="48" height="48" alt="Göktürk harfi Q" /><br/>
+<sub><b>Göktürk harfi Q</b></sub><br/>
+<sub><code>GokturkQIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-r1.svg" width="48" height="48" alt="Göktürk harfi R1" /><br/>
+<sub><b>Göktürk harfi R1</b></sub><br/>
+<sub><code>GokturkR1Icon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-r2.svg" width="48" height="48" alt="Göktürk harfi R2" /><br/>
+<sub><b>Göktürk harfi R2</b></sub><br/>
+<sub><code>GokturkR2Icon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-s1.svg" width="48" height="48" alt="Göktürk harfi S1" /><br/>
+<sub><b>Göktürk harfi S1</b></sub><br/>
+<sub><code>GokturkS1Icon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-s2.svg" width="48" height="48" alt="Göktürk harfi S2" /><br/>
+<sub><b>Göktürk harfi S2</b></sub><br/>
+<sub><code>GokturkS2Icon</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-sep.svg" width="48" height="48" alt="Göktürk harfi SEP" /><br/>
+<sub><b>Göktürk harfi SEP</b></sub><br/>
+<sub><code>GokturkSepIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-sh.svg" width="48" height="48" alt="Göktürk harfi SH" /><br/>
+<sub><b>Göktürk harfi SH</b></sub><br/>
+<sub><code>GokturkShIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-t1.svg" width="48" height="48" alt="Göktürk harfi T1" /><br/>
+<sub><b>Göktürk harfi T1</b></sub><br/>
+<sub><code>GokturkT1Icon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-t2.svg" width="48" height="48" alt="Göktürk harfi T2" /><br/>
+<sub><b>Göktürk harfi T2</b></sub><br/>
+<sub><code>GokturkT2Icon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-u.svg" width="48" height="48" alt="Göktürk harfi U" /><br/>
+<sub><b>Göktürk harfi U</b></sub><br/>
+<sub><code>GokturkUIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-uk.svg" width="48" height="48" alt="Göktürk harfi UK" /><br/>
+<sub><b>Göktürk harfi UK</b></sub><br/>
+<sub><code>GokturkUkIcon</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-y1.svg" width="48" height="48" alt="Göktürk harfi Y1" /><br/>
+<sub><b>Göktürk harfi Y1</b></sub><br/>
+<sub><code>GokturkY1Icon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-y2.svg" width="48" height="48" alt="Göktürk harfi Y2" /><br/>
+<sub><b>Göktürk harfi Y2</b></sub><br/>
+<sub><code>GokturkY2Icon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/gokturk/gokturk-z.svg" width="48" height="48" alt="Göktürk harfi Z" /><br/>
+<sub><b>Göktürk harfi Z</b></sub><br/>
+<sub><code>GokturkZIcon</code></sub>
+</td>
+<td width="16.67%"></td>
+<td width="16.67%"></td>
 <td width="16.67%"></td>
 </tr>
 </table>
