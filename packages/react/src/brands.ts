@@ -364,7 +364,7 @@ export const brands: BrandCategory[] = [
         "id": "hakkari",
         "title": "Hakkari Üniversitesi",
         "hexColor": "#1955A6",
-        "website": "https://www.hakkari.edu.tr / www.hu.edu.tr",
+        "website": "https://www.hakkari.edu.tr",
         "componentName": "HakkariIcon"
       },
       {
@@ -1276,16 +1276,16 @@ export const brands: BrandCategory[] = [
       },
       {
         "id": "golbasi-bel",
-        "title": "Gölbaşı Belediyesi",
+        "title": "Adıyaman Gölbaşı Belediyesi",
         "hexColor": "#5EAA3F",
         "website": "https://www.golbasi.bel.tr",
         "componentName": "GolbasiBelIcon"
       },
       {
         "id": "golbasi-ankara-bel",
-        "title": "Gölbaşı Belediyesi",
+        "title": "Ankara Gölbaşı Belediyesi",
         "hexColor": "#179367",
-        "website": "https://www.golbasi.bel.tr",
+        "website": "https://ankaragolbasi.bel.tr",
         "componentName": "GolbasiAnkaraBelIcon"
       },
       {
@@ -1518,13 +1518,6 @@ export const brands: BrandCategory[] = [
         "hexColor": "#D7B46A",
         "website": "https://www.kocaali.bel.tr",
         "componentName": "KocaaliBelIcon"
-      },
-      {
-        "id": "kocaeli-bel",
-        "title": "Kocaeli Büyükşehir Belediyesi",
-        "hexColor": "#00406E",
-        "website": "http://www.kocaeli.bel.tr/",
-        "componentName": "KocaeliBelIcon"
       },
       {
         "id": "kocarli-bel",

@@ -103,7 +103,6 @@ export { KestelBelIcon } from './icons/belediye/KestelBelIcon';
 export { KirikhanBelIcon } from './icons/belediye/KirikhanBelIcon';
 export { KirsehirBelIcon } from './icons/belediye/KirsehirBelIcon';
 export { KocaaliBelIcon } from './icons/belediye/KocaaliBelIcon';
-export { KocaeliBelIcon } from './icons/belediye/KocaeliBelIcon';
 export { KocarliBelIcon } from './icons/belediye/KocarliBelIcon';
 export { KocasinanBelIcon } from './icons/belediye/KocasinanBelIcon';
 export { KofcazBelIcon } from './icons/belediye/KofcazBelIcon';
