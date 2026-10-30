@@ -29,6 +29,7 @@ Kategori klasörleri:
 | `@anatolia-icons/svg/belediye/*` | Belediyeler |
 | `@anatolia-icons/svg/gokturk/*` | Göktürk alfabesi |
 | `@anatolia-icons/svg/motif/*` | Anadolu kilim motifleri |
+| `@anatolia-icons/svg/turkiye-haritasi/*` | Türkiye il haritaları |
 
 React bileşenleri için [`@anatolia-icons/react`](https://www.npmjs.com/package/@anatolia-icons/react) paketini kullanın.
 

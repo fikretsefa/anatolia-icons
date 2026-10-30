@@ -1,0 +1,19 @@
+/* Bu dosya otomatik üretilir (scripts/build-react.mjs). Elle düzenlemeyin. */
+
+import * as React from 'react';
+import type { IconProps } from '../../types';
+
+/**
+ * KocaeliMapIcon SVG ikon bileşeni.
+ * @remarks SVGR pipeline tarafından üretilir; size, color, title ve className destekler.
+ */
+export const KocaeliMapIcon = React.forwardRef<SVGSVGElement, IconProps>(({
+  size = 24,
+  color,
+  title,
+  titleId,
+  className,
+  ...props
+}, ref) => <svg data-anatolia-icons="https://github.com/fikretsefa/anatolia-icons" xmlns="http://www.w3.org/2000/svg" fill="#6f9c76" stroke="#ffffff" strokeLinecap="round" strokeLinejoin="round" strokeWidth={0.5} baseProfile="tiny" viewBox="213.66 72.96 63.29 46.59" width={size} height={size} color={color} className={className} role="img" ref={ref} aria-labelledby={titleId} {...props}>{title ? <title id={titleId}>{title}</title> : null}<path d="m216 96.7 1.6-2.1 2.5-2.1 1.1-.6 2-2 2.1-1.5 2.5.2 2.3 1.9 1.4 3.1 1.4 1.2 1.7-.2.8-1.5.5-1.5 2.7-1.9 3.1-1.2 2.5-1.4 1.4-3.2-.2-2-.5-1.9 1-.5 12 .4 1.3-.2.7-.3 1.2-.8.6-.2.4-.4.4-.7.3-.5.4.3.5-.5.6-1 .5-.3.6.5 2 .5 1.6 1.2 2.8.7-.3.9L270 83l.9 3.2 3.4.6.3 2.1-1.1 1.9-.3 2.2-.9.1-2.6.1-1.6-.7-1.8-.4-.9.5.4 1.4.6.2.6.4-3.1 3.3-1.9 9.3-1.9 3.9-2.8 1.9-3.1.7-1.5.9-1.5.5-3.3.3-6.5-2.3-3.3.6-8.8 3.3-2.7.2-2.7-.9.4-2.4v-5.6l.4-.3.6-.2.5-.3.2-.5.2-.4.5-.4.5-.2.5-.1.5.1.8.4.7.7.3 1.2h.5l9.2-2.1 5.4-.3 1.7.8h1l.7-1.1-.5-1.5-1.8-.3-3.9.5-.3.1-.3.1-.4.2h-.6l-.5-.3-1-.8-.3-.2-.7-.2-1.7-.6-1-.1-11.2.5-.9.3-.8.6-.8.3-.9-.4-.4-.5-.2-.6-.3-.4-.5-.2.2-.1.1-.2.2-.1.2-.1-.2-.6-.3-.4-.3-.4-.5-.2-.2.3-.5-.3-.4.3-.5.2-1.3.3v-.4h.5l.3-.3.1-.4v-.6l.5.3.2.1v-.4h.3l-.5-.9-1-1.1z" /></svg>);
+
+KocaeliMapIcon.displayName = 'KocaeliMapIcon';

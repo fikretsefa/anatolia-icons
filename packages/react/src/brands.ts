@@ -2358,5 +2358,578 @@ export const brands: BrandCategory[] = [
         "componentName": "SacbagiIcon"
       }
     ]
+  },
+  {
+    "category": "turkiye-haritasi",
+    "categoryTitle": "Türkiye Haritası",
+    "icons": [
+      {
+        "id": "adana-map",
+        "title": "Adana",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Adana_(il)",
+        "componentName": "AdanaMapIcon"
+      },
+      {
+        "id": "adiyaman-map",
+        "title": "Adıyaman",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Ad%C4%B1yaman_(il)",
+        "componentName": "AdiyamanMapIcon"
+      },
+      {
+        "id": "afyonkarahisar-map",
+        "title": "Afyonkarahisar",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Afyonkarahisar_(il)",
+        "componentName": "AfyonkarahisarMapIcon"
+      },
+      {
+        "id": "agri-map",
+        "title": "Ağrı",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/A%C4%9Fr%C4%B1_(il)",
+        "componentName": "AgriMapIcon"
+      },
+      {
+        "id": "amasya-map",
+        "title": "Amasya",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Amasya_(il)",
+        "componentName": "AmasyaMapIcon"
+      },
+      {
+        "id": "ankara-map",
+        "title": "Ankara",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Ankara_(il)",
+        "componentName": "AnkaraMapIcon"
+      },
+      {
+        "id": "antalya-map",
+        "title": "Antalya",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Antalya_(il)",
+        "componentName": "AntalyaMapIcon"
+      },
+      {
+        "id": "artvin-map",
+        "title": "Artvin",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Artvin_(il)",
+        "componentName": "ArtvinMapIcon"
+      },
+      {
+        "id": "aydin-map",
+        "title": "Aydın",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Ayd%C4%B1n_(il)",
+        "componentName": "AydinMapIcon"
+      },
+      {
+        "id": "balikesir-map",
+        "title": "Balıkesir",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Bal%C4%B1kesir_(il)",
+        "componentName": "BalikesirMapIcon"
+      },
+      {
+        "id": "bilecik-map",
+        "title": "Bilecik",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Bilecik_(il)",
+        "componentName": "BilecikMapIcon"
+      },
+      {
+        "id": "bingol-map",
+        "title": "Bingöl",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Bing%C3%B6l_(il)",
+        "componentName": "BingolMapIcon"
+      },
+      {
+        "id": "bitlis-map",
+        "title": "Bitlis",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Bitlis_(il)",
+        "componentName": "BitlisMapIcon"
+      },
+      {
+        "id": "bolu-map",
+        "title": "Bolu",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Bolu_(il)",
+        "componentName": "BoluMapIcon"
+      },
+      {
+        "id": "burdur-map",
+        "title": "Burdur",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Burdur_(il)",
+        "componentName": "BurdurMapIcon"
+      },
+      {
+        "id": "bursa-map",
+        "title": "Bursa",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Bursa_(il)",
+        "componentName": "BursaMapIcon"
+      },
+      {
+        "id": "canakkale-map",
+        "title": "Çanakkale",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/%C3%87anakkale_(il)",
+        "componentName": "CanakkaleMapIcon"
+      },
+      {
+        "id": "cankiri-map",
+        "title": "Çankırı",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/%C3%87ank%C4%B1r%C4%B1_(il)",
+        "componentName": "CankiriMapIcon"
+      },
+      {
+        "id": "corum-map",
+        "title": "Çorum",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/%C3%87orum_(il)",
+        "componentName": "CorumMapIcon"
+      },
+      {
+        "id": "denizli-map",
+        "title": "Denizli",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Denizli_(il)",
+        "componentName": "DenizliMapIcon"
+      },
+      {
+        "id": "diyarbakir-map",
+        "title": "Diyarbakır",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Diyarbak%C4%B1r_(il)",
+        "componentName": "DiyarbakirMapIcon"
+      },
+      {
+        "id": "edirne-map",
+        "title": "Edirne",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Edirne_(il)",
+        "componentName": "EdirneMapIcon"
+      },
+      {
+        "id": "elazig-map",
+        "title": "Elazığ",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Elaz%C4%B1%C4%9F_(il)",
+        "componentName": "ElazigMapIcon"
+      },
+      {
+        "id": "erzincan-map",
+        "title": "Erzincan",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Erzincan_(il)",
+        "componentName": "ErzincanMapIcon"
+      },
+      {
+        "id": "erzurum-map",
+        "title": "Erzurum",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Erzurum_(il)",
+        "componentName": "ErzurumMapIcon"
+      },
+      {
+        "id": "eskisehir-map",
+        "title": "Eskişehir",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Eski%C5%9Fehir_(il)",
+        "componentName": "EskisehirMapIcon"
+      },
+      {
+        "id": "gaziantep-map",
+        "title": "Gaziantep",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Gaziantep_(il)",
+        "componentName": "GaziantepMapIcon"
+      },
+      {
+        "id": "giresun-map",
+        "title": "Giresun",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Giresun_(il)",
+        "componentName": "GiresunMapIcon"
+      },
+      {
+        "id": "gumushane-map",
+        "title": "Gümüşhane",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/G%C3%BCm%C3%BC%C5%9Fhane_(il)",
+        "componentName": "GumushaneMapIcon"
+      },
+      {
+        "id": "hakkari-map",
+        "title": "Hakkari",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Hakkari_(il)",
+        "componentName": "HakkariMapIcon"
+      },
+      {
+        "id": "hatay-map",
+        "title": "Hatay",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Hatay_(il)",
+        "componentName": "HatayMapIcon"
+      },
+      {
+        "id": "isparta-map",
+        "title": "Isparta",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Isparta_(il)",
+        "componentName": "IspartaMapIcon"
+      },
+      {
+        "id": "mersin-map",
+        "title": "Mersin",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Mersin_(il)",
+        "componentName": "MersinMapIcon"
+      },
+      {
+        "id": "istanbul-map",
+        "title": "İstanbul",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/%C4%B0stanbul_(il)",
+        "componentName": "IstanbulMapIcon"
+      },
+      {
+        "id": "izmir-map",
+        "title": "İzmir",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/%C4%B0zmir_(il)",
+        "componentName": "IzmirMapIcon"
+      },
+      {
+        "id": "kars-map",
+        "title": "Kars",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Kars_(il)",
+        "componentName": "KarsMapIcon"
+      },
+      {
+        "id": "kastamonu-map",
+        "title": "Kastamonu",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Kastamonu_(il)",
+        "componentName": "KastamonuMapIcon"
+      },
+      {
+        "id": "kayseri-map",
+        "title": "Kayseri",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Kayseri_(il)",
+        "componentName": "KayseriMapIcon"
+      },
+      {
+        "id": "kirklareli-map",
+        "title": "Kırklareli",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/K%C4%B1rklareli_(il)",
+        "componentName": "KirklareliMapIcon"
+      },
+      {
+        "id": "kirsehir-map",
+        "title": "Kırşehir",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/K%C4%B1r%C5%9Fehir_(il)",
+        "componentName": "KirsehirMapIcon"
+      },
+      {
+        "id": "kocaeli-map",
+        "title": "Kocaeli",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Kocaeli_(il)",
+        "componentName": "KocaeliMapIcon"
+      },
+      {
+        "id": "konya-map",
+        "title": "Konya",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Konya_(il)",
+        "componentName": "KonyaMapIcon"
+      },
+      {
+        "id": "kutahya-map",
+        "title": "Kütahya",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/K%C3%BCtahya_(il)",
+        "componentName": "KutahyaMapIcon"
+      },
+      {
+        "id": "malatya-map",
+        "title": "Malatya",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Malatya_(il)",
+        "componentName": "MalatyaMapIcon"
+      },
+      {
+        "id": "manisa-map",
+        "title": "Manisa",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Manisa_(il)",
+        "componentName": "ManisaMapIcon"
+      },
+      {
+        "id": "kahramanmaras-map",
+        "title": "Kahramanmaraş",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Kahramanmara%C5%9F_(il)",
+        "componentName": "KahramanmarasMapIcon"
+      },
+      {
+        "id": "mardin-map",
+        "title": "Mardin",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Mardin_(il)",
+        "componentName": "MardinMapIcon"
+      },
+      {
+        "id": "mugla-map",
+        "title": "Muğla",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Mu%C4%9Fla_(il)",
+        "componentName": "MuglaMapIcon"
+      },
+      {
+        "id": "mus-map",
+        "title": "Muş",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Mu%C5%9F_(il)",
+        "componentName": "MusMapIcon"
+      },
+      {
+        "id": "nevsehir-map",
+        "title": "Nevşehir",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Nev%C5%9Fehir_(il)",
+        "componentName": "NevsehirMapIcon"
+      },
+      {
+        "id": "nigde-map",
+        "title": "Niğde",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Ni%C4%9Fde_(il)",
+        "componentName": "NigdeMapIcon"
+      },
+      {
+        "id": "ordu-map",
+        "title": "Ordu",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Ordu_(il)",
+        "componentName": "OrduMapIcon"
+      },
+      {
+        "id": "rize-map",
+        "title": "Rize",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Rize_(il)",
+        "componentName": "RizeMapIcon"
+      },
+      {
+        "id": "sakarya-map",
+        "title": "Sakarya",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Sakarya_(il)",
+        "componentName": "SakaryaMapIcon"
+      },
+      {
+        "id": "samsun-map",
+        "title": "Samsun",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Samsun_(il)",
+        "componentName": "SamsunMapIcon"
+      },
+      {
+        "id": "siirt-map",
+        "title": "Siirt",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Siirt_(il)",
+        "componentName": "SiirtMapIcon"
+      },
+      {
+        "id": "sinop-map",
+        "title": "Sinop",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Sinop_(il)",
+        "componentName": "SinopMapIcon"
+      },
+      {
+        "id": "sivas-map",
+        "title": "Sivas",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Sivas_(il)",
+        "componentName": "SivasMapIcon"
+      },
+      {
+        "id": "tekirdag-map",
+        "title": "Tekirdağ",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Tekirda%C4%9F_(il)",
+        "componentName": "TekirdagMapIcon"
+      },
+      {
+        "id": "tokat-map",
+        "title": "Tokat",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Tokat_(il)",
+        "componentName": "TokatMapIcon"
+      },
+      {
+        "id": "trabzon-map",
+        "title": "Trabzon",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Trabzon_(il)",
+        "componentName": "TrabzonMapIcon"
+      },
+      {
+        "id": "tunceli-map",
+        "title": "Tunceli",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Tunceli_(il)",
+        "componentName": "TunceliMapIcon"
+      },
+      {
+        "id": "sanliurfa-map",
+        "title": "Şanlıurfa",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/%C5%9Eanl%C4%B1urfa_(il)",
+        "componentName": "SanliurfaMapIcon"
+      },
+      {
+        "id": "usak-map",
+        "title": "Uşak",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/U%C5%9Fak_(il)",
+        "componentName": "UsakMapIcon"
+      },
+      {
+        "id": "van-map",
+        "title": "Van",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Van_(il)",
+        "componentName": "VanMapIcon"
+      },
+      {
+        "id": "yozgat-map",
+        "title": "Yozgat",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Yozgat_(il)",
+        "componentName": "YozgatMapIcon"
+      },
+      {
+        "id": "zonguldak-map",
+        "title": "Zonguldak",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Zonguldak_(il)",
+        "componentName": "ZonguldakMapIcon"
+      },
+      {
+        "id": "aksaray-map",
+        "title": "Aksaray",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Aksaray_(il)",
+        "componentName": "AksarayMapIcon"
+      },
+      {
+        "id": "bayburt-map",
+        "title": "Bayburt",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Bayburt_(il)",
+        "componentName": "BayburtMapIcon"
+      },
+      {
+        "id": "karaman-map",
+        "title": "Karaman",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Karaman_(il)",
+        "componentName": "KaramanMapIcon"
+      },
+      {
+        "id": "kirikkale-map",
+        "title": "Kırıkkale",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/K%C4%B1r%C4%B1kkale_(il)",
+        "componentName": "KirikkaleMapIcon"
+      },
+      {
+        "id": "batman-map",
+        "title": "Batman",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Batman_(il)",
+        "componentName": "BatmanMapIcon"
+      },
+      {
+        "id": "sirnak-map",
+        "title": "Şırnak",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/%C5%9E%C4%B1rnak_(il)",
+        "componentName": "SirnakMapIcon"
+      },
+      {
+        "id": "bartin-map",
+        "title": "Bartın",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Bart%C4%B1n_(il)",
+        "componentName": "BartinMapIcon"
+      },
+      {
+        "id": "ardahan-map",
+        "title": "Ardahan",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Ardahan_(il)",
+        "componentName": "ArdahanMapIcon"
+      },
+      {
+        "id": "igdir-map",
+        "title": "Iğdır",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/I%C4%9Fd%C4%B1r_(il)",
+        "componentName": "IgdirMapIcon"
+      },
+      {
+        "id": "yalova-map",
+        "title": "Yalova",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Yalova_(il)",
+        "componentName": "YalovaMapIcon"
+      },
+      {
+        "id": "karabuk-map",
+        "title": "Karabük",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Karab%C3%BCk_(il)",
+        "componentName": "KarabukMapIcon"
+      },
+      {
+        "id": "kilis-map",
+        "title": "Kilis",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Kilis_(il)",
+        "componentName": "KilisMapIcon"
+      },
+      {
+        "id": "osmaniye-map",
+        "title": "Osmaniye",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/Osmaniye_(il)",
+        "componentName": "OsmaniyeMapIcon"
+      },
+      {
+        "id": "duzce-map",
+        "title": "Düzce",
+        "hexColor": "#6f9c76",
+        "website": "https://tr.wikipedia.org/wiki/D%C3%BCzce_(il)",
+        "componentName": "DuzceMapIcon"
+      }
+    ]
   }
 ];

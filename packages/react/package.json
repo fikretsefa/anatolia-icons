@@ -76,6 +76,11 @@
       "import": "./dist/motif.js",
       "require": "./dist/motif.cjs"
     },
+    "./turkiye-haritasi": {
+      "types": "./dist/turkiye-haritasi.d.ts",
+      "import": "./dist/turkiye-haritasi.js",
+      "require": "./dist/turkiye-haritasi.cjs"
+    },
     "./brands": {
       "types": "./dist/brands.d.ts",
       "import": "./dist/brands.js",

@@ -28,7 +28,7 @@ Türk kamu kurumları, üniversiteler, teknoloji ve ödeme markalarının SVG lo
   <img src="docs/readme/motif/hayat-agaci.svg" width="40" height="40" alt="Hayat Ağacı" />
 </p>
 
-324 ikon · 7 kategori. Tam liste aşağıda: [İkon kataloğu](#ikon-kataloğu).
+405 ikon · 8 kategori. Tam liste aşağıda: [İkon kataloğu](#ikon-kataloğu).
 
 ## Kurulum
 
@@ -90,6 +90,7 @@ Kategori slug'ları:
 | `@anatolia-icons/react/belediye`             | Belediyeler                      |
 | `@anatolia-icons/react/gokturk`              | Göktürk alfabesi                 |
 | `@anatolia-icons/react/motif`                | Anadolu kilim motifleri          |
+| `@anatolia-icons/react/turkiye-haritasi`     | Türkiye il haritaları            |
 | `@anatolia-icons/react/brands`               | Vitrin / filtre için katalog     |
 
 
@@ -1902,6 +1903,447 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 </td>
 <td width="16.67%"></td>
 <td width="16.67%"></td>
+<td width="16.67%"></td>
+<td width="16.67%"></td>
+<td width="16.67%"></td>
+</tr>
+</table>
+
+### Türkiye Haritası
+
+<table>
+<tr>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/adana-map.svg" width="48" height="48" alt="Adana" /><br/>
+<sub><b>Adana</b></sub><br/>
+<sub><code>AdanaMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/adiyaman-map.svg" width="48" height="48" alt="Adıyaman" /><br/>
+<sub><b>Adıyaman</b></sub><br/>
+<sub><code>AdiyamanMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/afyonkarahisar-map.svg" width="48" height="48" alt="Afyonkarahisar" /><br/>
+<sub><b>Afyonkarahisar</b></sub><br/>
+<sub><code>AfyonkarahisarMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/agri-map.svg" width="48" height="48" alt="Ağrı" /><br/>
+<sub><b>Ağrı</b></sub><br/>
+<sub><code>AgriMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/amasya-map.svg" width="48" height="48" alt="Amasya" /><br/>
+<sub><b>Amasya</b></sub><br/>
+<sub><code>AmasyaMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/ankara-map.svg" width="48" height="48" alt="Ankara" /><br/>
+<sub><b>Ankara</b></sub><br/>
+<sub><code>AnkaraMapIcon</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/antalya-map.svg" width="48" height="48" alt="Antalya" /><br/>
+<sub><b>Antalya</b></sub><br/>
+<sub><code>AntalyaMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/artvin-map.svg" width="48" height="48" alt="Artvin" /><br/>
+<sub><b>Artvin</b></sub><br/>
+<sub><code>ArtvinMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/aydin-map.svg" width="48" height="48" alt="Aydın" /><br/>
+<sub><b>Aydın</b></sub><br/>
+<sub><code>AydinMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/balikesir-map.svg" width="48" height="48" alt="Balıkesir" /><br/>
+<sub><b>Balıkesir</b></sub><br/>
+<sub><code>BalikesirMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/bilecik-map.svg" width="48" height="48" alt="Bilecik" /><br/>
+<sub><b>Bilecik</b></sub><br/>
+<sub><code>BilecikMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/bingol-map.svg" width="48" height="48" alt="Bingöl" /><br/>
+<sub><b>Bingöl</b></sub><br/>
+<sub><code>BingolMapIcon</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/bitlis-map.svg" width="48" height="48" alt="Bitlis" /><br/>
+<sub><b>Bitlis</b></sub><br/>
+<sub><code>BitlisMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/bolu-map.svg" width="48" height="48" alt="Bolu" /><br/>
+<sub><b>Bolu</b></sub><br/>
+<sub><code>BoluMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/burdur-map.svg" width="48" height="48" alt="Burdur" /><br/>
+<sub><b>Burdur</b></sub><br/>
+<sub><code>BurdurMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/bursa-map.svg" width="48" height="48" alt="Bursa" /><br/>
+<sub><b>Bursa</b></sub><br/>
+<sub><code>BursaMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/canakkale-map.svg" width="48" height="48" alt="Çanakkale" /><br/>
+<sub><b>Çanakkale</b></sub><br/>
+<sub><code>CanakkaleMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/cankiri-map.svg" width="48" height="48" alt="Çankırı" /><br/>
+<sub><b>Çankırı</b></sub><br/>
+<sub><code>CankiriMapIcon</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/corum-map.svg" width="48" height="48" alt="Çorum" /><br/>
+<sub><b>Çorum</b></sub><br/>
+<sub><code>CorumMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/denizli-map.svg" width="48" height="48" alt="Denizli" /><br/>
+<sub><b>Denizli</b></sub><br/>
+<sub><code>DenizliMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/diyarbakir-map.svg" width="48" height="48" alt="Diyarbakır" /><br/>
+<sub><b>Diyarbakır</b></sub><br/>
+<sub><code>DiyarbakirMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/edirne-map.svg" width="48" height="48" alt="Edirne" /><br/>
+<sub><b>Edirne</b></sub><br/>
+<sub><code>EdirneMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/elazig-map.svg" width="48" height="48" alt="Elazığ" /><br/>
+<sub><b>Elazığ</b></sub><br/>
+<sub><code>ElazigMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/erzincan-map.svg" width="48" height="48" alt="Erzincan" /><br/>
+<sub><b>Erzincan</b></sub><br/>
+<sub><code>ErzincanMapIcon</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/erzurum-map.svg" width="48" height="48" alt="Erzurum" /><br/>
+<sub><b>Erzurum</b></sub><br/>
+<sub><code>ErzurumMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/eskisehir-map.svg" width="48" height="48" alt="Eskişehir" /><br/>
+<sub><b>Eskişehir</b></sub><br/>
+<sub><code>EskisehirMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/gaziantep-map.svg" width="48" height="48" alt="Gaziantep" /><br/>
+<sub><b>Gaziantep</b></sub><br/>
+<sub><code>GaziantepMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/giresun-map.svg" width="48" height="48" alt="Giresun" /><br/>
+<sub><b>Giresun</b></sub><br/>
+<sub><code>GiresunMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/gumushane-map.svg" width="48" height="48" alt="Gümüşhane" /><br/>
+<sub><b>Gümüşhane</b></sub><br/>
+<sub><code>GumushaneMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/hakkari-map.svg" width="48" height="48" alt="Hakkari" /><br/>
+<sub><b>Hakkari</b></sub><br/>
+<sub><code>HakkariMapIcon</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/hatay-map.svg" width="48" height="48" alt="Hatay" /><br/>
+<sub><b>Hatay</b></sub><br/>
+<sub><code>HatayMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/isparta-map.svg" width="48" height="48" alt="Isparta" /><br/>
+<sub><b>Isparta</b></sub><br/>
+<sub><code>IspartaMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/mersin-map.svg" width="48" height="48" alt="Mersin" /><br/>
+<sub><b>Mersin</b></sub><br/>
+<sub><code>MersinMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/istanbul-map.svg" width="48" height="48" alt="İstanbul" /><br/>
+<sub><b>İstanbul</b></sub><br/>
+<sub><code>IstanbulMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/izmir-map.svg" width="48" height="48" alt="İzmir" /><br/>
+<sub><b>İzmir</b></sub><br/>
+<sub><code>IzmirMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/kars-map.svg" width="48" height="48" alt="Kars" /><br/>
+<sub><b>Kars</b></sub><br/>
+<sub><code>KarsMapIcon</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/kastamonu-map.svg" width="48" height="48" alt="Kastamonu" /><br/>
+<sub><b>Kastamonu</b></sub><br/>
+<sub><code>KastamonuMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/kayseri-map.svg" width="48" height="48" alt="Kayseri" /><br/>
+<sub><b>Kayseri</b></sub><br/>
+<sub><code>KayseriMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/kirklareli-map.svg" width="48" height="48" alt="Kırklareli" /><br/>
+<sub><b>Kırklareli</b></sub><br/>
+<sub><code>KirklareliMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/kirsehir-map.svg" width="48" height="48" alt="Kırşehir" /><br/>
+<sub><b>Kırşehir</b></sub><br/>
+<sub><code>KirsehirMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/kocaeli-map.svg" width="48" height="48" alt="Kocaeli" /><br/>
+<sub><b>Kocaeli</b></sub><br/>
+<sub><code>KocaeliMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/konya-map.svg" width="48" height="48" alt="Konya" /><br/>
+<sub><b>Konya</b></sub><br/>
+<sub><code>KonyaMapIcon</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/kutahya-map.svg" width="48" height="48" alt="Kütahya" /><br/>
+<sub><b>Kütahya</b></sub><br/>
+<sub><code>KutahyaMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/malatya-map.svg" width="48" height="48" alt="Malatya" /><br/>
+<sub><b>Malatya</b></sub><br/>
+<sub><code>MalatyaMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/manisa-map.svg" width="48" height="48" alt="Manisa" /><br/>
+<sub><b>Manisa</b></sub><br/>
+<sub><code>ManisaMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/kahramanmaras-map.svg" width="48" height="48" alt="Kahramanmaraş" /><br/>
+<sub><b>Kahramanmaraş</b></sub><br/>
+<sub><code>KahramanmarasMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/mardin-map.svg" width="48" height="48" alt="Mardin" /><br/>
+<sub><b>Mardin</b></sub><br/>
+<sub><code>MardinMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/mugla-map.svg" width="48" height="48" alt="Muğla" /><br/>
+<sub><b>Muğla</b></sub><br/>
+<sub><code>MuglaMapIcon</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/mus-map.svg" width="48" height="48" alt="Muş" /><br/>
+<sub><b>Muş</b></sub><br/>
+<sub><code>MusMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/nevsehir-map.svg" width="48" height="48" alt="Nevşehir" /><br/>
+<sub><b>Nevşehir</b></sub><br/>
+<sub><code>NevsehirMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/nigde-map.svg" width="48" height="48" alt="Niğde" /><br/>
+<sub><b>Niğde</b></sub><br/>
+<sub><code>NigdeMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/ordu-map.svg" width="48" height="48" alt="Ordu" /><br/>
+<sub><b>Ordu</b></sub><br/>
+<sub><code>OrduMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/rize-map.svg" width="48" height="48" alt="Rize" /><br/>
+<sub><b>Rize</b></sub><br/>
+<sub><code>RizeMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/sakarya-map.svg" width="48" height="48" alt="Sakarya" /><br/>
+<sub><b>Sakarya</b></sub><br/>
+<sub><code>SakaryaMapIcon</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/samsun-map.svg" width="48" height="48" alt="Samsun" /><br/>
+<sub><b>Samsun</b></sub><br/>
+<sub><code>SamsunMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/siirt-map.svg" width="48" height="48" alt="Siirt" /><br/>
+<sub><b>Siirt</b></sub><br/>
+<sub><code>SiirtMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/sinop-map.svg" width="48" height="48" alt="Sinop" /><br/>
+<sub><b>Sinop</b></sub><br/>
+<sub><code>SinopMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/sivas-map.svg" width="48" height="48" alt="Sivas" /><br/>
+<sub><b>Sivas</b></sub><br/>
+<sub><code>SivasMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/tekirdag-map.svg" width="48" height="48" alt="Tekirdağ" /><br/>
+<sub><b>Tekirdağ</b></sub><br/>
+<sub><code>TekirdagMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/tokat-map.svg" width="48" height="48" alt="Tokat" /><br/>
+<sub><b>Tokat</b></sub><br/>
+<sub><code>TokatMapIcon</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/trabzon-map.svg" width="48" height="48" alt="Trabzon" /><br/>
+<sub><b>Trabzon</b></sub><br/>
+<sub><code>TrabzonMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/tunceli-map.svg" width="48" height="48" alt="Tunceli" /><br/>
+<sub><b>Tunceli</b></sub><br/>
+<sub><code>TunceliMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/sanliurfa-map.svg" width="48" height="48" alt="Şanlıurfa" /><br/>
+<sub><b>Şanlıurfa</b></sub><br/>
+<sub><code>SanliurfaMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/usak-map.svg" width="48" height="48" alt="Uşak" /><br/>
+<sub><b>Uşak</b></sub><br/>
+<sub><code>UsakMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/van-map.svg" width="48" height="48" alt="Van" /><br/>
+<sub><b>Van</b></sub><br/>
+<sub><code>VanMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/yozgat-map.svg" width="48" height="48" alt="Yozgat" /><br/>
+<sub><b>Yozgat</b></sub><br/>
+<sub><code>YozgatMapIcon</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/zonguldak-map.svg" width="48" height="48" alt="Zonguldak" /><br/>
+<sub><b>Zonguldak</b></sub><br/>
+<sub><code>ZonguldakMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/aksaray-map.svg" width="48" height="48" alt="Aksaray" /><br/>
+<sub><b>Aksaray</b></sub><br/>
+<sub><code>AksarayMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/bayburt-map.svg" width="48" height="48" alt="Bayburt" /><br/>
+<sub><b>Bayburt</b></sub><br/>
+<sub><code>BayburtMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/karaman-map.svg" width="48" height="48" alt="Karaman" /><br/>
+<sub><b>Karaman</b></sub><br/>
+<sub><code>KaramanMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/kirikkale-map.svg" width="48" height="48" alt="Kırıkkale" /><br/>
+<sub><b>Kırıkkale</b></sub><br/>
+<sub><code>KirikkaleMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/batman-map.svg" width="48" height="48" alt="Batman" /><br/>
+<sub><b>Batman</b></sub><br/>
+<sub><code>BatmanMapIcon</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/sirnak-map.svg" width="48" height="48" alt="Şırnak" /><br/>
+<sub><b>Şırnak</b></sub><br/>
+<sub><code>SirnakMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/bartin-map.svg" width="48" height="48" alt="Bartın" /><br/>
+<sub><b>Bartın</b></sub><br/>
+<sub><code>BartinMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/ardahan-map.svg" width="48" height="48" alt="Ardahan" /><br/>
+<sub><b>Ardahan</b></sub><br/>
+<sub><code>ArdahanMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/igdir-map.svg" width="48" height="48" alt="Iğdır" /><br/>
+<sub><b>Iğdır</b></sub><br/>
+<sub><code>IgdirMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/yalova-map.svg" width="48" height="48" alt="Yalova" /><br/>
+<sub><b>Yalova</b></sub><br/>
+<sub><code>YalovaMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/karabuk-map.svg" width="48" height="48" alt="Karabük" /><br/>
+<sub><b>Karabük</b></sub><br/>
+<sub><code>KarabukMapIcon</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/kilis-map.svg" width="48" height="48" alt="Kilis" /><br/>
+<sub><b>Kilis</b></sub><br/>
+<sub><code>KilisMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/osmaniye-map.svg" width="48" height="48" alt="Osmaniye" /><br/>
+<sub><b>Osmaniye</b></sub><br/>
+<sub><code>OsmaniyeMapIcon</code></sub>
+</td>
+<td align="center" valign="top" width="16.67%">
+<img src="docs/readme/turkiye-haritasi/duzce-map.svg" width="48" height="48" alt="Düzce" /><br/>
+<sub><b>Düzce</b></sub><br/>
+<sub><code>DuzceMapIcon</code></sub>
+</td>
 <td width="16.67%"></td>
 <td width="16.67%"></td>
 <td width="16.67%"></td>

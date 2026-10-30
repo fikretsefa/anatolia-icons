@@ -24,6 +24,7 @@ pnpm install
    | Belediyeler | `raw-icons/belediye/` |
    | Göktürk alfabesi | `raw-icons/gokturk/` |
    | Anadolu kilim motifleri | `raw-icons/motif/` |
+   | Türkiye Haritası | `raw-icons/turkiye-haritasi/` |
 
    Örnek: `raw-icons/universite/ege-uni.svg`
 

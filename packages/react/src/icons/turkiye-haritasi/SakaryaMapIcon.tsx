@@ -1,0 +1,19 @@
+/* Bu dosya otomatik üretilir (scripts/build-react.mjs). Elle düzenlemeyin. */
+
+import * as React from 'react';
+import type { IconProps } from '../../types';
+
+/**
+ * SakaryaMapIcon SVG ikon bileşeni.
+ * @remarks SVGR pipeline tarafından üretilir; size, color, title ve className destekler.
+ */
+export const SakaryaMapIcon = React.forwardRef<SVGSVGElement, IconProps>(({
+  size = 24,
+  color,
+  title,
+  titleId,
+  className,
+  ...props
+}, ref) => <svg data-anatolia-icons="https://github.com/fikretsefa/anatolia-icons" xmlns="http://www.w3.org/2000/svg" fill="#6f9c76" stroke="#ffffff" strokeLinecap="round" strokeLinejoin="round" strokeWidth={0.5} baseProfile="tiny" viewBox="245.8 76.1 53.41 56.81" width={size} height={size} color={color} className={className} role="img" ref={ref} aria-labelledby={titleId} {...props}>{title ? <title id={titleId}>{title}</title> : null}<path d="m296.8 83.7-.1.6.3 1.9.1 1.3-2.8 2.6-1.6 3.7.3 1.9.8 1.7.2 1.9-.7 1.7.5 1.7.9 1.4-1 2-3 2.3.1 2.1.4 1.9-.6 1.9-3.1 1.5-3.3-.2-1.9 2.9-1.3 3.9-.8.4-.6.7.3 1.6 1 1.2 1.1 2.2-.9 2.3-2.5-.6-3.5.1-.8-.7-1.2-1.8-1.5-.9h-1.8l-1.7-.5-2.1.2-6.6 1.7-4.2-1.3-1.7-1.9-1.9-1.6-1.7-2.5-1.3-2.8-.5-1.3-.2-1.5 3.3-.3 1.5-.5 1.5-.9 3.1-.7 2.8-1.9 1.9-3.9 1.9-9.3 3.1-3.3-.6-.4-.6-.2-.4-1.4.9-.5 1.8.4 1.6.7 2.6-.1.9-.1.3-2.2 1.1-1.9-.3-2.1-3.4-.6-.9-3.2 1.5-3.9.3-.9 12.8 3.1 1.6 1.4.7.4 4.1.8z" /></svg>);
+
+SakaryaMapIcon.displayName = 'SakaryaMapIcon';

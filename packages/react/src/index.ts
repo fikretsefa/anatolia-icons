@@ -9,3 +9,4 @@ export * from './finans';
 export * from './belediye';
 export * from './gokturk';
 export * from './motif';
+export * from './turkiye-haritasi';

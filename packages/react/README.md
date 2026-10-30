@@ -45,6 +45,7 @@ import { GaziUniIcon, OdtuIcon } from '@anatolia-icons/react/universite';
 | `@anatolia-icons/react/belediye` | Belediyeler |
 | `@anatolia-icons/react/gokturk` | Göktürk alfabesi |
 | `@anatolia-icons/react/motif` | Anadolu kilim motifleri |
+| `@anatolia-icons/react/turkiye-haritasi` | Türkiye il haritaları |
 | `@anatolia-icons/react/brands` | Vitrin / filtre için katalog |
 
 Saf SVG dosyaları için [`@anatolia-icons/svg`](https://www.npmjs.com/package/@anatolia-icons/svg) paketini kullanın.

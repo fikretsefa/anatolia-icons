@@ -38,7 +38,8 @@
     "finans",
     "belediye",
     "gokturk",
-    "motif"
+    "motif",
+    "turkiye-haritasi"
   ],
   "exports": {
     "./kamu/*": "./kamu/*",
@@ -47,6 +48,7 @@
     "./finans/*": "./finans/*",
     "./belediye/*": "./belediye/*",
     "./gokturk/*": "./gokturk/*",
-    "./motif/*": "./motif/*"
+    "./motif/*": "./motif/*",
+    "./turkiye-haritasi/*": "./turkiye-haritasi/*"
   }
 }

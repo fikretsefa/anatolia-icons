@@ -1,0 +1,19 @@
+/* Bu dosya otomatik üretilir (scripts/build-react.mjs). Elle düzenlemeyin. */
+
+import * as React from 'react';
+import type { IconProps } from '../../types';
+
+/**
+ * KarabukMapIcon SVG ikon bileşeni.
+ * @remarks SVGR pipeline tarafından üretilir; size, color, title ve className destekler.
+ */
+export const KarabukMapIcon = React.forwardRef<SVGSVGElement, IconProps>(({
+  size = 24,
+  color,
+  title,
+  titleId,
+  className,
+  ...props
+}, ref) => <svg data-anatolia-icons="https://github.com/fikretsefa/anatolia-icons" xmlns="http://www.w3.org/2000/svg" fill="#6f9c76" stroke="#ffffff" strokeLinecap="round" strokeLinejoin="round" strokeWidth={0.5} baseProfile="tiny" viewBox="351.51 50.51 49.78 53.68" width={size} height={size} color={color} className={className} role="img" ref={ref} aria-labelledby={titleId} {...props}>{title ? <title id={titleId}>{title}</title> : null}<path d="m385.2 52.5 1.6 1.8 2.9-.4 3.5-1.2 3.5 2.6 1.3 5.6 1.3 3.1-4.6.9-2.5 2.5-2.2 3-.4 2.1.9 6.8 2.7.4 2.5 1.1 1 1.5.4.8-2 5.1-4.6 2.5-4.6-.5-1.7 1-2.3 4.2-5.6 4.5-4.9 2.3.1-1.7-1.8-3.3-5.4-2.7-2.2-1.4-1.4-.2-1.1-.7v-1.8l.3-1.7-4.1-.9-2.3-.1v-5.6L355 77l.8-3.3 1.7-2.1 2.5-3.5 5.2.2 5-1.3 5.7-4.8 2.1-4.6 2.7-.8z" /></svg>);
+
+KarabukMapIcon.displayName = 'KarabukMapIcon';

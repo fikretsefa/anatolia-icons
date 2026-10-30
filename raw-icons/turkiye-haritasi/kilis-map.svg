@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: SimpleMaps (https://simplemaps.com/svg/country/tr#admin1) - Free for Commercial and Personal Use -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" viewBox="565.96 330.36 44.28 27.28" width="800.0" height="492.86" fill="#6f9c76" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5">
+  <g id="features">
+    <path id="TR79" name="Kilis" d="M608.6 352.8l-3.6 2.4-2-0.1-7.7-1.4-1.1 0.1-3 0.8-0.9-0.1-0.7-0.3-0.8 0-0.9 0.4-0.8 0.7-0.3 0.6-0.5 0.1-0.9-0.5-0.9-0.8-0.2-0.7 0.4-1.9 0-1.2-0.4-0.8-1.4-1.3-0.8-0.7-0.9-0.6-0.9-0.3-0.9-0.2-3-0.2-8.8-3.1 2.6-2.5 4-1.8 3.2-2.2 0.4-3.9 1.5-1.3 1.7 1 1.5 3.3 3.2 0.6 3.7 2.5 3.9 4 2 2.4 1.4-0.9 3.5 1.9 4.4 2.4 4 3.6z" />
+  </g>
+</svg>

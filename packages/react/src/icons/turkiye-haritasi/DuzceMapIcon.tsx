@@ -1,0 +1,19 @@
+/* Bu dosya otomatik üretilir (scripts/build-react.mjs). Elle düzenlemeyin. */
+
+import * as React from 'react';
+import type { IconProps } from '../../types';
+
+/**
+ * DuzceMapIcon SVG ikon bileşeni.
+ * @remarks SVGR pipeline tarafından üretilir; size, color, title ve className destekler.
+ */
+export const DuzceMapIcon = React.forwardRef<SVGSVGElement, IconProps>(({
+  size = 24,
+  color,
+  title,
+  titleId,
+  className,
+  ...props
+}, ref) => <svg data-anatolia-icons="https://github.com/fikretsefa/anatolia-icons" xmlns="http://www.w3.org/2000/svg" fill="#6f9c76" stroke="#ffffff" strokeLinecap="round" strokeLinejoin="round" strokeWidth={0.5} baseProfile="tiny" viewBox="290.94 77.64 47.63 33.63" width={size} height={size} color={color} className={className} role="img" ref={ref} aria-labelledby={titleId} {...props}>{title ? <title id={titleId}>{title}</title> : null}<path d="m315.3 79.4 1.8 1.8 8.2 4 11.5 1.1-.8 5.5-2.3 2.7-4.4 1.1-6.1 1-2.3 1.8-.2 3.3-1.8 4.5-3.6 2.8-4.6.5-5.4-2.3-7.7.3-3.9-1.4 1-2-.9-1.4-.5-1.7.7-1.7-.2-1.9-.8-1.7-.3-1.9 1.6-3.7 2.8-2.6-.1-1.3-.3-1.9.1-.6 6.4-.1 1.2-.7.4-.2.6.1 1 .3h.5l2-.4.3.1.4.3h.3l.3-.1.1-.2.1-.3.3-.2 2-.8 1.5-1z" /></svg>);
+
+DuzceMapIcon.displayName = 'DuzceMapIcon';
