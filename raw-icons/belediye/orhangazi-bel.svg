@@ -8,7 +8,7 @@ viewBox="0 0 23.9 27.87"
  <defs>
   <style type="text/css">
    <![CDATA[
-    .fil0 {fill:#FEFEFE}
+    .fil0 {fill:currentColor}
    ]]>
   </style>
  </defs>
