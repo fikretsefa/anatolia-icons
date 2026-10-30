@@ -316,12 +316,6 @@
           "website": "https://www.ku.edu.tr"
         },
         {
-          "id": "kku",
-          "title": "Kırıkkale Üniversitesi",
-          "hexColor": "#2C3E50",
-          "website": "https://kku.edu.tr"
-        },
-        {
           "id": "ahievran",
           "title": "Kırşehir Ahi Evran Üniversitesi",
           "hexColor": "#0053A2",
@@ -671,12 +665,6 @@
         "website": "https://www.adiyaman.bel.tr"
       },
       {
-        "id": "agri-bel",
-        "title": "Ağrı Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.agri.bel.tr"
-      },
-      {
         "id": "aliaga-bel",
         "title": "Aliağa Belediyesi",
         "hexColor": "#00A0E3",
@@ -815,12 +803,6 @@
         "website": "https://www.biga.bel.tr"
       },
       {
-        "id": "bogazkale-bel",
-        "title": "Boğazkale Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.bogazkale.bel.tr"
-      },
-      {
         "id": "bogazliyan-bel",
         "title": "Boğazlıyan Belediyesi",
         "hexColor": "#2C3E50",
@@ -837,12 +819,6 @@
         "title": "Bozdoğan Belediyesi",
         "hexColor": "#2C3E50",
         "website": "https://www.bozdogan.bel.tr"
-      },
-      {
-        "id": "bozkurt-bel",
-        "title": "Bozkurt Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.bozkurt.bel.tr"
       },
       {
         "id": "buca-bel",
@@ -983,12 +959,6 @@
         "website": "https://www.elmadag.bel.tr"
       },
       {
-        "id": "emet-bel",
-        "title": "Emet Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.emet.bel.tr"
-      },
-      {
         "id": "erdemli-bel",
         "title": "Erdemli Belediyesi",
         "hexColor": "#FFED00",
@@ -1077,12 +1047,6 @@
         "title": "Gümüşgöze Belediyesi",
         "hexColor": "#2B2A29",
         "website": "https://www.gumusgoze.bel.tr"
-      },
-      {
-        "id": "gurcayir-bel",
-        "title": "Gürçayır Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.gurcayir.bel.tr"
       },
       {
         "id": "gurpinar-bel",
@@ -1223,12 +1187,6 @@
         "website": "https://www.kastamonu.bel.tr"
       },
       {
-        "id": "kavakli-bel",
-        "title": "Kavaklı Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.kavakli.bel.tr"
-      },
-      {
         "id": "kayapinar-bel",
         "title": "Kayapınar Belediyesi",
         "hexColor": "#7BC800",
@@ -1269,18 +1227,6 @@
         "title": "Koçarlı Belediyesi",
         "hexColor": "#7E996F",
         "website": "https://www.kocarli.bel.tr"
-      },
-      {
-        "id": "kocasinan-bel",
-        "title": "Kocasinan Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.kocasinan.bel.tr"
-      },
-      {
-        "id": "kofcaz-bel",
-        "title": "Kofçaz Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.kofcaz.bel.tr"
       },
       {
         "id": "konak-bel",
@@ -1361,12 +1307,6 @@
         "website": "https://www.merkezefendi.bel.tr"
       },
       {
-        "id": "mollakoy-bel",
-        "title": "Mollaköy Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.mollakoy.bel.tr"
-      },
-      {
         "id": "mugla-bel",
         "title": "Muğla Büyükşehir Belediyesi",
         "hexColor": "#0D3274",
@@ -1377,12 +1317,6 @@
         "title": "Muratpaşa Belediyesi",
         "hexColor": "#F1872D",
         "website": "https://www.muratpasa.bel.tr"
-      },
-      {
-        "id": "murgul-bel",
-        "title": "Murgul Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.murgul.bel.tr"
       },
       {
         "id": "niksar-bel",
@@ -1445,12 +1379,6 @@
         "website": "https://www.palandoken.bel.tr"
       },
       {
-        "id": "pazaryeri-bel",
-        "title": "Pazaryeri Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.pazaryeri.bel.tr"
-      },
-      {
         "id": "pehlivankoy-bel",
         "title": "Pehlivanköy Belediyesi",
         "hexColor": "#834922",
@@ -1461,12 +1389,6 @@
         "title": "Pendik Belediyesi",
         "hexColor": "#0093C9",
         "website": "https://pendik.net/"
-      },
-      {
-        "id": "pertek-bel",
-        "title": "Pertek Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.pertek.bel.tr"
       },
       {
         "id": "polatli-bel",
@@ -1485,12 +1407,6 @@
         "title": "Sakarya Büyükşehir Belediyesi",
         "hexColor": "#176FC1",
         "website": "http://www.sakarya.bel.tr"
-      },
-      {
-        "id": "saltukova-bel",
-        "title": "Saltukova Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.saltukova.bel.tr"
       },
       {
         "id": "samsun-bel",
@@ -1571,22 +1487,10 @@
         "website": "http://www.sultangazi.gov.tr/"
       },
       {
-        "id": "sultanhani-bel",
-        "title": "Sultanhanı Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.sultanhani.bel.tr"
-      },
-      {
         "id": "tanoba-bel",
         "title": "Tanoba Belediyesi",
         "hexColor": "#3976B3",
         "website": "https://www.tanoba.bel.tr"
-      },
-      {
-        "id": "tefenni-bel",
-        "title": "Tefenni Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.tefenni.bel.tr"
       },
       {
         "id": "tekirdag-bel",
@@ -1631,22 +1535,10 @@
         "website": "https://www.tuncbilek.bel.tr"
       },
       {
-        "id": "turkmen-bel",
-        "title": "Türkmen Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.turkmen.bel.tr"
-      },
-      {
         "id": "tuzla-bel",
         "title": "Tuzla Belediyesi",
         "hexColor": "#5BC5F2",
         "website": "http://www.tuzla.gov.tr"
-      },
-      {
-        "id": "ulus-bel",
-        "title": "Ulus Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.ulus.bel.tr"
       },
       {
         "id": "umraniye-bel",
@@ -1709,12 +1601,6 @@
         "website": "https://www.yarbasi.bel.tr"
       },
       {
-        "id": "yerkoy-bel",
-        "title": "Yerköy Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.yerkoy.bel.tr"
-      },
-      {
         "id": "yesilyurt-bel",
         "title": "Yeşilyurt Belediyesi",
         "hexColor": "#009EC1",
@@ -1731,12 +1617,6 @@
         "title": "Yozgat Belediyesi",
         "hexColor": "#2C3E50",
         "website": "https://www.yozgat.bel.tr"
-      },
-      {
-        "id": "yumurtalik-bel",
-        "title": "Yumurtalık Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.yumurtalik.bel.tr"
       },
       {
         "id": "yunusemre-bel",

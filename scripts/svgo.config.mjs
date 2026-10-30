@@ -406,6 +406,22 @@ function removeEmbeddedRaster() {
   };
 }
 
+/**
+ * Çizilebilir vektör şekil etiketleri.
+ * @remarks Plan `path`, `circle`, `rect` ve `polygon` ister; `polyline`, `ellipse` ve `line` de vektör şekildir.
+ */
+const VECTOR_SHAPE_TAG = /<(?:path|circle|rect|polygon|polyline|ellipse|line)\b/i;
+
+/**
+ * SVG metninde çizilebilir vektör şekil kalıp kalmadığını söyler.
+ * @param {string} svg SVGO çıktısı veya ara metin.
+ * @returns {boolean} Şekil etiketi varsa true.
+ * @remarks `<image>`, `<style>` ve boş gruplar şekil sayılmaz. Böyle bir dosya katalogdan düşülür.
+ */
+export function hasVectorShapes(svg) {
+  return VECTOR_SHAPE_TAG.test(svg);
+}
+
 export default {
   multipass: true,
   plugins: [

@@ -417,13 +417,6 @@ export const brands: BrandCategory[] = [
         "componentName": "KuIcon"
       },
       {
-        "id": "kku",
-        "title": "Kırıkkale Üniversitesi",
-        "hexColor": "#2C3E50",
-        "website": "https://kku.edu.tr",
-        "componentName": "KkuIcon"
-      },
-      {
         "id": "ahievran",
         "title": "Kırşehir Ahi Evran Üniversitesi",
         "hexColor": "#0053A2",
@@ -827,13 +820,6 @@ export const brands: BrandCategory[] = [
         "componentName": "AdiyamanBelIcon"
       },
       {
-        "id": "agri-bel",
-        "title": "Ağrı Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.agri.bel.tr",
-        "componentName": "AgriBelIcon"
-      },
-      {
         "id": "aliaga-bel",
         "title": "Aliağa Belediyesi",
         "hexColor": "#00A0E3",
@@ -995,13 +981,6 @@ export const brands: BrandCategory[] = [
         "componentName": "BigaBelIcon"
       },
       {
-        "id": "bogazkale-bel",
-        "title": "Boğazkale Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.bogazkale.bel.tr",
-        "componentName": "BogazkaleBelIcon"
-      },
-      {
         "id": "bogazliyan-bel",
         "title": "Boğazlıyan Belediyesi",
         "hexColor": "#2C3E50",
@@ -1021,13 +1000,6 @@ export const brands: BrandCategory[] = [
         "hexColor": "#2C3E50",
         "website": "https://www.bozdogan.bel.tr",
         "componentName": "BozdoganBelIcon"
-      },
-      {
-        "id": "bozkurt-bel",
-        "title": "Bozkurt Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.bozkurt.bel.tr",
-        "componentName": "BozkurtBelIcon"
       },
       {
         "id": "buca-bel",
@@ -1191,13 +1163,6 @@ export const brands: BrandCategory[] = [
         "componentName": "ElmadagBelIcon"
       },
       {
-        "id": "emet-bel",
-        "title": "Emet Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.emet.bel.tr",
-        "componentName": "EmetBelIcon"
-      },
-      {
         "id": "erdemli-bel",
         "title": "Erdemli Belediyesi",
         "hexColor": "#FFED00",
@@ -1301,13 +1266,6 @@ export const brands: BrandCategory[] = [
         "hexColor": "#2B2A29",
         "website": "https://www.gumusgoze.bel.tr",
         "componentName": "GumusgozeBelIcon"
-      },
-      {
-        "id": "gurcayir-bel",
-        "title": "Gürçayır Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.gurcayir.bel.tr",
-        "componentName": "GurcayirBelIcon"
       },
       {
         "id": "gurpinar-bel",
@@ -1471,13 +1429,6 @@ export const brands: BrandCategory[] = [
         "componentName": "KastamonuBelIcon"
       },
       {
-        "id": "kavakli-bel",
-        "title": "Kavaklı Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.kavakli.bel.tr",
-        "componentName": "KavakliBelIcon"
-      },
-      {
         "id": "kayapinar-bel",
         "title": "Kayapınar Belediyesi",
         "hexColor": "#7BC800",
@@ -1525,20 +1476,6 @@ export const brands: BrandCategory[] = [
         "hexColor": "#7E996F",
         "website": "https://www.kocarli.bel.tr",
         "componentName": "KocarliBelIcon"
-      },
-      {
-        "id": "kocasinan-bel",
-        "title": "Kocasinan Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.kocasinan.bel.tr",
-        "componentName": "KocasinanBelIcon"
-      },
-      {
-        "id": "kofcaz-bel",
-        "title": "Kofçaz Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.kofcaz.bel.tr",
-        "componentName": "KofcazBelIcon"
       },
       {
         "id": "konak-bel",
@@ -1632,13 +1569,6 @@ export const brands: BrandCategory[] = [
         "componentName": "MerkezefendiBelIcon"
       },
       {
-        "id": "mollakoy-bel",
-        "title": "Mollaköy Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.mollakoy.bel.tr",
-        "componentName": "MollakoyBelIcon"
-      },
-      {
         "id": "mugla-bel",
         "title": "Muğla Büyükşehir Belediyesi",
         "hexColor": "#0D3274",
@@ -1651,13 +1581,6 @@ export const brands: BrandCategory[] = [
         "hexColor": "#F1872D",
         "website": "https://www.muratpasa.bel.tr",
         "componentName": "MuratpasaBelIcon"
-      },
-      {
-        "id": "murgul-bel",
-        "title": "Murgul Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.murgul.bel.tr",
-        "componentName": "MurgulBelIcon"
       },
       {
         "id": "niksar-bel",
@@ -1730,13 +1653,6 @@ export const brands: BrandCategory[] = [
         "componentName": "PalandokenBelIcon"
       },
       {
-        "id": "pazaryeri-bel",
-        "title": "Pazaryeri Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.pazaryeri.bel.tr",
-        "componentName": "PazaryeriBelIcon"
-      },
-      {
         "id": "pehlivankoy-bel",
         "title": "Pehlivanköy Belediyesi",
         "hexColor": "#834922",
@@ -1749,13 +1665,6 @@ export const brands: BrandCategory[] = [
         "hexColor": "#0093C9",
         "website": "https://pendik.net/",
         "componentName": "PendikBelIcon"
-      },
-      {
-        "id": "pertek-bel",
-        "title": "Pertek Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.pertek.bel.tr",
-        "componentName": "PertekBelIcon"
       },
       {
         "id": "polatli-bel",
@@ -1777,13 +1686,6 @@ export const brands: BrandCategory[] = [
         "hexColor": "#176FC1",
         "website": "http://www.sakarya.bel.tr",
         "componentName": "SakaryaBelIcon"
-      },
-      {
-        "id": "saltukova-bel",
-        "title": "Saltukova Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.saltukova.bel.tr",
-        "componentName": "SaltukovaBelIcon"
       },
       {
         "id": "samsun-bel",
@@ -1877,25 +1779,11 @@ export const brands: BrandCategory[] = [
         "componentName": "SultangaziBelIcon"
       },
       {
-        "id": "sultanhani-bel",
-        "title": "Sultanhanı Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.sultanhani.bel.tr",
-        "componentName": "SultanhaniBelIcon"
-      },
-      {
         "id": "tanoba-bel",
         "title": "Tanoba Belediyesi",
         "hexColor": "#3976B3",
         "website": "https://www.tanoba.bel.tr",
         "componentName": "TanobaBelIcon"
-      },
-      {
-        "id": "tefenni-bel",
-        "title": "Tefenni Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.tefenni.bel.tr",
-        "componentName": "TefenniBelIcon"
       },
       {
         "id": "tekirdag-bel",
@@ -1947,25 +1835,11 @@ export const brands: BrandCategory[] = [
         "componentName": "TuncbilekBelIcon"
       },
       {
-        "id": "turkmen-bel",
-        "title": "Türkmen Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.turkmen.bel.tr",
-        "componentName": "TurkmenBelIcon"
-      },
-      {
         "id": "tuzla-bel",
         "title": "Tuzla Belediyesi",
         "hexColor": "#5BC5F2",
         "website": "http://www.tuzla.gov.tr",
         "componentName": "TuzlaBelIcon"
-      },
-      {
-        "id": "ulus-bel",
-        "title": "Ulus Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.ulus.bel.tr",
-        "componentName": "UlusBelIcon"
       },
       {
         "id": "umraniye-bel",
@@ -2038,13 +1912,6 @@ export const brands: BrandCategory[] = [
         "componentName": "YarbasiBelIcon"
       },
       {
-        "id": "yerkoy-bel",
-        "title": "Yerköy Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.yerkoy.bel.tr",
-        "componentName": "YerkoyBelIcon"
-      },
-      {
         "id": "yesilyurt-bel",
         "title": "Yeşilyurt Belediyesi",
         "hexColor": "#009EC1",
@@ -2064,13 +1931,6 @@ export const brands: BrandCategory[] = [
         "hexColor": "#2C3E50",
         "website": "https://www.yozgat.bel.tr",
         "componentName": "YozgatBelIcon"
-      },
-      {
-        "id": "yumurtalik-bel",
-        "title": "Yumurtalık Belediyesi",
-        "hexColor": "#2C3E50",
-        "website": "https://www.yumurtalik.bel.tr",
-        "componentName": "YumurtalikBelIcon"
       },
       {
         "id": "yunusemre-bel",

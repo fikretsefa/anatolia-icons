@@ -43,7 +43,6 @@ export { KafkasIcon } from './icons/universite/KafkasIcon';
 export { KtuIcon } from './icons/universite/KtuIcon';
 export { KtunIcon } from './icons/universite/KtunIcon';
 export { KuIcon } from './icons/universite/KuIcon';
-export { KkuIcon } from './icons/universite/KkuIcon';
 export { AhievranIcon } from './icons/universite/AhievranIcon';
 export { LokmanhekimIcon } from './icons/universite/LokmanhekimIcon';
 export { OzalIcon } from './icons/universite/OzalIcon';

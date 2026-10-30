@@ -28,7 +28,7 @@ Türk kamu kurumları, üniversiteler, teknoloji ve ödeme markalarının SVG lo
   <img src="docs/readme/motif/hayat-agaci.svg" width="40" height="40" alt="Hayat Ağacı" />
 </p>
 
-344 ikon · 7 kategori. Tam liste aşağıda: [İkon kataloğu](#ikon-kataloğu).
+324 ikon · 7 kategori. Tam liste aşağıda: [İkon kataloğu](#ikon-kataloğu).
 
 ## Kurulum
 
@@ -401,11 +401,6 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><code>KuIcon</code></sub>
 </td>
 <td align="center" valign="top" width="16.67%">
-<img src="docs/readme/universite/kku.svg" width="48" height="48" alt="Kırıkkale Üniversitesi" /><br/>
-<sub><b>Kırıkkale Üniversitesi</b></sub><br/>
-<sub><code>KkuIcon</code></sub>
-</td>
-<td align="center" valign="top" width="16.67%">
 <img src="docs/readme/universite/ahievran.svg" width="48" height="48" alt="Kırşehir Ahi Evran Üniversitesi" /><br/>
 <sub><b>Kırşehir Ahi Evran Üniversitesi</b></sub><br/>
 <sub><code>AhievranIcon</code></sub>
@@ -420,13 +415,13 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Malatya Turgut Özal Üniversitesi</b></sub><br/>
 <sub><code>OzalIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/universite/artuklu.svg" width="48" height="48" alt="Mardin Artuklu Üniversitesi" /><br/>
 <sub><b>Mardin Artuklu Üniversitesi</b></sub><br/>
 <sub><code>ArtukluIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/universite/marmara.svg" width="48" height="48" alt="Marmara Üniversitesi" /><br/>
 <sub><b>Marmara Üniversitesi</b></sub><br/>
@@ -452,13 +447,13 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Muğla Sıtkı Koçman Üniversitesi</b></sub><br/>
 <sub><code>MuIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/universite/alparslan.svg" width="48" height="48" alt="Muş Alparslan Üniversitesi" /><br/>
 <sub><b>Muş Alparslan Üniversitesi</b></sub><br/>
 <sub><code>AlparslanIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/universite/ohu.svg" width="48" height="48" alt="Niğde Ömer Halisdemir Üniversitesi" /><br/>
 <sub><b>Niğde Ömer Halisdemir Üniversitesi</b></sub><br/>
@@ -484,13 +479,13 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Sabancı Üniversitesi</b></sub><br/>
 <sub><code>SabanciunivIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/universite/subu.svg" width="48" height="48" alt="Sakarya Uygulamalı Bilimler Üniversitesi" /><br/>
 <sub><b>Sakarya Uygulamalı Bilimler Üniversitesi</b></sub><br/>
 <sub><code>SubuIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/universite/sakarya.svg" width="48" height="48" alt="Sakarya Üniversitesi" /><br/>
 <sub><b>Sakarya Üniversitesi</b></sub><br/>
@@ -516,13 +511,13 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Tokat Gaziosmanpaşa Üniversitesi</b></sub><br/>
 <sub><code>GopIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/universite/usak.svg" width="48" height="48" alt="Uşak Üniversitesi" /><br/>
 <sub><b>Uşak Üniversitesi</b></sub><br/>
 <sub><code>UsakIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/universite/yildiz.svg" width="48" height="48" alt="Yıldız Teknik Üniversitesi" /><br/>
 <sub><b>Yıldız Teknik Üniversitesi</b></sub><br/>
@@ -548,13 +543,13 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>İbn Haldun Üniversitesi</b></sub><br/>
 <sub><code>IhuIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/universite/29mayis.svg" width="48" height="48" alt="İstanbul 29 Mayıs Üniversitesi" /><br/>
 <sub><b>İstanbul 29 Mayıs Üniversitesi</b></sub><br/>
 <sub><code>YirmiDokuzMayisIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/universite/arel.svg" width="48" height="48" alt="İstanbul Arel Üniversitesi" /><br/>
 <sub><b>İstanbul Arel Üniversitesi</b></sub><br/>
@@ -580,13 +575,13 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>İstanbul Kültür Üniversitesi</b></sub><br/>
 <sub><code>IkuIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/universite/medeniyet.svg" width="48" height="48" alt="İstanbul Medeniyet Üniversitesi" /><br/>
 <sub><b>İstanbul Medeniyet Üniversitesi</b></sub><br/>
 <sub><code>MedeniyetIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/universite/istun.svg" width="48" height="48" alt="İstanbul Sağlık ve Teknoloji Üniversitesi" /><br/>
 <sub><b>İstanbul Sağlık ve Teknoloji Üniversitesi</b></sub><br/>
@@ -612,18 +607,19 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>İstanbul Şişli Meslek Yüksekokulu</b></sub><br/>
 <sub><code>SisliIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/universite/istinye.svg" width="48" height="48" alt="İstinye Üniversitesi" /><br/>
 <sub><b>İstinye Üniversitesi</b></sub><br/>
 <sub><code>IstinyeIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/universite/bakircay.svg" width="48" height="48" alt="İzmir Bakırçay Üniversitesi" /><br/>
 <sub><b>İzmir Bakırçay Üniversitesi</b></sub><br/>
 <sub><code>BakircayIcon</code></sub>
 </td>
+<td width="16.67%"></td>
 <td width="16.67%"></td>
 <td width="16.67%"></td>
 <td width="16.67%"></td>
@@ -723,17 +719,12 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><code>AdiyamanBelIcon</code></sub>
 </td>
 <td align="center" valign="top" width="16.67%">
-<img src="docs/readme/belediye/agri-bel.svg" width="48" height="48" alt="Ağrı Belediyesi" /><br/>
-<sub><b>Ağrı Belediyesi</b></sub><br/>
-<sub><code>AgriBelIcon</code></sub>
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/aliaga-bel.svg" width="48" height="48" alt="Aliağa Belediyesi" /><br/>
 <sub><b>Aliağa Belediyesi</b></sub><br/>
 <sub><code>AliagaBelIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/altindag-bel.svg" width="48" height="48" alt="Altındağ Belediyesi" /><br/>
 <sub><b>Altındağ Belediyesi</b></sub><br/>
@@ -759,13 +750,13 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Arnavutköy Belediyesi</b></sub><br/>
 <sub><code>ArnavutkoyBelIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/arsin-bel.svg" width="48" height="48" alt="Arsin Belediyesi" /><br/>
 <sub><b>Arsin Belediyesi</b></sub><br/>
 <sub><code>ArsinBelIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/arsuz-bel.svg" width="48" height="48" alt="Arsuz Belediyesi" /><br/>
 <sub><b>Arsuz Belediyesi</b></sub><br/>
@@ -791,13 +782,13 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Aydıntepe Belediyesi</b></sub><br/>
 <sub><code>AydintepeBelIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/ayvalik-bel.svg" width="48" height="48" alt="Ayvalık Belediyesi" /><br/>
 <sub><b>Ayvalık Belediyesi</b></sub><br/>
 <sub><code>AyvalikBelIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/bahcelievler-bel.svg" width="48" height="48" alt="Bahçelievler Belediyesi" /><br/>
 <sub><b>Bahçelievler Belediyesi</b></sub><br/>
@@ -823,13 +814,13 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Bayburt Belediyesi</b></sub><br/>
 <sub><code>BayburtBelIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/bayrakli-bel.svg" width="48" height="48" alt="Bayraklı Belediyesi" /><br/>
 <sub><b>Bayraklı Belediyesi</b></sub><br/>
 <sub><code>BayrakliBelIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/beyagac-bel.svg" width="48" height="48" alt="Beyağaç Belediyesi" /><br/>
 <sub><b>Beyağaç Belediyesi</b></sub><br/>
@@ -851,13 +842,6 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><code>BigaBelIcon</code></sub>
 </td>
 <td align="center" valign="top" width="16.67%">
-<img src="docs/readme/belediye/bogazkale-bel.svg" width="48" height="48" alt="Boğazkale Belediyesi" /><br/>
-<sub><b>Boğazkale Belediyesi</b></sub><br/>
-<sub><code>BogazkaleBelIcon</code></sub>
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/bogazliyan-bel.svg" width="48" height="48" alt="Boğazlıyan Belediyesi" /><br/>
 <sub><b>Boğazlıyan Belediyesi</b></sub><br/>
 <sub><code>BogazliyanBelIcon</code></sub>
@@ -867,15 +851,12 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Bornova Belediyesi</b></sub><br/>
 <sub><code>BornovaBelIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/bozdogan-bel.svg" width="48" height="48" alt="Bozdoğan Belediyesi" /><br/>
 <sub><b>Bozdoğan Belediyesi</b></sub><br/>
 <sub><code>BozdoganBelIcon</code></sub>
-</td>
-<td align="center" valign="top" width="16.67%">
-<img src="docs/readme/belediye/bozkurt-bel.svg" width="48" height="48" alt="Bozkurt Belediyesi" /><br/>
-<sub><b>Bozkurt Belediyesi</b></sub><br/>
-<sub><code>BozkurtBelIcon</code></sub>
 </td>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/buca-bel.svg" width="48" height="48" alt="Buca Belediyesi" /><br/>
@@ -887,8 +868,6 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Bursa Büyükşehir Belediyesi</b></sub><br/>
 <sub><code>BursaBelIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/cadirkaya-bel.svg" width="48" height="48" alt="Çadırkaya Belediyesi" /><br/>
 <sub><b>Çadırkaya Belediyesi</b></sub><br/>
@@ -904,6 +883,8 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Çankırı Belediyesi</b></sub><br/>
 <sub><code>CankiriBelIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/caybasi-bel.svg" width="48" height="48" alt="Çaybaşı Belediyesi" /><br/>
 <sub><b>Çaybaşı Belediyesi</b></sub><br/>
@@ -919,8 +900,6 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Çayırova Belediyesi</b></sub><br/>
 <sub><code>CayirovaBelIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/cekmekoy-bel.svg" width="48" height="48" alt="Çekmeköy Belediyesi" /><br/>
 <sub><b>Çekmeköy Belediyesi</b></sub><br/>
@@ -936,6 +915,8 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Çerkezköy Belediyesi</b></sub><br/>
 <sub><code>CerkezkoyBelIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/cesme-bel.svg" width="48" height="48" alt="Çeşme Belediyesi" /><br/>
 <sub><b>Çeşme Belediyesi</b></sub><br/>
@@ -951,8 +932,6 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Çukurca Belediyesi</b></sub><br/>
 <sub><code>CukurcaBelIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/cumayeri-bel.svg" width="48" height="48" alt="Cumayeri Belediyesi" /><br/>
 <sub><b>Cumayeri Belediyesi</b></sub><br/>
@@ -968,6 +947,8 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Demirözü Belediyesi</b></sub><br/>
 <sub><code>DemirozuBelIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/dumlupinar-bel.svg" width="48" height="48" alt="Dumlupınar Belediyesi" /><br/>
 <sub><b>Dumlupınar Belediyesi</b></sub><br/>
@@ -983,8 +964,6 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Düziçi Belediyesi</b></sub><br/>
 <sub><code>DuziciBelIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/edirne-bel.svg" width="48" height="48" alt="Edirne Belediyesi" /><br/>
 <sub><b>Edirne Belediyesi</b></sub><br/>
@@ -1000,11 +979,8 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Elmadağ Belediyesi</b></sub><br/>
 <sub><code>ElmadagBelIcon</code></sub>
 </td>
-<td align="center" valign="top" width="16.67%">
-<img src="docs/readme/belediye/emet-bel.svg" width="48" height="48" alt="Emet Belediyesi" /><br/>
-<sub><b>Emet Belediyesi</b></sub><br/>
-<sub><code>EmetBelIcon</code></sub>
-</td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/erdemli-bel.svg" width="48" height="48" alt="Erdemli Belediyesi" /><br/>
 <sub><b>Erdemli Belediyesi</b></sub><br/>
@@ -1015,8 +991,6 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Ereğli Belediyesi</b></sub><br/>
 <sub><code>EregliBelIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/erenler-bel.svg" width="48" height="48" alt="Erenler Belediyesi" /><br/>
 <sub><b>Erenler Belediyesi</b></sub><br/>
@@ -1037,6 +1011,8 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Eşme Belediyesi</b></sub><br/>
 <sub><code>EsmeBelIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/eynesil-bel.svg" width="48" height="48" alt="Eynesil Belediyesi" /><br/>
 <sub><b>Eynesil Belediyesi</b></sub><br/>
@@ -1047,8 +1023,6 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Fatih Belediyesi</b></sub><br/>
 <sub><code>FatihBelIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/fethiye-bel.svg" width="48" height="48" alt="Fethiye Belediyesi" /><br/>
 <sub><b>Fethiye Belediyesi</b></sub><br/>
@@ -1069,6 +1043,8 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Adıyaman Gölbaşı Belediyesi</b></sub><br/>
 <sub><code>GolbasiBelIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/golbasi-ankara-bel.svg" width="48" height="48" alt="Ankara Gölbaşı Belediyesi" /><br/>
 <sub><b>Ankara Gölbaşı Belediyesi</b></sub><br/>
@@ -1079,17 +1055,10 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Gölyaka Belediyesi</b></sub><br/>
 <sub><code>GolyakaBelIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/gumusgoze-bel.svg" width="48" height="48" alt="Gümüşgöze Belediyesi" /><br/>
 <sub><b>Gümüşgöze Belediyesi</b></sub><br/>
 <sub><code>GumusgozeBelIcon</code></sub>
-</td>
-<td align="center" valign="top" width="16.67%">
-<img src="docs/readme/belediye/gurcayir-bel.svg" width="48" height="48" alt="Gürçayır Belediyesi" /><br/>
-<sub><b>Gürçayır Belediyesi</b></sub><br/>
-<sub><code>GurcayirBelIcon</code></sub>
 </td>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/gurpinar-bel.svg" width="48" height="48" alt="Gürpınar Belediyesi" /><br/>
@@ -1106,13 +1075,13 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Haymana Belediyesi</b></sub><br/>
 <sub><code>HaymanaBelIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/hendek-bel.svg" width="48" height="48" alt="Hendek Belediyesi" /><br/>
 <sub><b>Hendek Belediyesi</b></sub><br/>
 <sub><code>HendekBelIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/huyuk-bel.svg" width="48" height="48" alt="Hüyük Belediyesi" /><br/>
 <sub><b>Hüyük Belediyesi</b></sub><br/>
@@ -1138,13 +1107,13 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Isparta Belediyesi</b></sub><br/>
 <sub><code>IspartaBelIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/izmir-bel.svg" width="48" height="48" alt="İzmir Büyükşehir Belediyesi" /><br/>
 <sub><b>İzmir Büyükşehir Belediyesi</b></sub><br/>
 <sub><code>IzmirBelIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/izmit-bel.svg" width="48" height="48" alt="İzmit Belediyesi" /><br/>
 <sub><b>İzmit Belediyesi</b></sub><br/>
@@ -1170,13 +1139,13 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Kalkandere Belediyesi</b></sub><br/>
 <sub><code>KalkandereBelIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/karabaglar-bel.svg" width="48" height="48" alt="Karabağlar Belediyesi" /><br/>
 <sub><b>Karabağlar Belediyesi</b></sub><br/>
 <sub><code>KarabaglarBelIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/karaburun-bel.svg" width="48" height="48" alt="Karaburun Belediyesi" /><br/>
 <sub><b>Karaburun Belediyesi</b></sub><br/>
@@ -1202,22 +1171,17 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Karesi Belediyesi</b></sub><br/>
 <sub><code>KaresiBelIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/karsiyaka-bel.svg" width="48" height="48" alt="Karşıyaka Belediyesi" /><br/>
 <sub><b>Karşıyaka Belediyesi</b></sub><br/>
 <sub><code>KarsiyakaBelIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/kastamonu-bel.svg" width="48" height="48" alt="Kastamonu Belediyesi" /><br/>
 <sub><b>Kastamonu Belediyesi</b></sub><br/>
 <sub><code>KastamonuBelIcon</code></sub>
-</td>
-<td align="center" valign="top" width="16.67%">
-<img src="docs/readme/belediye/kavakli-bel.svg" width="48" height="48" alt="Kavaklı Belediyesi" /><br/>
-<sub><b>Kavaklı Belediyesi</b></sub><br/>
-<sub><code>KavakliBelIcon</code></sub>
 </td>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/kayapinar-bel.svg" width="48" height="48" alt="Kayapınar Belediyesi" /><br/>
@@ -1257,22 +1221,10 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><code>KocarliBelIcon</code></sub>
 </td>
 <td align="center" valign="top" width="16.67%">
-<img src="docs/readme/belediye/kocasinan-bel.svg" width="48" height="48" alt="Kocasinan Belediyesi" /><br/>
-<sub><b>Kocasinan Belediyesi</b></sub><br/>
-<sub><code>KocasinanBelIcon</code></sub>
-</td>
-<td align="center" valign="top" width="16.67%">
-<img src="docs/readme/belediye/kofcaz-bel.svg" width="48" height="48" alt="Kofçaz Belediyesi" /><br/>
-<sub><b>Kofçaz Belediyesi</b></sub><br/>
-<sub><code>KofcazBelIcon</code></sub>
-</td>
-<td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/konak-bel.svg" width="48" height="48" alt="Konak Belediyesi" /><br/>
 <sub><b>Konak Belediyesi</b></sub><br/>
 <sub><code>KonakBelIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/konyaalti-bel.svg" width="48" height="48" alt="Konyaaltı Belediyesi" /><br/>
 <sub><b>Konyaaltı Belediyesi</b></sub><br/>
@@ -1283,6 +1235,8 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Koru Belediyesi</b></sub><br/>
 <sub><code>KoruBelIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/kovancilar-bel.svg" width="48" height="48" alt="Kovancılar Belediyesi" /><br/>
 <sub><b>Kovancılar Belediyesi</b></sub><br/>
@@ -1303,8 +1257,6 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Kuleönü Belediyesi</b></sub><br/>
 <sub><code>KuleonuBelIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/kusadasi-bel.svg" width="48" height="48" alt="Kuşadası Belediyesi" /><br/>
 <sub><b>Kuşadası Belediyesi</b></sub><br/>
@@ -1315,6 +1267,8 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Kuyucak Belediyesi</b></sub><br/>
 <sub><code>KuyucakBelIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/luleburgaz-bel.svg" width="48" height="48" alt="Lüleburgaz Belediyesi" /><br/>
 <sub><b>Lüleburgaz Belediyesi</b></sub><br/>
@@ -1335,13 +1289,6 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Merkezefendi Belediyesi</b></sub><br/>
 <sub><code>MerkezefendiBelIcon</code></sub>
 </td>
-</tr>
-<tr>
-<td align="center" valign="top" width="16.67%">
-<img src="docs/readme/belediye/mollakoy-bel.svg" width="48" height="48" alt="Mollaköy Belediyesi" /><br/>
-<sub><b>Mollaköy Belediyesi</b></sub><br/>
-<sub><code>MollakoyBelIcon</code></sub>
-</td>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/mugla-bel.svg" width="48" height="48" alt="Muğla Büyükşehir Belediyesi" /><br/>
 <sub><b>Muğla Büyükşehir Belediyesi</b></sub><br/>
@@ -1352,11 +1299,8 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Muratpaşa Belediyesi</b></sub><br/>
 <sub><code>MuratpasaBelIcon</code></sub>
 </td>
-<td align="center" valign="top" width="16.67%">
-<img src="docs/readme/belediye/murgul-bel.svg" width="48" height="48" alt="Murgul Belediyesi" /><br/>
-<sub><b>Murgul Belediyesi</b></sub><br/>
-<sub><code>MurgulBelIcon</code></sub>
-</td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/niksar-bel.svg" width="48" height="48" alt="Niksar Belediyesi" /><br/>
 <sub><b>Niksar Belediyesi</b></sub><br/>
@@ -1367,8 +1311,6 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Nilüfer Belediyesi</b></sub><br/>
 <sub><code>NiluferBelIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/nurdagi-bel.svg" width="48" height="48" alt="Nurdağı Belediyesi" /><br/>
 <sub><b>Nurdağı Belediyesi</b></sub><br/>
@@ -1389,6 +1331,8 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Ören Belediyesi</b></sub><br/>
 <sub><code>OrenBelIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/orhaneli-bel.svg" width="48" height="48" alt="Orhaneli Belediyesi" /><br/>
 <sub><b>Orhaneli Belediyesi</b></sub><br/>
@@ -1399,8 +1343,6 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Orhangazi Belediyesi</b></sub><br/>
 <sub><code>OrhangaziBelIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/osmaniye-bel.svg" width="48" height="48" alt="Osmaniye Belediyesi" /><br/>
 <sub><b>Osmaniye Belediyesi</b></sub><br/>
@@ -1412,11 +1354,6 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><code>PalandokenBelIcon</code></sub>
 </td>
 <td align="center" valign="top" width="16.67%">
-<img src="docs/readme/belediye/pazaryeri-bel.svg" width="48" height="48" alt="Pazaryeri Belediyesi" /><br/>
-<sub><b>Pazaryeri Belediyesi</b></sub><br/>
-<sub><code>PazaryeriBelIcon</code></sub>
-</td>
-<td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/pehlivankoy-bel.svg" width="48" height="48" alt="Pehlivanköy Belediyesi" /><br/>
 <sub><b>Pehlivanköy Belediyesi</b></sub><br/>
 <sub><code>PehlivankoyBelIcon</code></sub>
@@ -1425,11 +1362,6 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <img src="docs/readme/belediye/pendik-bel.svg" width="48" height="48" alt="Pendik Belediyesi" /><br/>
 <sub><b>Pendik Belediyesi</b></sub><br/>
 <sub><code>PendikBelIcon</code></sub>
-</td>
-<td align="center" valign="top" width="16.67%">
-<img src="docs/readme/belediye/pertek-bel.svg" width="48" height="48" alt="Pertek Belediyesi" /><br/>
-<sub><b>Pertek Belediyesi</b></sub><br/>
-<sub><code>PertekBelIcon</code></sub>
 </td>
 </tr>
 <tr>
@@ -1449,11 +1381,6 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><code>SakaryaBelIcon</code></sub>
 </td>
 <td align="center" valign="top" width="16.67%">
-<img src="docs/readme/belediye/saltukova-bel.svg" width="48" height="48" alt="Saltukova Belediyesi" /><br/>
-<sub><b>Saltukova Belediyesi</b></sub><br/>
-<sub><code>SaltukovaBelIcon</code></sub>
-</td>
-<td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/samsun-bel.svg" width="48" height="48" alt="Samsun Büyükşehir Belediyesi" /><br/>
 <sub><b>Samsun Büyükşehir Belediyesi</b></sub><br/>
 <sub><code>SamsunBelIcon</code></sub>
@@ -1463,13 +1390,13 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Selçuklu Belediyesi</b></sub><br/>
 <sub><code>SelcukluBelIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/seydisehir-bel.svg" width="48" height="48" alt="Seydişehir Belediyesi" /><br/>
 <sub><b>Seydişehir Belediyesi</b></sub><br/>
 <sub><code>SeydisehirBelIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/seyitgazi-bel.svg" width="48" height="48" alt="Seyitgazi Belediyesi" /><br/>
 <sub><b>Seyitgazi Belediyesi</b></sub><br/>
@@ -1495,13 +1422,13 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Sızır Belediyesi</b></sub><br/>
 <sub><code>SizirBelIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/soke-bel.svg" width="48" height="48" alt="Söke Belediyesi" /><br/>
 <sub><b>Söke Belediyesi</b></sub><br/>
 <sub><code>SokeBelIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/suhut-bel.svg" width="48" height="48" alt="Şuhut Belediyesi" /><br/>
 <sub><b>Şuhut Belediyesi</b></sub><br/>
@@ -1523,27 +1450,17 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><code>SultangaziBelIcon</code></sub>
 </td>
 <td align="center" valign="top" width="16.67%">
-<img src="docs/readme/belediye/sultanhani-bel.svg" width="48" height="48" alt="Sultanhanı Belediyesi" /><br/>
-<sub><b>Sultanhanı Belediyesi</b></sub><br/>
-<sub><code>SultanhaniBelIcon</code></sub>
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/tanoba-bel.svg" width="48" height="48" alt="Tanoba Belediyesi" /><br/>
 <sub><b>Tanoba Belediyesi</b></sub><br/>
 <sub><code>TanobaBelIcon</code></sub>
-</td>
-<td align="center" valign="top" width="16.67%">
-<img src="docs/readme/belediye/tefenni-bel.svg" width="48" height="48" alt="Tefenni Belediyesi" /><br/>
-<sub><b>Tefenni Belediyesi</b></sub><br/>
-<sub><code>TefenniBelIcon</code></sub>
 </td>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/tekirdag-bel.svg" width="48" height="48" alt="Tekirdağ Büyükşehir Belediyesi" /><br/>
 <sub><b>Tekirdağ Büyükşehir Belediyesi</b></sub><br/>
 <sub><code>TekirdagBelIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/tepebasi-bel.svg" width="48" height="48" alt="Tepebaşı Belediyesi" /><br/>
 <sub><b>Tepebaşı Belediyesi</b></sub><br/>
@@ -1559,8 +1476,6 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Tillo Belediyesi</b></sub><br/>
 <sub><code>TilloBelIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/tirebolu-bel.svg" width="48" height="48" alt="Tirebolu Belediyesi" /><br/>
 <sub><b>Tirebolu Belediyesi</b></sub><br/>
@@ -1576,23 +1491,13 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Tunçbilek Belediyesi</b></sub><br/>
 <sub><code>TuncbilekBelIcon</code></sub>
 </td>
-<td align="center" valign="top" width="16.67%">
-<img src="docs/readme/belediye/turkmen-bel.svg" width="48" height="48" alt="Türkmen Belediyesi" /><br/>
-<sub><b>Türkmen Belediyesi</b></sub><br/>
-<sub><code>TurkmenBelIcon</code></sub>
-</td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/tuzla-bel.svg" width="48" height="48" alt="Tuzla Belediyesi" /><br/>
 <sub><b>Tuzla Belediyesi</b></sub><br/>
 <sub><code>TuzlaBelIcon</code></sub>
 </td>
-<td align="center" valign="top" width="16.67%">
-<img src="docs/readme/belediye/ulus-bel.svg" width="48" height="48" alt="Ulus Belediyesi" /><br/>
-<sub><b>Ulus Belediyesi</b></sub><br/>
-<sub><code>UlusBelIcon</code></sub>
-</td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/umraniye-bel.svg" width="48" height="48" alt="Ümraniye Belediyesi" /><br/>
 <sub><b>Ümraniye Belediyesi</b></sub><br/>
@@ -1618,13 +1523,13 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><b>Van Büyükşehir Belediyesi</b></sub><br/>
 <sub><code>VanBelIcon</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/vize-bel.svg" width="48" height="48" alt="Vize Belediyesi" /><br/>
 <sub><b>Vize Belediyesi</b></sub><br/>
 <sub><code>VizeBelIcon</code></sub>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/yakutiye-bel.svg" width="48" height="48" alt="Yakutiye Belediyesi" /><br/>
 <sub><b>Yakutiye Belediyesi</b></sub><br/>
@@ -1646,11 +1551,6 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><code>YarbasiBelIcon</code></sub>
 </td>
 <td align="center" valign="top" width="16.67%">
-<img src="docs/readme/belediye/yerkoy-bel.svg" width="48" height="48" alt="Yerköy Belediyesi" /><br/>
-<sub><b>Yerköy Belediyesi</b></sub><br/>
-<sub><code>YerkoyBelIcon</code></sub>
-</td>
-<td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/yesilyurt-bel.svg" width="48" height="48" alt="Yeşilyurt Belediyesi" /><br/>
 <sub><b>Yeşilyurt Belediyesi</b></sub><br/>
 <sub><code>YesilyurtBelIcon</code></sub>
@@ -1668,15 +1568,11 @@ Bu ızgara `brands.json` üzerinden otomatik üretilir; elle düzenlemeyin. Yeni
 <sub><code>YozgatBelIcon</code></sub>
 </td>
 <td align="center" valign="top" width="16.67%">
-<img src="docs/readme/belediye/yumurtalik-bel.svg" width="48" height="48" alt="Yumurtalık Belediyesi" /><br/>
-<sub><b>Yumurtalık Belediyesi</b></sub><br/>
-<sub><code>YumurtalikBelIcon</code></sub>
-</td>
-<td align="center" valign="top" width="16.67%">
 <img src="docs/readme/belediye/yunusemre-bel.svg" width="48" height="48" alt="Yunusemre Belediyesi" /><br/>
 <sub><b>Yunusemre Belediyesi</b></sub><br/>
 <sub><code>YunusemreBelIcon</code></sub>
 </td>
+<td width="16.67%"></td>
 <td width="16.67%"></td>
 <td width="16.67%"></td>
 </tr>
