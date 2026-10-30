@@ -782,7 +782,7 @@ export const brands: BrandCategory[] = [
   },
   {
     "category": "belediye",
-    "categoryTitle": "Büyükşehir Belediyeleri",
+    "categoryTitle": "Belediyeler",
     "icons": [
       {
         "id": "ibb",

@@ -21,7 +21,7 @@ pnpm install
    | Devlet üniversiteleri | `raw-icons/universite/` |
    | Teknoloji, savunma & açık kaynak | `raw-icons/teknoloji/` |
    | Finans & ödeme | `raw-icons/finans/` |
-   | Büyükşehir belediyeleri | `raw-icons/belediye/` |
+   | Belediyeler | `raw-icons/belediye/` |
    | Göktürk alfabesi | `raw-icons/gokturk/` |
    | Anadolu kilim motifleri | `raw-icons/motif/` |
 
@@ -56,7 +56,8 @@ pnpm install
 
 - Kaynak `viewBox` korunsun; zorunlu 24×24 karesi yoktur.
 - Mümkünse tek renkli veya sadeleştirilmiş marka silüeti kullanın.
-- Gizli katman, gömülü raster, editör metadata'sı ve `width`/`height` SVGO tarafından temizlenir.
+- Gizli katman, editör metadata'sı ve `width`/`height` SVGO tarafından temizlenir.
+- Gömülü veya harici raster kabul edilmez. `<image>` içindeki PNG/WebP (geçersiz `data:img/png` dahil) ve harici `.png` başvuruları SVGO tarafından silinir. Temizlikten sonra vektör şekil (`path`, `circle`, `rect`, `polygon` ve benzeri) kalmayan dosya katalogdan çıkarılır. `data:image/svg+xml` sarmalayıcısı açılır ve içindeki vektör kullanılır.
 - Gerçek logoları `raw-icons` altına koyun; mevcut geometrik dosyalar yalnızca pipeline placeholder'ıdır.
 
 ## Yeni kategori
