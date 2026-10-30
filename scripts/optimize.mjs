@@ -1,13 +1,14 @@
 /**
  * @fileoverview Ham SVG dosyalarını SVGO ile temizleyip `packages/svg` altına yazar.
  * @remarks Kaynak yolu `raw-icons/<category>/<id>.svg`; çıktı `packages/svg/<category>/<id>.svg`.
+ * SVGO öncesi gömülü SVG data URI açılır; SVGO raster `<image>` öğelerini siler.
  * SVGO sonrası `stampOptimizedSvg` yorum ve `data-anatolia-icons` damgası basar.
  */
 import path from 'node:path';
 import { glob } from 'node:fs/promises';
 import fs from 'fs-extra';
 import { optimize } from 'svgo';
-import svgoConfig from './svgo.config.mjs';
+import svgoConfig, { prepareIconSvg } from './svgo.config.mjs';
 import {
   flattenIcons,
   getRootDir,
@@ -56,7 +57,16 @@ async function optimizeIcons() {
     }
 
     const sourcePath = path.join(rootDir, relativeFile);
-    const svgSource = await fs.readFile(sourcePath, 'utf8');
+    /** @type {string} Ham SVG; gömülü `data:image/svg+xml` varsa iç belgeye açılır. */
+    let svgSource = await fs.readFile(sourcePath, 'utf8');
+    try {
+      svgSource = prepareIconSvg(svgSource);
+    } catch (error) {
+      /** @type {string} Açma hatasının okunur metni. */
+      const message = error instanceof Error ? error.message : String(error);
+      throw new Error(`Gömülü SVG açılamadı (${relativeFile}): ${message}`);
+    }
+
     const result = optimize(svgSource, {
       path: sourcePath,
       multipass: svgoConfig.multipass,
